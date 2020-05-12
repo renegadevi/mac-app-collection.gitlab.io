@@ -30,7 +30,7 @@ Due to the growth like many other store fronts, sooner or later it gets hard to 
 
 ## Help me improve the list
 
-This list is by no mean perfect. If you want to add a software to the list or change things up, please give me feedback trough the links in the top right coner.
+This list is by no mean perfect. If you want to add a software to the list or change things up, please give me feedback trough the links in the top right coner or suggest a change on the specific category page.
 
 
 ## The curation of software
