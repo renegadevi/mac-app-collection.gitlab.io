@@ -7,6 +7,7 @@ module.exports = {
         [ "link", { rel: "stylesheet", href: "extra.css" }, ],
         [ "link", { rel: "stylesheet", href: "https://fonts.googleapis.com/css?family=Inter:400,500,600,700&display=swap" }, ],
         [ "script", { src: "sorttable.js" }, ],
+        ['link', { rel: "shortcut icon", href: "/favicon.ico" }],
     ],
     themeConfig: {
         navbar: true,
