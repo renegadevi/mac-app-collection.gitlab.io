@@ -1,6 +1,6 @@
 module.exports = {
-    title: 'GitLab ❤️ VuePress',
+    title: 'The App Collection',
     description: 'Vue-powered static site generator running on GitLab Pages',
-    base: '/vuepress/',
+    base: '/the-app-collection/',
     dest: 'public'
 }
