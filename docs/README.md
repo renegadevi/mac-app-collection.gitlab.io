@@ -18,9 +18,6 @@ meta:
 footer: MIT Licensed | Created by Philip Andersen
 ---
 
-***STILL UNDER DEVELOPMENT***
-
----
 
 # Why this list?
 
@@ -70,9 +67,7 @@ For any software that's specific to a single platform or company is rejected. Th
 
 ## Copyright notice
 
-***DRAFT***
-
-Image assets such as symbols and logos is made by me, Philip Andersen.
+All graphical assets such as symbols and logos is made by Philip Andersen. 
 
 Mac App Collection is an independent site and has not been authorized, sponsored, or otherwise approved by Apple Inc.
 

@@ -27,7 +27,7 @@ module.exports = {
         prevLinks: true,
         docsDir: 'docs',
         repo: 'https://gitlab.com/renegadevi/mac-app-collection',
-        repoLabel: 'Contribute!',
+        repoLabel: 'GitLab',
         editLinks: true,
         editLinkText: 'Suggest a change',
         nav: [
