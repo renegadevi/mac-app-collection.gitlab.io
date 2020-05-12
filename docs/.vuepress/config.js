@@ -1,4 +1,12 @@
 module.exports = {
+    configureWebpack: {
+        resolve: {
+            alias: {
+                "@symbols": "symbols",
+                "@symbolsdotdot": path.resolve(__dirname, '../symbols')
+            }
+        }
+    },
     plugins: [
         '@vuepress/back-to-top',
         '@vuepress/active-header-links',

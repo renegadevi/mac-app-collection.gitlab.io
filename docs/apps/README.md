@@ -2,8 +2,8 @@
 
 | Icon                                                     | Description   |
 |:--------------------------------------------------------:|:--------------|
-|![](/symbols/paid.svg "Paid")                             | Paid          |
-|![](/symbols/freemium.svg "Freemium")                     | Freemium      |
+|![](~@symbols/paid.svg "Paid")                             | Paid          |
+|![](~@symbolsdotdot/freemium.svg "Freemium")                     | Freemium      |
 |![](/symbols/subscription.svg "Subscription")             | Subscription  |
 |![](/symbols/ad.svg "Advertising")                        | Advertising   |
 |![](/symbols/free.svg "Free")                             | Free          |
