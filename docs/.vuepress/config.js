@@ -20,6 +20,49 @@ module.exports = {
         search: true,
         searchMaxSuggestions: 10,
         searchPlaceholder: 'Search',
-        logo: '/icon-colored.png'
+        logo: '/icon-colored.png',
+        lastUpdated: 'Last updated',
+        activeHeaderLinks: true,
+        nextLinks: true,
+        prevLinks: true,
+        repoLabel: 'Contribute!',
+        editLinks: true,
+        editLinkText: 'Suggest a change',
+        nav: [
+            {
+                text: 'Feedback',
+                items: [
+                    { text: 'GitLab issues', link: 'https://gitlab.com/renegadevi/mac-app-collection/-/issues' },
+                    { text: 'Email', link: 'mailto:philip.andersen@codeofmagi.net?subject=Mac%20App%20Collection: Feedback' }
+                ]
+            },
+        ],
+        displayAllHeaders: false,
+        sidebar: {
+            '/apps/': [
+                '',
+                'audio',
+                'backup-and-data-recovery',
+                'communication',
+                'customization',
+                'developer-tools',
+                'graphics-and-design',
+                'internet',
+                'lifestyle',
+                'mobile',
+                'productivity',
+                'security',
+                'system',
+                'terminal',
+                'utilities',
+                'video'
+            ],
+
+            // fallback
+            '/': [
+                '',
+            ]
+        },
+        sidebarDepth: 1
     }
 }
