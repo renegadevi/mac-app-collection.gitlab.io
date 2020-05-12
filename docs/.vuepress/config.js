@@ -1,11 +1,4 @@
 module.exports = {
-    configureWebpack: {
-        resolve: {
-            alias: {
-                "@symbols": "symbols"
-            }
-        }
-    },
     plugins: [
         '@vuepress/back-to-top',
         '@vuepress/active-header-links',
@@ -14,7 +7,7 @@ module.exports = {
     ],
     title: 'Mac App Collection',
     description: 'Find hidden gems to improve your Mac.',
-    base: '/mac-app-collection/',
+    base: '//mac-app-collection/',
     dest: 'public',
     head: [
         [ "link", { rel: "stylesheet", href: "extra.css" }, ],
