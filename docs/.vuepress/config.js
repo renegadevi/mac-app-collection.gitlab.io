@@ -1,6 +1,6 @@
 module.exports = {
-    title: 'The App Collection',
-    description: 'Vue-powered static site generator running on GitLab Pages',
-    base: '/the-app-collection/',
+    title: 'Mac App Collection',
+    description: 'Find hidden gems to improve your Mac.',
+    base: '/mac-app-collection/',
     dest: 'public'
 }
