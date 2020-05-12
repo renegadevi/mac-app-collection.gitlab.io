@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Find hidden gems to improve your Mac.",
   "main": "index.js",
-  "author": "Philip Andersen",
+  "author": "Philip Andersen <philip.andersen@codeofmagi.net>",
   "license": "MIT",
   "private": false,
   "scripts": {
