@@ -2,5 +2,17 @@ module.exports = {
     title: 'Mac App Collection',
     description: 'Find hidden gems to improve your Mac.',
     base: '/mac-app-collection/',
-    dest: 'public'
+    dest: 'public',
+    head: [
+        [ "link", { rel: "stylesheet", href: "extra.css" }, ],
+        [ "link", { rel: "stylesheet", href: "https://fonts.googleapis.com/css?family=Inter:400,500,600,700&display=swap" }, ],
+        [ "script", { src: "sorttable.js" }, ],
+    ],
+    themeConfig: {
+        navbar: true,
+        search: true,
+        searchMaxSuggestions: 10,
+        searchPlaceholder: 'Search',
+        logo: '/icon-colored.png'
+    }
 }
