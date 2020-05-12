@@ -12,5 +12,8 @@ features:
   details: If an app have the same polish as a premium macOS app, it will be promoted on the list.
 - title: Avoiding Web and Hybrid
   details: We avoid any kind of apps which is using frameworks such as Electron and/or violate the UI/UX.
+meta:
+- name: description
+  content: Find hidden gems to improve your Mac.
 footer: MIT Licensed | Created by Philip Andersen
 ---
