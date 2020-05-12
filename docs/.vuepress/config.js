@@ -1,4 +1,10 @@
 module.exports = {
+    plugins: [
+        '@vuepress/back-to-top',
+        '@vuepress/active-header-links',
+        '@vuepress/last-updated',
+        '@vuepress/nprogress'
+    ],
     title: 'Mac App Collection',
     description: 'Find hidden gems to improve your Mac.',
     base: '/mac-app-collection/',

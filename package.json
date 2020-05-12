@@ -12,6 +12,9 @@
   },
   "dependencies": {},
   "devDependencies": {
+    "@vuepress/back-to-top": "^1.4.0",
+    "@vuepress/active-header-links": "^1.4.0",
+    "@vuepress/nprogress": "^1.4.0",
     "vuepress": "^1.4.0"
   }
 }
