@@ -2,8 +2,7 @@ module.exports = {
     configureWebpack: {
         resolve: {
             alias: {
-                "@symbols": "symbols",
-                "@symbolsdotdot": path.resolve(__dirname, '../symbols')
+                "@symbols": "symbols"
             }
         }
     },
