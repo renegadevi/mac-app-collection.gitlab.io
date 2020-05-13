@@ -1,7 +1,7 @@
 <!--
 
-| Icon                                                     | Description   |
-|:--------------------------------------------------------:|:--------------|
+| Icon                                                    | Description   |
+|:-------------------------------------------------------:|:--------------|
 |![](symbols/paid.svg "Paid")                             | Paid          |
 |![](symbols/freemium.svg "Freemium")                     | Freemium      |
 |![](symbols/subscription.svg "Subscription")             | Subscription  |
@@ -28,5 +28,4 @@
 ![](symbols/free.svg "Free")
 ![](symbols/oss.svg "Open-Source")
 
-☢ ELECTRON ☢
 -->
