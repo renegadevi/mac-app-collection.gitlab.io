@@ -96,7 +96,7 @@
 |[EtreCheck](http://www.etrecheck.com/)| Produce a comprehensive diagnostic report on the current state of your computer. This report includes details about hardware, installed software, and performance.|[AppStore](https://apps.apple.com/us/app/etrecheck/id1423715984?mt=12)|![Freemium](symbols/freemium.svg "Freemium")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Sloth](https://github.com/sveinbjornt/Sloth)| Show all open files, directories, sockets, pipes and devices in use by all running processes. GUI for lsof.|[Website](https://github.com/sveinbjornt/Sloth)|![Free](symbols/free.svg "Free")|![Open-Source](symbols/open.svg "Open-Source")|
 |[iStatistica](https://www.imagetasks.com/system-battery-network-monitor-widget/)| Advanced system monitor for macOS. It includes notification center widget and status bar menu|[AppStore](https://apps.apple.com/us/app/istatistica/id1025822138?ls=1&mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
-
+|[FreeSpace](http://freespaceosx.0fees.net/FreeSpace_-_Shows_Available_Space_on_All_of_Your_Drives_in_Single_Menu.html?i=1)| Show free space of your drives in a menubar app, including TimeMachine and hidden local TimeMachine snapshots.|[AppStore](https://apps.apple.com/us/app/freespace/id457520846?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 ## Tiling window managers
 | Name ⇵ | Description ⇵ | Get it ⇵ | ⇵ | ⇵ |
@@ -111,7 +111,8 @@
 |:-------|:--------------|:--------:|:-:|:-:|
 |[Fanny](https://www.fannywidget.com/)| Notification Center Widget and Menu Bar application to monitor your Macs fans.|[Website](https://www.fannywidget.com/)|![Free](symbols/free.svg "Free")|![Open-Source](symbols/open.svg "Open-Source")|
 |[Monolingual](https://github.com/IngmarStein/Monolingual)| A tool for removing unneeded language localization files for macOS|[Github](https://github.com/IngmarStein/Monolingual)|![Free](symbols/free.svg "Free")|![Open-Source](symbols/open.svg "Open-Source")|
-
+|[New File Menu](https://langui.net/new-file-menu/)| New File Menu allows you to create new files quickly via the Finder context menu. |[AppStore](https://apps.apple.com/us/app/new-file-menu/id1064959555?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[Context Menu](https://langui.net/context-menu/)| Context Menu is a configurable contextual menu extension for Finder.|[AppStore](https://apps.apple.com/app/context-menu/id1236813619?l=en&mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 ## Window layout / snapping
 | Name ⇵ | Description ⇵ | Get it ⇵ | ⇵ | ⇵ |
