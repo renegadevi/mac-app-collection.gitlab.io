@@ -26,6 +26,9 @@
 |[Pastebot](https://tapbots.com/pastebot/)| Clipboard manager that works like a note app with filters and quick paste.|[AppStore](https://apps.apple.com/us/app/pastebot/id1179623856?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Pasta](https://getpasta.com/)| The most flexible clipboard manager for the mac|[AppStore](https://apps.apple.com/app/id1438389787)|![Freemium](symbols/freemium.svg "Freemium")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Clipy](https://github.com/Clipy/Clipy)| Clipboard extension app for macOS.|[Github](https://github.com/Clipy/Clipy)|![Free](symbols/free.svg "Free")|![Open-Source](symbols/open.svg "Open-Source")|
+|[Clipboard Center](http://www.kodlian.com/apps/clipboard-center)| Easy-to-use and powerful clipboard manager. Through a history, lists and a flexible UI, this app allows you to copy and paste texts, images, and files in the most efficient way.|[AppStore](https://apps.apple.com/us/app/clipboard-center/id599614786?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[CopyClip](https://apps.apple.com/us/app/copyclip-clipboard-history/id595191960?mt=12)| Very simple and efficient clipboard manager for your Mac. Running discreetly from your menu bar.|[AppStore](https://apps.apple.com/us/app/copyclip-clipboard-history/id595191960?mt=12)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[CopyClip 2](https://fiplab.com/apps/copyclip-for-mac)| A newer clipboard manager for your Mac running discreetly from your menu bar and features a search bar similar to spotlight and is integraded with the touchbar.|[AppStore](https://apps.apple.com/us/app/copyclip-2-clipboard-manager/id1020812363?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 
 ## Contacts
