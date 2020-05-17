@@ -58,7 +58,7 @@
 |[OmniGraffle](https://www.omnigroup.com/omnigraffle)| Design diagram and rapid-prototypes.|[AppStore](https://apps.apple.com/us/app/omnigraffle-7/id1142578753?mt=12)|![Freemium](symbols/freemium.svg "Freemium")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Diagrams](https://diagrams.app/)| The new diagram editor for Mac. Create beautiful, structured diagrams. As fast as you think.|[AppStore](https://apps.apple.com/app/apple-store/id1276248849?mt=8)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[SheetPlanner](https://sheetplanner.com/)| Organize information, plan your life and schedule your tasks and activities.|[AppStore](https://apps.apple.com/us/app/sheetplanner/id1438761088?mt=12)|![Freemium](symbols/freemium.svg "Freemium")|![Closed-Source](symbols/closed.svg "Closed-Source")|
-|[MindNode](https://mindnode.com/)| Most productive mindnote software on the Mac.|[AppStore](https://apps.apple.com/app/apple-store/id1289197285?mt=8)|![Freemium](symbols/freemium.svg "Freemium")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[MindNode](https://mindnode.com/)| Most productive mindnote software on the Mac.|[AppStore](https://apps.apple.com/app/apple-store/id1289197285?mt=8)|![Subscription](symbols/subscription.svg "Subscription")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 
 ## Mail
