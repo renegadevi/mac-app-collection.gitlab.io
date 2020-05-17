@@ -22,7 +22,7 @@
 |[MiniPlay](https://daftlogicstudio.com/miniplay/)| Shows currently playing music in your favorite music app, integrates with Notification Center. |[AppStore](https://itunes.apple.com/us/app/miniplay-notification-center/id936243210?mt=12)|![Freemium](symbols/freemium.svg "Freemium")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Musique](https://flavio.tordini.org/musique)| Uncluttered music player that focus on your music library experience.|[AppStore](https://apps.apple.com/app/musique/id474190659?ls=1&mt=12)|![Free](symbols/free.svg "Free")|![Open-Source](symbols/open.svg "Open-Source")|
 
-See [Video](apps/video) section for multimedia players 
+See [Video](video) section for multimedia players 
 
 
 ##  Miscellaneous
