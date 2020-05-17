@@ -34,7 +34,7 @@ module.exports = {
             {
                 text: 'Feedback',
                 items: [
-                    { text: 'GitLab issues', link: 'https://gitlab.com/renegadevi/mac-app-collection/-/issues' },
+                    { text: 'GitLab issues', link: 'https://gitlab.com/renegadevi/mac-app-collection/-/issues/new' },
                     { text: 'Email', link: 'mailto:philip.andersen@codeofmagi.net?subject=Mac%20App%20Collection: Feedback' }
                 ]
             },
