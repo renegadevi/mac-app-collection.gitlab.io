@@ -103,7 +103,6 @@
 |:-------|:--------------|:--------:|:-:|:-:|
 |[Yabai](https://github.com/koekeishiya/yabai)| A tiling window manager for macOS based on binary space partitioning.|[Github](https://github.com/koekeishiya/yabai)|![Free](symbols/free.svg "Free")|![Open-Source](symbols/open.svg "Open-Source")|
 |[Amethyst](https://ianyh.com/amethyst/)| Tiling window manager for macOS along the lines of xmonad.|[Website](https://ianyh.com/amethyst/)|![Free](symbols/free.svg "Free")|![Open-Source](symbols/open.svg "Open-Source")|
-|[Window Focus](https://fiplab.com/apps/window-focus-for-mac)| Highlight your active window and dim the rest|[Website](https://fiplab.com/apps/window-focus-for-mac)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 
 ## System Tweaks
@@ -133,4 +132,5 @@
 |[HazeOver](https://hazeover.com/)| Distraction Dimmer for Mac.|[Website](https://hazeover.com/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[CommandQ](https://commandqapp.com/)| Never accidentally quit an app or mistakenly close a window again.|[Website](https://commandqapp.com/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Hocus Focus](http://hocusfoc.us/)| A Mac menu bar utility that hides your inactive windows.|[Website](http://hocusfoc.us/)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[Window Focus](https://fiplab.com/apps/window-focus-for-mac)| Highlight your active window and dim the rest|[Website](https://fiplab.com/apps/window-focus-for-mac)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
