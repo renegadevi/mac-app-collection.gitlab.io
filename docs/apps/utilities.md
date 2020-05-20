@@ -23,7 +23,7 @@
 |:-------|:--------------|:--------:|:-:|:-:|
 |[Bartender](https://www.macbartender.com/)| Organize your menu bar icons with a second menu.|[Website](https://www.macbartender.com/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Dozer](https://github.com/Mortennn/Dozer)| Hide status bar icons. |[Github](https://github.com/Mortennn/Dozer)|![Free](symbols/free.svg "Free")|![Open-Source](symbols/open.svg "Open-Source")|
-|[Hidden](https://github.com/dwarvesf/hidden)| An ultra-light MacOS utility that helps hide menu bar icons.|[Github](https://github.com/dwarvesf/hidden)|![Free](symbols/free.svg "Free")|![Open-Source](symbols/open.svg "Open-Source")|
+|[Hidden Bar](https://github.com/dwarvesf/hidden)| An ultra-light MacOS utility that helps hide menu bar icons.|[AppStore](https://apps.apple.com/app/hidden-bar/id1452453066)|![Free](symbols/free.svg "Free")|![Open-Source](symbols/open.svg "Open-Source")|
 |[Vanilla](https://matthewpalmer.net/vanilla/)| Hide menu bar icons on your Mac.|[Website](https://matthewpalmer.net/vanilla/)|![Freemium](symbols/freemium.svg "Freemium")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[DarkNight](https://hobbyistsoftware.com/darknight)| Automatically switch between light and dark wallpapers based on sunrise and sunset, or on your own schedule.|[AppStore](https://itunes.apple.com/us/app/dark-night/id1451526460)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[BitBar](https://getbitbar.com/)| Put anything in your menu bar. |[Github](https://github.com/matryer/bitbar#-bitbar)|![Free](symbols/free.svg "Free")|![Open-Source](symbols/open.svg "Open-Source")|
