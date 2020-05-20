@@ -21,6 +21,9 @@
 |[BitPerfect](http://bitperfectsound.blogspot.com)| BitPerfect is a music player made for audiophile that works in conjunction with iTunes.|[AppStore](https://apps.apple.com/app/bitperfect/id455545700)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[MiniPlay](https://daftlogicstudio.com/miniplay/)| Shows currently playing music in your favorite music app, integrates with Notification Center. |[AppStore](https://itunes.apple.com/us/app/miniplay-notification-center/id936243210?mt=12)|![Freemium](symbols/freemium.svg "Freemium")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Musique](https://flavio.tordini.org/musique)| Uncluttered music player that focus on your music library experience.|[AppStore](https://apps.apple.com/app/musique/id474190659?ls=1&mt=12)|![Free](symbols/free.svg "Free")|![Open-Source](symbols/open.svg "Open-Source")|
+|[AMP Player](http://ampplayer.ml/)| AMP player is the best Mac OS alternative to the legendary Winamp.|[Website](http://ampplayer.ml/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[Tagr](http://www.entwicklungsfreu.de/tagr.html)| An tagging  application that helps you organize your music collection with a simple UI.|[AppStore](https://apps.apple.com/us/app/tagr/id903733783?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[Swinsian](https://swinsian.com/)| Simple music player for with wide format support, folder watching, advanced tag editing and designed to be responsive even with the largest libraries.|[Website](https://swinsian.com/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 See [Video](video) section for multimedia players 
 
@@ -33,6 +36,7 @@ See [Video](video) section for multimedia players
 |[Mutify](https://mutify.app/)| Quickly mute your microphone with a shortcut or the touch bar. |[Website](https://mutify.app/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[ToothFairy](https://c-command.com/toothfairy/)| Connect AirPods (or other Bluetooth headphones) to your Mac with a single click or keypress.|[AppStore](https://apps.apple.com/us/app/toothfairy/id1191449274?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[[Un]MuteMic](https://github.com/CocoaHeadsBrasil/MuteUnmuteMic)| macOS app to mute & unmute the input volume of your microphone.|[Github](https://github.com/CocoaHeadsBrasil/MuteUnmuteMic)|![Free](symbols/free.svg "Free")|![Open-Source](symbols/open.svg "Open-Source")|
+
 
 ## Recording / Studio / DAW
 | Name ⇵ | Description ⇵ | Get it ⇵ | ⇵ | ⇵ |
