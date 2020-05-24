@@ -66,6 +66,8 @@
 |[VisualStudio for Mac](https://visualstudio.microsoft.com/vs/mac/)| Develop apps and games for iOS, Android, and web using .NET. |[Website](https://visualstudio.microsoft.com/vs/mac/)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 ## JSON
+| Name ⇵ | Description ⇵ | Get it ⇵ | ⇵ | ⇵ |
+|:-------|:--------------|:--------:|:-:|:-:|
 |[JSON Editor](https://jsoneditor.blogspot.com)| JSON editor for data in a clean, uncluttered and user-friendly interface|[AppStore](https://apps.apple.com/us/app/json-editor/id567740330?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 
