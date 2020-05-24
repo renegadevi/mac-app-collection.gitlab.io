@@ -66,10 +66,12 @@
 |[VisualStudio for Mac](https://visualstudio.microsoft.com/vs/mac/)| Develop apps and games for iOS, Android, and web using .NET. |[Website](https://visualstudio.microsoft.com/vs/mac/)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 ## JSON
-|[JSON Editor](https://jsoneditor.blogspot.com)|  JSON editor for data in a clean, uncluttered and user-friendly interface|[AppStore](https://apps.apple.com/us/app/json-editor/id567740330?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[JSON Editor](https://jsoneditor.blogspot.com)| JSON editor for data in a clean, uncluttered and user-friendly interface|[AppStore](https://apps.apple.com/us/app/json-editor/id567740330?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 
 ## Plist (XML)
+| Name ⇵ | Description ⇵ | Get it ⇵ | ⇵ | ⇵ |
+|:-------|:--------------|:--------:|:-:|:-:|
 |[PlistEdit Pro](https://www.fatcatsoftware.com/plisteditpro/)| Advanced property list and JSON editor written for macOS.|[Website](https://www.fatcatsoftware.com/plisteditpro/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[XML Notepad](https://apps.apple.com/us/app/xml-notepad/id604275546?mt=12)| Easy and simple XML Editor|[AppStore](https://apps.apple.com/us/app/xml-notepad/id604275546?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
