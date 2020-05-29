@@ -135,7 +135,6 @@
 |[Yoink](https://eternalstorms.at/yoink/mac/)| Simplify and improve drag and drop on your Mac and speed up your daily workflow. |[AppStore](https://apps.apple.com/app/yoink/id457622435?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Dropover](https://dropoverapp.com/?r=as_en)| Make Drag & Drop easier. Use it to stash, gather or move any draggable content without having to open side-by-side windows. |[AppStore](https://apps.apple.com/us/app/dropover/id1355679052?mt=12)|![Freemium](symbols/freemium.svg "Freemium")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Keyboard Mestro](http://www.keyboardmaestro.com/main/)| Automate applications or web sites, text or images, simple or complex, on command or scheduled. You can automate virtually anything.|[Website](http://www.keyboardmaestro.com/main/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
-|[TextExpander](https://textexpander.com/)| Easily insert text snippets in any application from a library of content created by you and your team. |[Website](https://textexpander.com/)|![Subscription](symbols/subscription.svg "Subscription")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[LaunchBar](https://www.obdev.at/products/launchbar/index.html)| Start with a single keyboard shortcut to access and control every aspect of your digital life.|[Website](https://www.obdev.at/products/launchbar/index.html)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[PopClip](https://pilotmoon.com/popclip/)| Get the iOS-like context menus for text selection|[AppStore](https://apps.apple.com/us/app/popclip/id445189367?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[CheatSheet](https://www.cheatsheetapp.com/CheatSheet/)| Hold the ⌘-Key to show a list of all active shortcuts of the current application. |[Website](https://www.cheatsheetapp.com/CheatSheet/)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
@@ -160,7 +159,7 @@
 | Name ⇵ | Description ⇵ | Get it ⇵ | ⇵ | ⇵ |
 |:-------|:--------------|:--------:|:-:|:-:|
 |[Rocket Typist](https://witt-software.com/rockettypist/)| Boost your typing with premade snippets.|[Website](https://witt-software.com/rockettypist/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
-
+|[TextExpander](https://textexpander.com/)| Easily insert text snippets in any application from a library of content created by you and your team. |[Website](https://textexpander.com/)|![Subscription](symbols/subscription.svg "Subscription")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 ## Other
 | Name ⇵ | Description ⇵ | Get it ⇵ | ⇵ | ⇵ |
