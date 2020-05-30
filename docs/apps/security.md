@@ -24,6 +24,8 @@
 | Name ⇵ | Description ⇵ | Get it ⇵ | ⇵ | ⇵ |
 |:-------|:--------------|:--------:|:-:|:-:|
 |[RansomWhere](https://objective-see.com/products/ransomwhere.html)| Monitoring the file-system for the creation of encrypted files by suspicious processe and aims to protect your personal files, generically stopping ransomware in its tracks.|[Website](https://objective-see.com/products/ransomwhere.html)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[Malwarebytes](https://www.malwarebytes.com/mac/)| Takes out malware, adware, spyware, and other threats before they can infect your machine and ruin your day.|[Website](https://www.malwarebytes.com/mac/)|![Freemium](symbols/freemium.svg "Freemium")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+
 
 ## Monitoring
 | Name ⇵ | Description ⇵ | Get it ⇵ | ⇵ | ⇵ |
