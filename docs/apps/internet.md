@@ -16,7 +16,7 @@
 |[ViperFTP](https://viperftp.com/)| Simple, user-friendly yet powerful FTP client for Mac|[AppStore](https://apps.apple.com/us/app/viper-ftp/id995745423)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 
-## Network Monitoring
+## Network monitoring
 | Name ⇵ | Description ⇵ | Get it ⇵ | ⇵ | ⇵ |
 |:-------|:--------------|:--------:|:-:|:-:|
 |[Up & Down](https://github.com/gjiazhe/Up-Down)| A menu bar widget that monitors upload and download speeds|[Github](https://github.com/gjiazhe/Up-Down)|![Free](symbols/free.svg "Free")|![Open-Source](symbols/open.svg "Open-Source")|
@@ -25,7 +25,7 @@
 |[Net Radar](https://betamagic.nl/products/netradar.html)| The first VPN monitor for Mac that double-checks the status of your VPN connection.|[AppStore](https://apps.apple.com/se/app/net-radar/id1036406076?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 
-## Networking Tools
+## Networking tools
 | Name ⇵ | Description ⇵ | Get it ⇵ | ⇵ | ⇵ |
 |:-------|:--------------|:--------:|:-:|:-:|
 |[Proxyman](https://proxyman.io/)| Proxyman is a native, high-performance macOS application, which enables developers to observe and manipulate HTTP/HTTPS requests.|[Website](https://proxyman.io/)|![Freemium](symbols/freemium.svg "Freemium")|![Closed-Source](symbols/closed.svg "Closed-Source")|
@@ -35,7 +35,7 @@
 |[Surge](https://nssurge.com/)| Advanced Network Toolbox for Mac & iOS|[Website](https://nssurge.com/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 
-## Remote Control/Management
+## Remote control
 | Name ⇵ | Description ⇵ | Get it ⇵ | ⇵ | ⇵ |
 |:-------|:--------------|:--------:|:-:|:-:|
 |[TeamViewer](https://www.teamviewer.com/en-us/)| The All-in-One Solution for Secure Remote Access and Support|[Website](https://www.teamviewer.com/en-us/)|![Freemium](symbols/freemium.svg "Freemium")|![Closed-Source](symbols/closed.svg "Closed-Source")|

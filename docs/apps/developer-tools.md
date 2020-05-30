@@ -31,7 +31,7 @@
 |[Sketch to Xcode](https://sketchtoxcode.com/)| Drop in your Sketch file to export as Color Assets and Swift code.|[AppStore](https://apps.apple.com/app/id1483874460?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 
-## Development Servers 
+## Development servers 
 | Name ⇵ | Description ⇵ | Get it ⇵ | ⇵ | ⇵ |
 |:-------|:--------------|:--------:|:-:|:-:|
 |[MAMP Pro](https://www.mamp.info/en/mamp-pro/mac/)| Easy to use webdev stack for local development. (Apache, Nginx, PHP & MySQL)|[Website](https://www.mamp.info/en/mamp-pro/mac/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
@@ -103,7 +103,7 @@
 |[BBEdit](www.barebones.com/products/bbedit/)| Simple professional text, code, and markup editor for the Macintosh. |[AppStore](https://apps.apple.com/app/bbedit/id404009241?mt=12)|![Freemium](symbols/freemium.svg "Freemium")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 
-## Tools & Automation
+## Tools / Automation
 | Name ⇵ | Description ⇵ | Get it ⇵ | ⇵ | ⇵ |
 |:-------|:--------------|:--------:|:-:|:-:|
 |[TeaCode](https://www.apptorium.com/teacode)| Don't repeat yourself. Write your code snippets dynamicly.|[Website](https://www.apptorium.com/teacode)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|

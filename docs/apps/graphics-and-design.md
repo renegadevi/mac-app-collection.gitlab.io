@@ -15,7 +15,7 @@
 |[ColorSlurp](http://colorslurp.com/)| ColorSlurp is the ultimate color productivity booster for designers and developers.|[AppStore](https://apps.apple.com/us/app/colorslurp/id1287239339?ls=1&mt=12)|![Freemium](symbols/freemium.svg "Freemium")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 
-## Font manager
+## Fonts
 | Name ⇵ | Description ⇵ | Get it ⇵ | ⇵ | ⇵ |
 |:-------|:--------------|:--------:|:-:|:-:|
 |[RightFont](https://rightfontapp.com/)| Professional font manager app for Mac.|[Website](https://rightfontapp.com/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|

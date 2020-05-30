@@ -29,7 +29,7 @@
 |[GammaControl](https://michelf.ca/projects/gamma-control/)| Per-screen color adjustments.|[AppStore](https://apps.apple.com/us/app/gamma-control/id1250521285?l=en)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 
-## File system / drivers
+## File system / Drivers
 | Name ⇵ | Description ⇵ | Get it ⇵ | ⇵ | ⇵ |
 |:-------|:--------------|:--------:|:-:|:-:|
 |[FUSE for MacOS](https://osxfuse.github.io/)| FUSE extends macOS by adding support for user space file systems|[Website](https://osxfuse.github.io/)|![Free](symbols/free.svg "Free")|![Open-Source](symbols/open.svg "Open-Source")|
@@ -113,7 +113,8 @@
 |[New File Menu](https://langui.net/new-file-menu/)| New File Menu allows you to create new files quickly via the Finder context menu. |[AppStore](https://apps.apple.com/us/app/new-file-menu/id1064959555?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Context Menu](https://langui.net/context-menu/)| Context Menu is a configurable contextual menu extension for Finder.|[AppStore](https://apps.apple.com/app/context-menu/id1236813619?l=en&mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
-## Window layout / snapping
+
+## Window layout / Snapping
 | Name ⇵ | Description ⇵ | Get it ⇵ | ⇵ | ⇵ |
 |:-------|:--------------|:--------:|:-:|:-:|
 |[Rectangle](https://rectangleapp.com/)| Rectangle is FOSS window management app based on Spectacle, written in Swift. |[Website](https://rectangleapp.com/)|![Free](symbols/free.svg "Free")|![Open-Source](symbols/open.svg "Open-Source")|

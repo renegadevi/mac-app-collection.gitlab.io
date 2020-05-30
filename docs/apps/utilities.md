@@ -9,7 +9,7 @@
 |[Archiver](https://archiverapp.com/)| Easy to use archiver.|[Website](https://archiverapp.com/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 
-## Dark mode / Light Mode 
+## Dark mode / Light mode 
 | Name ⇵ | Description ⇵ | Get it ⇵ | ⇵ | ⇵ |
 |:-------|:--------------|:--------:|:-:|:-:|
 |[Shifty](https://shifty.natethompson.io/en/)| A macOS menu bar app that gives you more control over Night Shift.|[Website](https://shifty.natethompson.io/en/)|![Free](symbols/free.svg "Free")|![Open-Source](symbols/open.svg "Open-Source")|
@@ -29,7 +29,7 @@
 |[BitBar](https://getbitbar.com/)| Put anything in your menu bar. |[Github](https://github.com/matryer/bitbar#-bitbar)|![Free](symbols/free.svg "Free")|![Open-Source](symbols/open.svg "Open-Source")|
 
 
-## Touch Bar
+## Touch bar
 | Name ⇵ | Description ⇵ | Get it ⇵ | ⇵ | ⇵ |
 |:-------|:--------------|:--------:|:-:|:-:|
 |[MTMB - My TouchBar My Rules"](https://mtmr.app/)| The TouchBar Customization App for your MacBook Pro.|[Website](https://mtmr.app/)|![Free](symbols/free.svg "Free")|![Open-Source](symbols/open.svg "Open-Source")|

@@ -1,6 +1,6 @@
 # Security
 
-## Ad/web protection
+## Ad / Web protection
 | Name ⇵ | Description ⇵ | Get it ⇵ | ⇵ | ⇵ |
 |:-------|:--------------|:--------:|:-:|:-:|
 |[AdGuard Pro](https://adguard.com/en/adguard-mac/overview.html)| System wide standalone blocker for MacOS that blocks ads, trackers, protect your privacy and more.|[Website](https://adguard.com/en/adguard-mac/overview.html)|![Subscription](symbols/subscription.svg "Subscription")|![Closed-Source](symbols/closed.svg "Closed-Source")|
@@ -30,7 +30,7 @@
 |[BlockBlock](https://objective-see.com/products/blockblock.html)| BlockBlock monitors common persistence locations and alerts whenever a persistent component is added.|[Website](https://objective-see.com/products/blockblock.html)|![Free](symbols/free.svg "Free")|![Open-Source](symbols/open.svg "Open-Source")|
 
 
-## Password Manager
+## Password managers
 | Name ⇵ | Description ⇵ | Get it ⇵ | ⇵ | ⇵ |
 |:-------|:--------------|:--------:|:-:|:-:|
 |[1Password](https://1password.com/)| 1Password is a full-featured password manager that remembers all your passwords for you, and keeps them safe and secure behind the one password that only you know.|[AppStore](https://apps.apple.com/us/app/1password-7-password-manager/id1333542190?mt=12)|![Subscription](symbols/subscription.svg "Subscription")|![Closed-Source](symbols/closed.svg "Closed-Source")|
