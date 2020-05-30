@@ -20,6 +20,10 @@
 |[RadioSilence](https://radiosilenceapp.com/)| Simple and easy to use network monitor and firewall for Mac.|[Website](https://radiosilenceapp.com/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[LuLu](https://objective-see.com/products/lulu.html)| LuLu is the free, open-source macOS firewall that aims to block unknown outgoing connections, unless explicitly approved by the user.|[Website](https://objective-see.com/products/lulu.html)|![Free](symbols/free.svg "Free")|![Open-Source](symbols/closed.svg "Closed-Source")|
 
+## Malware protection
+| Name ⇵ | Description ⇵ | Get it ⇵ | ⇵ | ⇵ |
+|:-------|:--------------|:--------:|:-:|:-:|
+|[RansomWhere](https://objective-see.com/products/ransomwhere.html)| Monitoring the file-system for the creation of encrypted files by suspicious processe and aims to protect your personal files, generically stopping ransomware in its tracks.|[Website](https://objective-see.com/products/ransomwhere.html)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 ## Monitoring
 | Name ⇵ | Description ⇵ | Get it ⇵ | ⇵ | ⇵ |
