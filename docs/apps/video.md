@@ -29,3 +29,11 @@
 |:-------|:--------------|:--------:|:-:|:-:|
 |[Final Cut Pro X](https://www.apple.com/final-cut-pro/)| Professional post-production video editor.|[AppStore](https://apps.apple.com/us/app/final-cut-pro/id424389933?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[iMovie](https://www.apple.com/imovie/)| Streamlined easy to use movie editor.|[AppStore](https://apps.apple.com/us/app/imovie/id408981434?mt=12)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[Mitti](https://imimot.com/mitti/)| Easy to use and powerful video cue software for macOS|[Website](https://imimot.com/mitti/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+
+
+## Tools
+| Name ⇵ | Description ⇵ | Get it ⇵ | ⇵ | ⇵ |
+|:-------|:--------------|:--------:|:-:|:-:|
+|[MediaInfo](https://mediaarea.net/en/MediaInfo)| MediaInfo is a convenient unified display of the most relevant technical and tag data for video and audio files.|[AppStore](https://apps.apple.com/us/app/mediainfo/id510620098?mt=12)|![Freemium](symbols/freemium.svg "Freemium")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[Pixel Perfect LED](https://reddotlogics.com/product/pixel-perfect-led-single-license/)| A utility to generate pixel map for displays for events.|[Website](https://reddotlogics.com/product/pixel-perfect-led-single-license/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
