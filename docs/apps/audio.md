@@ -56,6 +56,9 @@ See [Video](video) section for multimedia players
 |[Logic Pro X](https://www.apple.com/logic-pro/)| DAW for professional songwriting, editing, and mixing.|[AppStore](https://itunes.apple.com/us/app/logic-pro-x/id634148309?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[n-Track](https://ntrack.com)| Studio quality recording, editing and mixing software.|[Website](https://ntrack.com/buy.php)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[PIEZO](https://rogueamoeba.com/piezo/)| Record audio fast and easy from any application or audio inputs.|[Website](https://rogueamoeba.com/piezo/buy.php)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[SoundStudio](https://felttip.com/ss/)| Record and edit podcasts, music, interviews, or presentations all with high fidelity.|[Website](https://felttip.com/ss/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[SoundForge](https://www.magix.com/int/music/sound-forge/sound-forge-pro-mac/)| Professional audio waveform editor for Mac by MAGIX|[Website](https://www.magix.com/int/music/sound-forge/sound-forge-pro-mac/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[OceanAudio](https://www.ocenaudio.com/en/startpage)| Easy and fast audio editor|[Website](https://www.ocenaudio.com/en/startpage)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 
 ## Volume controls / EQ
