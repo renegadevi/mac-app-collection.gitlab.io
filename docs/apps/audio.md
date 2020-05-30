@@ -31,11 +31,18 @@ See [Video](video) section for multimedia players
 ##  Miscellaneous
 | Name ⇵ | Description ⇵ | Get it ⇵ | ⇵ | ⇵ |
 |:-------|:--------------|:--------:|:-:|:-:|
-|[Forecast](https://overcast.fm/forecast)| Podcast MP3 post-production tool with chapters.|[Website](https://overcast.fm/forecast)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Loopback](https://rogueamoeba.com/loopback/)| Create virtual audio devices and pass audio to any audio processing software.|[Website](https://rogueamoeba.com/loopback/)|![Freemium](symbols/freemium.svg "Freemium")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Mutify](https://mutify.app/)| Quickly mute your microphone with a shortcut or the touch bar. |[Website](https://mutify.app/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[ToothFairy](https://c-command.com/toothfairy/)| Connect AirPods (or other Bluetooth headphones) to your Mac with a single click or keypress.|[AppStore](https://apps.apple.com/us/app/toothfairy/id1191449274?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[[Un]MuteMic](https://github.com/CocoaHeadsBrasil/MuteUnmuteMic)| macOS app to mute & unmute the input volume of your microphone.|[Github](https://github.com/CocoaHeadsBrasil/MuteUnmuteMic)|![Free](symbols/free.svg "Free")|![Open-Source](symbols/open.svg "Open-Source")|
+
+
+##  Podcasting
+| Name ⇵ | Description ⇵ | Get it ⇵ | ⇵ | ⇵ |
+|:-------|:--------------|:--------:|:-:|:-:|
+|[Forecast](https://overcast.fm/forecast)| Podcast MP3 post-production tool with chapters.|[Website](https://overcast.fm/forecast)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[Cosmicast](https://www.pnguin.app/cosmicast)| Beautiful podcast player without any complicated user accounts or settings to configure.|[AppStore](https://apps.apple.com/us/app/cosmicast/id1435195637)|![Subscription](symbols/subscription.svg "Subscription")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[FusionCast](https://fusioncast.rambo.codes)| Easily turn your podcast episodes into videos for publishing on any platform.|[AppStore](https://apps.apple.com/app/fusioncast/id1511181391)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 
 ## Recording / Studio / DAW
