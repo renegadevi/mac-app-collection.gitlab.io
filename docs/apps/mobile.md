@@ -12,7 +12,7 @@
 | Name ⇵ | Description ⇵ | Get it ⇵ | ⇵ | ⇵ |
 |:-------|:--------------|:--------:|:-:|:-:|
 |[iMazing](https://imazing.com/)| Powerful device manager and backup solution for iOS. Transfer your music, messages, files etc. with ease.|[Website](https://imazing.com/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
-
+|[Waltr](https://softorino.com/waltr/)| Magically Transfer Any Music, Video, PDF to iPhone & iPad With Ease.|[Website](https://softorino.com/waltr/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|		
 
 ## Universal 
 | Name ⇵ | Description ⇵ | Get it ⇵ | ⇵ | ⇵ |
