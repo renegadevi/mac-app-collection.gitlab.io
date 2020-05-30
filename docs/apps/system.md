@@ -1,4 +1,4 @@
-# System utilities
+# System
 
 ## Battery
 | Name ⇵ | Description ⇵ | Get it ⇵ | ⇵ | ⇵ |
