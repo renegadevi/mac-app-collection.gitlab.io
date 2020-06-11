@@ -142,6 +142,7 @@
 |[Flour](https://fluorapp.net/)| A handy tool for macOS allowing you to switch Fn keys' mode based on active application. |[Website](https://fluorapp.net/)|![Free](symbols/free.svg "Free")|![Open-Source](symbols/open.svg "Open-Source")|
 |[Gemini](https://macpaw.com/gemini)| The intelligent duplicate file finder|[AppStore](https://apps.apple.com/app/gemini-2-the-duplicate-finder/id1090488118?mt=12)|![Freemium](symbols/freemium.svg "Freemium")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Keystroke Pro](https://ixeau.com/keystroke-pro/)| Keypress Visualizer|[Website](https://ixeau.com/keystroke-pro/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[Hazel](https://www.noodlesoft.com/)| Automated Organization for Your Mac. Hazel watches whatever folders you tell it to, automatically organizing your files according to the rules you create.|[Website](https://www.noodlesoft.com/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 
 ## Writing
