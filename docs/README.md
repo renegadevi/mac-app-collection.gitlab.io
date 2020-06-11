@@ -3,7 +3,7 @@ home: true
 heroImage: /hero.png
 heroText: Mac App Collection
 tagline: Find hidden gems to improve your Mac.
-actionText: Show me the apps ->
+actionText: Show me the 375+ apps →
 actionLink: /apps/
 features:
 - title: Native First
