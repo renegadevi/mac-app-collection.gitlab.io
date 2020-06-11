@@ -24,6 +24,7 @@
 |[AMP Player](http://ampplayer.ml/)| AMP player is the best Mac OS alternative to the legendary Winamp.|[Website](http://ampplayer.ml/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Tagr](http://www.entwicklungsfreu.de/tagr.html)| An tagging  application that helps you organize your music collection with a simple UI.|[AppStore](https://apps.apple.com/us/app/tagr/id903733783?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Swinsian](https://swinsian.com/)| Simple music player for with wide format support, folder watching, advanced tag editing and designed to be responsive even with the largest libraries.|[Website](https://swinsian.com/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[Ampado](http://ampado.com/)| Easy and powerful AudioPlayer for macOS with audio graph.|[AppStore](https://apps.apple.com/app/id1296740756)|![Freemium](symbols/freemium.svg "Freemium")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 See [Video](video) section for multimedia players 
 
