@@ -15,6 +15,7 @@
 |[VLC](http://www.videolan.org/)| Free and open source multimedia player and framework that plays most files and various streaming protocols.|[Website](http://www.videolan.org/)|![Free](symbols/free.svg "Free")|![Open-Source](symbols/open.svg "Open-Source")|
 |[Elmedia Video Player](https://www.elmedia-video-player.com/)| A can-do-it-all Mac video player with advanced streaming options.|[AppStore](https://apps.apple.com/us/app/elmedia-video-player/id1044549675?mt=12)|![Freemium](symbols/freemium.svg "Freemium")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Switch](http://www.telestream.net/switch/)| Professional Multiformat video player & encoder with inspection and correction.|[Website](http://www.telestream.net/switch/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[OmniPlayer](http://omniplayer.net/support-omniplayer.html)| Comprehensive media player for almost any video and audio format on macOS with powerful features and modern clean design.|[AppStore](https://apps.apple.com/app/omniplayer-mkv-video-player/id1470926410?mt=12)|![Freemium](symbols/freemium.svg "Freemium")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 
 ## Screen recording / Streaming
@@ -22,7 +23,7 @@
 |:-------|:--------------|:--------:|:-:|:-:|
 |[ScreenFlow](http://www.telestream.net/screenflow/)| Easy to use and powerful screen recording software with built-in video editor.|[AppStore](DownloadLink)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Wirecast](http://www.telestream.net/wirecast/)| Professional live video streaming production software.|[Website](http://www.telestream.net/wirecast/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
-
+|[Screenflick](https://www.araelium.com/screenflick-mac-screen-recorder)| Mac screen recording with audio, keystrokes, and mouse clicks.|[Website](https://www.araelium.com/screenflick-mac-screen-recorder)|![Freemium](symbols/freemium.svg "Freemium")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 ## Video editors
 | Name ⇵ | Description ⇵ | Get it ⇵ | ⇵ | ⇵ |
