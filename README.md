@@ -1,7 +1,8 @@
 # Mac App Collection
+![Pipeline](https://gitlab.com/renegadevi/mac-app-collection/badges/master/pipeline.svg)
+![License](https://user-content.gitlab-static.net/2aaabd200c994f2aa9249134ce93c571514dd4a8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c6963656e73652d4d49542d626c7565)
 
 Find hidden gems to improve your Mac.
-
 
 ## Why this list?
 
@@ -11,7 +12,7 @@ Due to the growth like many other store fronts, sooner or later it gets hard to 
 
 ## Help me improve the list
 
-This list is by no mean perfect. If you want to add a software to the list or change things up, please make a issue here on GitLab with the "Application Suggestion" template. https://gitlab.com/renegadevi/mac-app-collection/-/issues/new
+This list is by no mean perfect. If you want to add a software to the list or change things up, please make a issue here on GitLab with the "Application Suggestion" template. https://gitlab.com/renegadevi/mac-app-collection/-/issues/new. **Note: DO NOT USE GITHUB, IT'S JUST A MIRROR**
 
 ## License
 
