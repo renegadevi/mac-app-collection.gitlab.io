@@ -23,6 +23,9 @@
 |[StatusBuddy](https://gumroad.com/l/statusbuddy)| Keep track of Apple's developer and consumer system statuses right in your menu bar.|[Website](https://gumroad.com/l/statusbuddy)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Network Radar](https://witt-software.com/networkradar/)| Scan and monitor your network. |[AppStore](https://apps.apple.com/app/id507659816?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Net Radar](https://betamagic.nl/products/netradar.html)| The first VPN monitor for Mac that double-checks the status of your VPN connection.|[AppStore](https://apps.apple.com/se/app/net-radar/id1036406076?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[Simple WebMonitor](https://apps.apple.com/us/app/simple-webmonitor/id1074602144?mt=12)| Monitor and watch whether your IPv4/IPv6 web sites are still alive|[AppStore](https://apps.apple.com/us/app/simple-webmonitor/id1074602144?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[PeakHour](https://peakhourapp.com/)| Simple and beautiful network performance, quality and usage monitoring.|[AppStore](https://apps.apple.com/us/app/peakhour-4/id1241445112?ls=1&mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[Where IP](https://apps.apple.com/us/app/where-ip-monitor-connection/id1506929908)| Monitors internet connection by checking public ip address and location, ensuring that you have control over your internet connection.|[AppStore](https://apps.apple.com/us/app/where-ip-monitor-connection/id1506929908)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 
 ## Networking tools
@@ -33,6 +36,7 @@
 |[Loading](http://bonzaiapps.com/en/loading/)| Simple network activity monitor for MacOS|[Website](http://bonzaiapps.com/en/loading/)|![Free](symbols/free.svg "Free")|![Open-Source](symbols/open.svg "Open-Source")|
 |[Wifi Explorer](https://www.adriangranados.com/)| Scan, monitor and troubleshoot wireless networks using your Mac's built-in Wi-Fi adapter.|[AppStore](https://apps.apple.com/us/app/wifi-explorer/id494803304?mt=12&ign-mpt=uo%3D4)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Surge](https://nssurge.com/)| Advanced Network Toolbox for Mac & iOS|[Website](https://nssurge.com/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[Cookie](https://cookieapp.com/)| Designed to run invisibly in the background - you can rest easy knowing that advertisers and marketers aren't tracking your every click.|[AppStore](https://apps.apple.com/us/app/cookie/id1473091386?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 
 ## Remote control
@@ -56,7 +60,7 @@
 |[Tunnelblick](https://tunnelblick.net/)| Free software for OpenVPN on macOS|[Website](https://tunnelblick.net/)|![Free](symbols/free.svg "Free")|![Open-Source](symbols/open.svg "Open-Source")|
 |[Viscosity](https://www.sparklabs.com/viscosity/)| A first class OpenVPN client that lets you secure your network with ease & style.|[Website](https://www.sparklabs.com/viscosity/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[WireGuard](https://www.wireguard.com/)| Fast, modern, and secure VPN tunnel. This app allows users to manage and use WireGuard tunnels.|[AppStore](https://apps.apple.com/us/app/wireguard/id1451685025?mt=12)|![Free](symbols/free.svg "Free")|![Open-Source](symbols/open.svg "Open-Source")|
-
+|[Shimo](https://www.shimovpn.com/)| Professional VPN client for macOS with support of multitude different VPN technologies.|[Website](https://www.shimovpn.com/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 ## Other
 | Name ⇵ | Description ⇵ | Get it ⇵ | ⇵ | ⇵ |
