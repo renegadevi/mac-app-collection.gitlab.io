@@ -12,6 +12,9 @@
 | Name ⇵ | Description ⇵ | Get it ⇵ | ⇵ | ⇵ |
 |:-------|:--------------|:--------:|:-:|:-:|
 |[Pixave](http://www.littlehj.com/mac/)| Smartest way to organize your photos and images|[AppStore](https://apps.apple.com/app/pixave/id924891282?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[RAW Power](https://gentlemencoders.com/)| Non-destructive image editor app without need of importing and compatible with iCloud Photos. If you loved Aperture's advanced RAW processing, you'll feel at home with RAW Power. |[AppStore](https://apps.apple.com/app/raw-power/id1157116444?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[PowerPhotos](https://www.fatcatsoftware.com/powerphotos/)| Organize your Mac's photo library|[Website](https://www.fatcatsoftware.com/powerphotos/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[Anamorphic Pro](https://apps.apple.com/us/app/anamorphic-pro/id1242990146?mt=12)| Imagine Portrait Mode but with expensive cinematic and anamorphic lenses.|[AppStore](https://apps.apple.com/us/app/anamorphic-pro/id1242990146?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 
 ## Weather
