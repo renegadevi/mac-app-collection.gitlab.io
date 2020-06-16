@@ -1,12 +1,18 @@
 # Graphics and Design
 
+## 3D Modeling
+| Name ⇵ | Description ⇵ | Get it ⇵ | ⇵ | ⇵ |
+|:-------|:--------------|:--------:|:-:|:-:|
+|[Unfolder](https://www.unfolder.app/)| Unfolder is a 3D model unfolding tool for creating papercraft.|[AppStore](https://itunes.apple.com/us/app/unfolder/id1410628659?ls=1&mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[Live Home 3D Pro](https://www.livehome3d.com/mac/live-home-3d-pro)| Intuitive and feature packed home design app suitable for homeowners and professional designers.|[AppStore](https://apps.apple.com/app/id1066145115?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+
 ## Bitmap
 | Name ⇵ | Description ⇵ | Get it ⇵ | ⇵ | ⇵ |
 |:-------|:--------------|:--------:|:-:|:-:|
 |[Acorn](https://secure.flyingmeat.com/acorn/)| Full-featured photo editor for MacOS.|[AppStore](https://secure.flyingmeat.com/acorn/appstore/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Affinity Photo](https://affinity.serif.com/en-us/photo/)| Professional Imagine Editing Software |[AppStore](https://apps.apple.com/us/app/affinity-photo/id824183456?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Pixelmator Pro](https://www.pixelmator.com/pro/)| Professional image editing tools that anyone can use.|[AppStore](https://apps.apple.com/us/app/pixelmator-pro/id1289583905?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
-
+|[ArtStudio Pro](https://www.luckyclan.com/apps/artstudiopro-macos)| Powerful painting and photo editing app available for both macOS and iOS redesigned to bring new features and improvements taking full advantage of the latest technologies Metal, iCloud Drive, and optimized for 64-bit multi-core processors.|[AppStore](https://apps.apple.com/us/app/artstudio-pro/id1313773050?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 ## Color pickers
 | Name ⇵ | Description ⇵ | Get it ⇵ | ⇵ | ⇵ |
@@ -20,6 +26,7 @@
 |:-------|:--------------|:--------:|:-:|:-:|
 |[RightFont](https://rightfontapp.com/)| Professional font manager app for Mac.|[Website](https://rightfontapp.com/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Typeface](https://typefaceapp.com/)| Your all new favorite font app.|[AppStore](https://geo.itunes.apple.com/us/app/typeface/id1062679359?mt=12&app=apps)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[Glyphs](https://glyphsapp.com/)| Create Stunning Fonts on Your Mac with Professional Tools.|[Website](https://glyphsapp.com/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 
 ## Gif
@@ -60,3 +67,5 @@
 |[Affinity Designer](https://affinity.serif.com/en-us/designer/)| Professional Graphic Design software|[AppStore](https://apps.apple.com/app/affinity-designer/id824171161?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Sketch](https://www.sketch.com/)| Vector graphics editor for macOS made for user interface and user experience design.|[Website](https://www.sketch.com/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Logoist](https://www.syniumsoftware.com/logoist)| Powerful Vector Design App|[AppStore](https://apps.apple.com/app/logoist-4/id1493005285?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[Amadine](https://amadine.com/)| The ultimate vector graphics software for Mac|[Website](https://amadine.com/)|![Paid](symbols/freemium.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[Vectormator Pro](https://www.vectornator.io/)| Intuitive vector graphic design software that empowers you to design anything you can imagine. Create sophisticated illustrations, beautiful designs, amazing layouts — all in one super powerful tool. *NOTE: It's free now, maybe not in the future*|[AppStore](https://apps.apple.com/app/vectornator-pro-vector-art/id1470168007?mt=12)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
