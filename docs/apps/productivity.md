@@ -112,6 +112,7 @@
 |[FreelanceStation](https://ds9soft.com/FreelanceStation/)| Time tracking and Invoicing for Mac. Built for freelancers. |[AppStore](https://apps.apple.com/us/app/freelancestation/id1461329806)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Tracktiq](https://tracktiq.com/)| Easy time tracking on MacOS.|[AppStore](https://apps.apple.com/se/app/tracktiq/id1165790525?mt=12)|![Freemium](symbols/freemium.svg "Freemium")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Timing](https://timingapp.com/)| Just continue focusing on your work while Timing records your time automatically. |[Website](https://timingapp.com/)|![Subscription](symbols/subscription.svg "Subscription")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[Timemator](https://timemator.com)| Automate your time-tracking and forget about the timer.|[Website](https://timemator.com)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 
 ## Todo / GTD / Note-taking
