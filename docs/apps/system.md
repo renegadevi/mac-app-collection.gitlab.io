@@ -11,7 +11,8 @@
 ## Bluetooth
 | Name ⇵ | Description ⇵ | Get it ⇵ | ⇵ | ⇵ |
 |:-------|:--------------|:--------:|:-:|:-:|
-|[Juice](https://deadbeef.me/Juice/)| The missing Bluetooth manager for macOS.|[Website](https://deadbeef.me/Juice/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[Juice](https://deadbeef.me/Juice/)| The missing Bluetooth manager for macO (Note: No longer maintained, tested and works in Catalina).|[Website](https://deadbeef.me/Juice/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[AirBuddy](https://gumroad.com/l/airbuddy)| AirBuddy brings the same AirPods experience you have on iOS to the Mac. |[Website](https://gumroad.com/l/airbuddy)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 
 ## Desktop
