@@ -6,7 +6,7 @@
 |[News Explorer](https://betamagic.nl/products/newsexplorer.html)| News reader with read-later with sync support for your RSS, JSON, Atom and Twitter feed subscriptions.|[AppStore](https://apps.apple.com/app/news-explorer/id1032670789?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[NetNewsWire](https://ranchero.com/netnewswire/)| NetNewsWire is a free and open source RSS reader for Mac and iOS.|[Website](https://ranchero.com/netnewswire/)|![Free](symbols/free.svg "Free")|![Open-Source](symbols/open.svg "Open-Source")|
 |[ReadKit](https://readkitapp.com/)| Have all your Instapaper, Pocket, Pinboard, Feedly, Fever, NewsBlur, Feed Wrangler, Feedbin and RSS feeds in one convenient place.|[AppStore](https://itunes.apple.com/app/readkit/id588726889?ls=1&mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
-|[Reeder](https://reederapp.com/)| High quality news reader for Mac and iOS with support for various sync services.|[AppStore](https://apps.apple.com/us/app/reeder-4/id1449412482?ls=1&mt=12)|![Paid](symbols/Paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[Reeder](https://reederapp.com/)| High quality news reader for Mac and iOS with support for various sync services.|[AppStore](https://apps.apple.com/us/app/reeder-4/id1449412482?ls=1&mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 ## Photos
 | Name ⇵ | Description ⇵ | Get it ⇵ | ⇵ | ⇵ |
