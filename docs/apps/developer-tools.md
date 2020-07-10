@@ -23,12 +23,16 @@
 |[Postioco](https://eggerapps.at/postico/)| A Modern PostgreSQL Client for the Mac.|[Website](https://eggerapps.at/postico/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[PSequel](http://www.psequel.com/)| PSequel provides a clean and simple interface for you to perform common PostgreSQL tasks quickly.|[Website](http://www.psequel.com/)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Core Data Lab](https://betamagic.nl/products/coredatalab.html)| View, analyze and track your Core Data app’s data (SQLite)|[AppStore](https://apps.apple.com/app/core-data-lab/id1460684638?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[SQLPro Studio](https://www.sqlprostudio.com/)| A simple, powerful database manager for macOS, iOS and Windows. (Offers both Subscription and Paid version)|[AppStore](https://apps.apple.com/us/app/sqlpro-studio/id985614903?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[Querious](https://www.araelium.com/querious)| The best MySQL tool for MacOS. View, search, edit, import, export, build, configure, and monitor your MySQL and compatible databases easier than ever before.|[Website](https://www.araelium.com/querious)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 
 ## Design tools
 | Name ⇵ | Description ⇵ | Get it ⇵ | ⇵ | ⇵ |
 |:-------|:--------------|:--------:|:-:|:-:|
 |[Sketch to Xcode](https://sketchtoxcode.com/)| Drop in your Sketch file to export as Color Assets and Swift code.|[AppStore](https://apps.apple.com/app/id1483874460?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[Fabula](https://www.pnguin.app/)| Beautiful and easy to use animation creation and testing app.Tweak animation values in real-time.|[AppStore](https://apps.apple.com/us/app/fabula/id1503214451)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[Kelir](http://rimbunesia.com/apps/kelir)| Unique picker with a preview which color you are selecting. Once you pick a color, any code will be available for you to paste it.|[AppStore](https://apps.apple.com/us/app/kelir/id1145215534?mt=12)|![Freemium](symbols/freemium.svg "Freemium")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 
 ## Development servers 
@@ -56,7 +60,7 @@
 |[Mandrake](https://sveinbjorn.org/mandrake)| Native man page editor for macOS with syntax highlighting, live mandoc syntax validation and a live-updating rendered preview.|[Website](https://sveinbjorn.org/mandrake)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[CHM to PDF Converter Plus](https://apps.apple.com/se/app/chm-to-pdf-converter-plus/id1498867553?mt=12)| Easy tool for batch conversion of CHM(Compiled HTML Help) files into PDF files.|[AppStore](https://apps.apple.com/se/app/chm-to-pdf-converter-plus/id1498867553?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[CHM File Reader](https://apps.apple.com/se/app/chm-file-reader/id1498728464?mt=12)| Simple app open and read CHM files, and convert CHM document to PDF format.|[AppStore](https://apps.apple.com/se/app/chm-file-reader/id1498728464?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
-
+|[A Companion for SwiftUI](https://swiftui-lab.com/companion)| Companion for SwiftUI documents all the SwiftUI views, shapes, and protocols for the iOS and macOS platform.|[AppStore](https://apps.apple.com/us/app/a-companion-for-swiftui/id1485436674?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 ## IDEs
 | Name ⇵ | Description ⇵ | Get it ⇵ | ⇵ | ⇵ |
@@ -64,11 +68,14 @@
 |[Xcode](https://developer.apple.com/xcode/)| Apple's IDE for macOS containing a suite of software development tools for macOS, iOS, iPadOS, watchOS, and tvOS.|[AppStore](https://apps.apple.com/us/app/xcode/id497799835?mt=12)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[CodeRunner](https://coderunnerapp.com/)| A lightweight, multi-language programming editor for macOS.|[AppStore](https://apps.apple.com/us/app/coderunner-3/id955297617?ls=1&mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[VisualStudio for Mac](https://visualstudio.microsoft.com/vs/mac/)| Develop apps and games for iOS, Android, and web using .NET. |[Website](https://visualstudio.microsoft.com/vs/mac/)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[S4A IDE](https://www.swiftforarduino.com/)| "Swift(TM) For Arduino" is the first of a new generation of embedded tools. From the S4A Genius range, this is the first and only tool that allows you to use the Swift(TM) language to write fully native code for the AVR microcontroller found.|[AppStore](https://apps.apple.com/us/app/s4a-ide-lite/id1334769565?mt=12)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+
 
 ## JSON
 | Name ⇵ | Description ⇵ | Get it ⇵ | ⇵ | ⇵ |
 |:-------|:--------------|:--------:|:-:|:-:|
 |[JSON Editor](https://jsoneditor.blogspot.com)| JSON editor for data in a clean, uncluttered and user-friendly interface|[AppStore](https://apps.apple.com/us/app/json-editor/id567740330?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[SmartBaby](https://apps.apple.com/us/app/smartbaby/id1438971945?mt=12)| SmartBaby infer Swift Codable model from JSON to save your time.|[AppStore](https://apps.apple.com/us/app/smartbaby/id1438971945?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 
 ## Plist (XML)
@@ -83,7 +90,8 @@
 |:-------|:--------------|:--------:|:-:|:-:|
 |[DropDMG](https://apps.apple.com/se/app/dropdmg/id414234859?mt=12)| DropDMG is the easiest way to create macOS disk images, as well as cross-platform archives.|[AppStore](https://apps.apple.com/se/app/dropdmg/id414234859?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[create-dmg](https://github.com/sindresorhus/create-dmg)| Create a good-looking DMG for your macOS app in seconds.|[Github](https://github.com/sindresorhus/create-dmg)|![Free](symbols/free.svg "Free")|![Open-Source](symbols/open.svg "Open-Source")|
-
+|[DMG Canvas](https://www.araelium.com/dmgcanvas)| Easy Professional Disk Image Creation|[Website](https://www.araelium.com/dmgcanvas)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[ScriptToApp](https://apps.apple.com/us/app/scripttoapp-app-maker/id1456096188?mt=12)| One-click to convert the script file into an app that can be run by double-clicking, and displays the result of the running script in the app window.|[AppStore](https://apps.apple.com/us/app/scripttoapp-app-maker/id1456096188?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 ## RegEx
 | Name ⇵ | Description ⇵ | Get it ⇵ | ⇵ | ⇵ |
@@ -114,12 +122,15 @@
 |:-------|:--------------|:--------:|:-:|:-:|
 |[POEDIT](https://poedit.net/)| The fastest and most convenient way to translate apps & sites with gettext.|[Website](https://poedit.net/)|![Freemium](symbols/freemium.svg "Freemium")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[iOSLocalizationEditor](https://github.com/igorkulman/iOSLocalizationEditor)| Simple macOS editor app to help you manage iOS and macOS app localizations by allowing you to edit all the translations side by side.|[Github](https://github.com/igorkulman/iOSLocalizationEditor)|![Free](symbols/free.svg "Free")|![Open-Source](symbols/open.svg "Open-Source")|
+|[18 Strings](https://apps.apple.com/us/app/18-strings/id882419288?mt=12)| Automatic translation using strings from your other projects. See all the strings from all your files in your project in one simple and intuitive view.|[AppStore](https://apps.apple.com/us/app/18-strings/id882419288?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[MISSIV](https://www.designmatic.xyz/apps/missiv/)| Open and edit XLIFF documents. Translate exported XLIFF documents from Xcode on your iPhone, iPad, and Mac.|[AppStore](https://apps.apple.com/us/app/missiv/id1444128417)|![Subscription](symbols/subscription.svg "Subscription")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 
 ## Web builder
 | Name ⇵ | Description ⇵ | Get it ⇵ | ⇵ | ⇵ |
 |:-------|:--------------|:--------:|:-:|:-:|
 |[Expresso](https://www.espressoapp.com/)| Espresso helps you write, code, design, build and publish with flair and efficiency.|[Website](https://www.espressoapp.com/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[Whisk](https://tumult.com/whisk/)| Lightweight HTML and PHP editor with a live preview pane that displays the updated page as you type.|[AppStore](https://apps.apple.com/us/app/whisk/id1502044457?mt=12)|![Freemium](symbols/freemium.svg "Freemium")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 
 
@@ -156,4 +167,15 @@
 |[OpenInTerminal](https://github.com/Ji4n1ng/OpenInTerminal)| Finder Toolbar app for macOS to open the current directory in Terminal, iTerm, Hyper or Alacritty|[Github](https://github.com/Ji4n1ng/OpenInTerminal)|![Free](symbols/free.svg "Free")|![Open-Source](symbols/open.svg "Open-Source")|
 |[Touch Bar Preview](https://touchbar.github.io/)| A small open source app to display your designs on the Touch Bar of MacBook Pro.|[Website](https://touchbar.github.io/)|![Freem](symbols/free.svg "Free")|![Open-Source](symbols/open.svg "Open-Source")|
 |[Paw](https://paw.cloud/)| Paw is a full-featured HTTP client that lets you test and describe the APIs you build or consume.|[Website](https://paw.cloud/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[CodeGraphics](https://apps.apple.com/us/app/codegraphics/id1429977958?mt=12)| CodeGraphics is the first app that render your code in a gorgeous look!|[AppStore](https://apps.apple.com/us/app/codegraphics/id1429977958?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[CopyRight](https://apps.apple.com/us/app/copyright/id1391114129?mt=12)| Many apps require specific copyright information at the top of their files. This app aims to simplify the process and ensure you have consistent and correct copyright information on all of your Source Files.|[AppStore](https://apps.apple.com/us/app/copyright/id1391114129?mt=12)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[Sequence Diagram](http://macsequencediagram.com/)| Mac Sequence Diagram makes it incredibly easy to create UML 2.0 style sequence diagrams, using nothing more than plain text.|[AppStore](https://apps.apple.com/us/app/sequence-diagram/id1195426709?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[Date Format Creator](https://apps.apple.com/us/app/date-format-creator/id965645209?mt=12)| Makes working with dates a little bit easier by giving you a date formatter to test and experiment with. Enter your UTS date format, pick a date and see how an NSDateFormatter would convert it into a string.|[AppStore](https://apps.apple.com/us/app/date-format-creator/id965645209?mt=12)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[OpenGL Extensions Viewer](http://www.realtech-vr.com/home/glview)| This program displays the vendor name, the version implemented, the renderer name and the extensions of the current OpenGL 3D accelerator (note: May not work on your specific hw).|[AppStore](https://apps.apple.com/us/app/opengl-extensions-viewer/id444052073?mt=12)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+
+
+
+
+
+
 
