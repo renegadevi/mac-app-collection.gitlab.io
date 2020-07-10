@@ -170,6 +170,10 @@
 |:-------|:--------------|:--------:|:-:|:-:|
 |[Rocket Typist](https://witt-software.com/rockettypist/)| Boost your typing with premade snippets.|[Website](https://witt-software.com/rockettypist/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[TextExpander](https://textexpander.com/)| Easily insert text snippets in any application from a library of content created by you and your team. |[Website](https://textexpander.com/)|![Subscription](symbols/subscription.svg "Subscription")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[Rocket](https://matthewpalmer.net/rocket/)| Mind-blowing emoji on your Mac. Like Slack and Discord.|[Website](https://matthewpalmer.net/rocket/)|![Freemium](symbols/freemium.svg "Freemium")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[Typinator](https://www.ergonis.com/products/typinator/)| Fastest text-expander for the Mac.|[Website](https://www.ergonis.com/products/typinator/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[TypeIt4Me](https://www.ettoresoftware.com/)| The original text-expander for the Mac. Save time and effort. Type more with fewer keystrokes.|[AppStore](https://apps.apple.com/se/app/typeit4me/id412141729?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+
 
 ## Other
 | Name ⇵ | Description ⇵ | Get it ⇵ | ⇵ | ⇵ |
