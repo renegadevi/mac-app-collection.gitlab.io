@@ -162,6 +162,7 @@
 |[Bear](https://bear.app/)| Bear is a beautiful, flexible writing app for crafting notes and prose.|[AppStore](https://apps.apple.com/us/app/bear-beautiful-writing-app/id1091189122?ls=1&mt=12)|![Freemium](symbols/freemium.svg "Freemium")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Scrivener](https://www.literatureandlatte.com/scrivener/overview)| The go-to app for writers of all kinds, used every day by best-selling novelists, screenwriters, students, academics, journalists etc. |[AppStore](https://apps.apple.com/us/app/scrivener-3/id1310686187?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Highland 2](https://quoteunquoteapps.com/highland-2/)| We’ve taken the tools we built for writing screenplays and made them work for almost every kind of document you write with clean design and innovative tools.|[AppStore](https://apps.apple.com/se/app/highland-2/id1171820258?mt=12)|![Freemium](symbols/freemium.svg "Freemium")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[Slugline](https://slugline.co/)| The best-reviewed screenwriting app for Mac.|[AppStore](https://apps.apple.com/us/app/slugline-2/id1483507254?mt=12)|![Freemium](symbols/freemium.svg "Freemium")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 
 ## Writing tools
@@ -175,3 +176,4 @@
 |:-------|:--------------|:--------:|:-:|:-:|
 |[start](https://apps.apple.com/us/app/start/id1329701389)| Get a windows start menu for your mac.|[AppStore](https://apps.apple.com/us/app/start/id1329701389)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Paprika](https://www.paprikaapp.com/)| Helps you organize your recipes, make meal plans, and create grocery lists. |[AppStore](https://apps.apple.com/us/app/paprika-recipe-manager-3/id1303222628?ls=1&mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[SwitchGlass](https://apps.apple.com/us/app/switchglass/id1498546559?mt=12)| SwitchGlass adds a dedicated application switcher to your Mac.|[AppStore](https://apps.apple.com/us/app/switchglass/id1498546559?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
