@@ -9,6 +9,9 @@
 |[Fantastical](https://flexibits.com/fantastical)| Advanced calender app that's works cross all devices.|[Website](https://flexibits.com/fantastical)|![Subscription](symbols/subscription.svg "Subscription")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Itsycal](https://www.mowglii.com/itsycal/)| Itsycal is a tiny menu bar calendar with tasks.|[Website](https://www.mowglii.com/itsycal/)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[BusyCal](https://www.busymac.com/busycal/index.html)| Powerful calender app replacement based on the MacOS calendar design|[AppStore](https://apps.apple.com/us/app/busycal/id1173663647?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[InstaCal](http://instacalapp.com/)| InstaCal is an affordable and powerful Mac calendar app that puts all your events and reminders in your Mac menu bar.|[AppStore](https://apps.apple.com/us/app/instacal-menu-bar-calendar/id1247292524?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[MonthlyCal](https://doublerew.net/os-x/monthlycal/)| A colorful calendar widget|[AppStore](https://apps.apple.com/us/app/monthlycal/id935250717?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[Blotter](https://www.wireload.net/products/blotter/)| Present your Calendar events and reminders right on your desktop.|[AppStore](https://apps.apple.com/us/app/blotter/id406580224?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 
 ## Calculators
