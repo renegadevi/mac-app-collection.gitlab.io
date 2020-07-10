@@ -27,4 +27,3 @@
 | Name ⇵ | Description ⇵ | Get it ⇵ | ⇵ | ⇵ |
 |:-------|:--------------|:--------:|:-:|:-:|
 |[Day One](https://dayoneapp.com/)| Journaling about your life a simple pleasures.|[AppStore](https://apps.apple.com/app/day-one/id1055511498)|![Freemium](symbols/freemium.svg "Freemium")|![Closed-Source](symbols/closed.svg "Closed-Source")|
-|[Highland 2](https://quoteunquoteapps.com/highland-2/)| We’ve taken the tools we built for writing screenplays and made them work for almost every kind of document you write with clean design and innovative tools.|[AppStore](https://apps.apple.com/se/app/highland-2/id1171820258?mt=12)|![Freemium](symbols/freemium.svg "Freemium")|![Closed-Source](symbols/closed.svg "Closed-Source")|

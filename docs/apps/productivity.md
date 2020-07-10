@@ -154,6 +154,7 @@
 |[Ulysses](https://ulysses.app/)| The Ultimate Writing App for Mac, iPad and iPhone|[AppStore](https://apps.apple.com/app/ulysses/id1225570693?l=en&mt=12)|![Subscription](symbols/subscription.svg "Subscription")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Bear](https://bear.app/)| Bear is a beautiful, flexible writing app for crafting notes and prose.|[AppStore](https://apps.apple.com/us/app/bear-beautiful-writing-app/id1091189122?ls=1&mt=12)|![Freemium](symbols/freemium.svg "Freemium")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Scrivener](https://www.literatureandlatte.com/scrivener/overview)| The go-to app for writers of all kinds, used every day by best-selling novelists, screenwriters, students, academics, journalists etc. |[AppStore](https://apps.apple.com/us/app/scrivener-3/id1310686187?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[Highland 2](https://quoteunquoteapps.com/highland-2/)| We’ve taken the tools we built for writing screenplays and made them work for almost every kind of document you write with clean design and innovative tools.|[AppStore](https://apps.apple.com/se/app/highland-2/id1171820258?mt=12)|![Freemium](symbols/freemium.svg "Freemium")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 
 ## Writing tools
