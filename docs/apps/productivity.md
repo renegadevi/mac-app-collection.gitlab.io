@@ -1,5 +1,13 @@
 # Productivity
 
+## Accounting / Finance / Administration
+| Name ⇵ | Description ⇵ | Get it ⇵ | ⇵ | ⇵ |
+|:-------|:--------------|:--------:|:-:|:-:|
+|[Inventoria Plus](https://www.nchsoftware.com/inventory/index.html)| Manage and monitor your inventory with Inventoria to help streamline your operations and boost profits.|[AppStore](https://apps.apple.com/us/app/inventoria-plus/id976205589?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[Grandtotal](https://www.mediaatelier.com/GrandTotal6/)| Create invoices and estimates on your Mac|[Website](https://www.mediaatelier.com/GrandTotal6/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[WarRoom](https://warroom.calvatronics.com/)| Lightweight but powerful document review tool for litigation support. Designed for attorneys and litigation support professionals.|[AppStore](https://apps.apple.com/us/app/warroom/id485185814?mt=12)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+
+
 ## Calendar
 | Name ⇵ | Description ⇵ | Get it ⇵ | ⇵ | ⇵ |
 |:-------|:--------------|:--------:|:-:|:-:|
