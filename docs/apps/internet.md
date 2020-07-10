@@ -37,6 +37,7 @@
 |[Wifi Explorer](https://www.adriangranados.com/)| Scan, monitor and troubleshoot wireless networks using your Mac's built-in Wi-Fi adapter.|[AppStore](https://apps.apple.com/us/app/wifi-explorer/id494803304?mt=12&ign-mpt=uo%3D4)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Surge](https://nssurge.com/)| Advanced Network Toolbox for Mac & iOS|[Website](https://nssurge.com/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Cookie](https://cookieapp.com/)| Designed to run invisibly in the background - you can rest easy knowing that advertisers and marketers aren't tracking your every click.|[AppStore](https://apps.apple.com/us/app/cookie/id1473091386?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[Network Kit X](https://doublerew.net/os-x/network-utility-x/)| Keep under control your network with an user friendly set of network tool that will help you to analyze your LAN and notification center widget.|[AppStore](https://apps.apple.com/us/app/network-kit-x/id979299240?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 
 ## Remote control
