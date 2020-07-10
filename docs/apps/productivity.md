@@ -80,6 +80,8 @@
 |[Strike](https://strike-app.com/)| Modern writing app with powerful features like Smart Markdown, tables, attachments and photos, text sorting, tags, and more.|[AppStore](https://apps.apple.com/app/id1439733892)|![Subscription](symbols/subscription.svg "Subscription")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[QuickDraft](https://quickdraft.app/)| Simple scratchpad in your menubar|[AppStore](https://apps.apple.com/us/app/quick-draft-simple-scratchpad/id1496067471)|![Freemium](symbols/freemium.svg "Freemium")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[iA Writer](https://ia.net/writer)| Clean, simple and distraction-free writing environment for when you really need to focus on your words.|[AppStore](https://apps.apple.com/us/app/ia-writer/id775737590?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[MWeb](https://www.mweb.im/)| Native pro markdown writing, note taking and static blog generator app.|[AppStore](https://apps.apple.com/us/app/mweb/id1403919533?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[MarkupTable](https://www.xelaton.com/en/Applications/MarkupTable)| The table generator for Markup-Formatted tables. Great companion for any writer who uses Markup-Languages to structure its texts.|[AppStore](https://apps.apple.com/us/app/markuptable/id1355702304?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 
 ## Office
