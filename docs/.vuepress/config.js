@@ -11,7 +11,7 @@ module.exports = {
     dest: 'public',
     head: [
         ["link", { rel: "stylesheet", href: "https://fonts.googleapis.com/css?family=Inter:400,500,600,700&display=swap" }, ],
-        [ "link", { rel: "stylesheet", href: "extra.css" }, ],
+        [ "link", { rel: "stylesheet", href: "/extra.css" }, ],
         [ "script", { src: "sorttable.js" }, ],
         ['link', { rel: "shortcut icon", href: "/favicon.ico" }],
     ],
