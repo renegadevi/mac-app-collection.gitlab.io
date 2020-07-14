@@ -1,0 +1,178 @@
+/**
+ * This file contains all dark-mode adjustments
+ */
+
+
+/* ==========================================================================
+   DARK MODE BUTTON
+   ========================================================================== */
+button#dark-mode-toggle {
+    background: none;
+    width: 32px;
+    border: none;
+    padding: 0;
+    margin: 0;
+    outline: none;
+    cursor: pointer;
+}
+
+button#dark-mode-toggle svg#dark-mode-toggle-icon {
+    margin-top: 1px;
+    width: 28px;
+}
+
+svg#dark-mode-toggle-icon {
+    fill: #AAA9AA;
+}
+
+svg#dark-mode-toggle-icon:hover{
+    fill: #2c3e50;
+}
+
+body.darkmode svg#dark-mode-toggle-icon {
+    fill: #ffffff !important;
+}
+
+
+/* ==========================================================================
+   TRANSITION
+   ========================================================================== */
+* {
+    transition: 0.25s background-color;
+}
+
+
+/* ==========================================================================
+   OVERRIDES
+   ========================================================================== */
+
+
+/* BASIC
+   ========================================================================== */
+body {
+    min-height: 100vh;
+}
+body.darkmode {
+    color: #FFFFFF;
+    background: #3A3C43;
+}
+
+
+/* NAVBAR
+   ========================================================================== */
+body.darkmode .navbar .site-name {
+    color: #FFFFFF;
+}
+body.darkmode header.navbar {
+    background: #2F3136;
+    border-color: #2B2D31;
+}
+body.darkmode .dropdown-wrapper .dropdown-title {
+    color: #ffffff;
+}
+body.darkmode ul.nav-dropdown {
+    background: #2F3136;
+    border-color: #2B2D31;
+    outline: none;
+}
+
+
+/* SIDEBAR
+   ========================================================================== */
+body.darkmode aside.sidebar {
+    background: #2F3136;
+    border-color: #2B2D31;
+}
+body.darkmode a.sidebar-link {
+    color: #ffffff;
+}
+body.darkmode a.sidebar-link.active {
+    color: #4BD69C;
+    background: #3A3C43;
+}
+
+
+/* HOMEPAGE / PAGE
+   ========================================================================== */
+body.darkmode .home .feature h2 {
+    color: white;
+}
+.home h2 {
+    border-color: #2F3136;
+}
+body.darkmode p,
+body.darkmode .home .features .feature p {
+    color: #cecece !important;
+}
+
+body.darkmode .home .hero .description,
+body.darkmode .home .feature p {
+    color: #8E9296;
+}
+body.darkmode .home .features {
+    border-top: 1px solid #2F3136;
+    border-bottom: 1px solid #2F3136;
+}
+body.darkmode .page-nav .inner {
+    border-top: 1px solid #2F3136;
+}
+body.darkmode .page h2 {
+    border-bottom: 1px solid transparent;
+}
+body.darkmode .page-edit .edit-link a,
+body.darkmode .page .last-updated span.prefix {
+    color: #ffffff;
+}
+
+body.darkmode .page a {
+    color: #4BD69C;
+}
+
+body.darkmode .navbar .links a {
+    color: #ffffff;
+}
+body.darkmode .footer {
+    color: white;
+    border-color: #2F3136;
+}
+
+body.darkmode .home .hero .action-button {
+    color: #3A3C43;
+    background: #4BD69C;
+}
+
+
+/* TABLE
+   ========================================================================== */
+body.darkmode th,
+body.darkmode tr:nth-child(2n) {
+    background-color: #2F3136;
+}
+body.darkmode th {
+    border-bottom: 2px solid #2F3136 !important;
+}
+
+/* Instead of making new images with correct colors, we can adjust it with
+ * filters to get it somewhat nicer without having to deal with separate assets.
+ */
+body.darkmode td img {
+    filter: saturate(90%) brightness(1.35);
+}
+
+
+/* SEARCH
+   ========================================================================== */
+body.darkmode .search-box input {
+    background-color: #3A3C43;
+    border-color: #3A3C43;
+    color: white;
+}
+body.darkmode ul.suggestions {
+    background: #2F3136;
+    border-color: #2B2D31;
+}
+
+body.darkmode ul.suggestions li.focused {
+    background-color: #3A3C43 !important;
+}
+

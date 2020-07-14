@@ -1,4 +1,5 @@
 module.exports = {
+    extend: '@vuepress/theme-default',
     plugins: [
         '@vuepress/back-to-top',
         '@vuepress/active-header-links',
@@ -10,17 +11,19 @@ module.exports = {
     base: '/mac-app-collection/',
     dest: 'public',
     head: [
-        ["link", { rel: "stylesheet", href: "https://fonts.googleapis.com/css?family=Inter:400,500,600,700&display=swap" }, ],
-        [ "link", { rel: "stylesheet", href: "/extra.css" }, ],
-        [ "script", { src: "sorttable.js" }, ],
-        ['link', { rel: "shortcut icon", href: "/favicon.ico" }],
+        [ "link",   { rel: "stylesheet", href: "https://fonts.googleapis.com/css?family=Inter:400,500,600,700&display=swap" }, ],
+        [ "link",   { rel: "stylesheet", href: "/css/extra.css" }, ],
+        [ "link",   { rel: "stylesheet", href: "/css/dark-mode.css" }, ],
+        [ "script", { src: "/js/sorttable.js" }, ],
+        [ "script", { src: "/js/dark-mode.js" }, ],
+        [ 'link',   { rel: "shortcut icon", href: "/favicon.ico" }],
     ],
     themeConfig: {
         navbar: true,
         search: true,
         searchMaxSuggestions: 10,
         searchPlaceholder: 'Search',
-        logo: '/icon-colored.png',
+        logo: '/img/icon-colored.png',
         lastUpdated: 'Last updated',
         activeHeaderLinks: true,
         nextLinks: true,
