@@ -71,7 +71,7 @@
 |[Xcode](https://developer.apple.com/xcode/)| Apple's IDE for macOS containing a suite of software development tools for macOS, iOS, iPadOS, watchOS, and tvOS.|[AppStore](https://apps.apple.com/us/app/xcode/id497799835?mt=12)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[CodeRunner](https://coderunnerapp.com/)| A lightweight, multi-language programming editor for macOS.|[AppStore](https://apps.apple.com/us/app/coderunner-3/id955297617?ls=1&mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[VisualStudio for Mac](https://visualstudio.microsoft.com/vs/mac/)| Develop apps and games for iOS, Android, and web using .NET. |[Website](https://visualstudio.microsoft.com/vs/mac/)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
-|[S4A IDE](https://www.swiftforarduino.com/)| "Swift(TM) For Arduino" is the first of a new generation of embedded tools. From the S4A Genius range, this is the first and only tool that allows you to use the Swift(TM) language to write fully native code for the AVR microcontroller found.|[AppStore](https://apps.apple.com/us/app/s4a-ide-lite/id1334769565?mt=12)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[S4A IDE](https://www.swiftforarduino.com/)| "Swift(TM) For Arduino" the is a tool to use the Swift(TM) language to write fully native code for the AVR microcontroller.|[AppStore](https://apps.apple.com/us/app/s4a-ide-lite/id1334769565?mt=12)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 
 ## JSON
