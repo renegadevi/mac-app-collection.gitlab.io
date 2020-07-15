@@ -36,7 +36,7 @@
 |[Haptic Touch Bar App](https://www.haptictouchbar.com/)| Haptic Touch Bar provides actual feedback when pressing buttons on your Touch Bar.|[Website](https://www.haptictouchbar.com/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Touch Bar Simulator](https://sindresorhus.com/touch-bar-simulator/)| The macOS Touch Bar as a standalone app.|[Website](https://sindresorhus.com/touch-bar-simulator/)|![Free](symbols/free.svg "Free")|![Open-Source](symbols/open.svg "Open-Source")|
 |[TouchSwitcher](https://hazeover.com/touchswitcher.html)| Use Touch Bar to Switch Apps.|[Website](https://hazeover.com/touchswitcher.html)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
-|[Muse](https://github.com/xzzz9097/Muse)| An open-source Spotify, iTunes and Vox controller with TouchBar support.|[Github](https://github.com/xzzz9097/Muse)|![Free](symbols/free.svg "Free")|![Open-Source](symbols/open.svg "Open-Source")|
+|[Muse](https://xzzz9097.github.io/)| An open-source Spotify, iTunes and Vox controller with TouchBar support.|[Github](https://github.com/xzzz9097/Muse)|![Free](symbols/free.svg "Free")|![Open-Source](symbols/open.svg "Open-Source")|
 
 
 ## Virtualization
