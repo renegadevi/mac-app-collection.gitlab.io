@@ -38,7 +38,7 @@ body.darkmode svg#dark-mode-toggle-icon {
    TRANSITION
    ========================================================================== */
 * {
-    transition: 0.25s background-color;
+    transition: 0.2s background-color;
 }
 
 
@@ -158,7 +158,9 @@ body.darkmode th {
 body.darkmode td img {
     filter: saturate(90%) brightness(1.35);
 }
-
+body.darkmode table td:nth-child(1) {
+    background: rgba(0, 0, 0, 0.075);
+}
 
 /* SEARCH
    ========================================================================== */

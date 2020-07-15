@@ -36,8 +36,9 @@ table {
     display: table !important;
 }
 table td:nth-child(1) {
-    min-width: 3em !important;
+    background: rgba(0, 0, 0, 0.02);
 }
+
 table td:nth-child(1) a {
     font-weight: bold !important;
 }
@@ -47,10 +48,7 @@ table td:nth-child(3) {
 table td {
     font-size: 0.9em !important;
 }
-table td:nth-child(4),
-table td:nth-child(5) {
-    width: 1.75em !important;
-}
+
 th,
 td {
     border: none !important;
@@ -66,6 +64,7 @@ th {
 }
 table td {
     border: none !important;
+    line-height: 1.5;
 }
 thead th {
     cursor: pointer !important;
@@ -80,6 +79,26 @@ td img {
     max-height: 32px;
 }
 
+table td:nth-child(4),
+table td:nth-child(5) {
+    width: 1.75em !important;
+}
+
+@media all and (max-width: 900px) {
+    table td:nth-child(2),
+    table th:nth-child(2) {
+        display: none;
+        width: 0;
+        height: 0;
+        opacity: 0;
+        visibility: collapse;
+    }
+}
+@media all and (min-width: 900px) {
+    table td:nth-child(1) {
+        min-width: 8em !important;
+    }
+}
 
 /* ==========================================================================
    NAVBAR
