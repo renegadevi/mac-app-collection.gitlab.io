@@ -52,6 +52,9 @@
 | Name ⇵ | Description ⇵ | Get it ⇵ | ⇵ | ⇵ |
 |:-------|:--------------|:--------:|:-:|:-:|
 |[Kaleidoscope](https://www.kaleidoscopeapp.com/)| Kaleidoscope is the world’s most powerful file comparison app.|[AppStore](https://apps.apple.com/us/app/kaleidoscope/id587512244?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[Araxis Merge](https://www.araxis.com/merge/index.en)| Advanced 2 and 3-way file comparison (diff), merging and folder synchronization|[Website](https://www.araxis.com/merge/index.en)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+
+Pro tip: Xcode comes with a Diff/Merge app called "FileMerge.app". You can launch it from spotlight.
 
 
 ## Documentation
