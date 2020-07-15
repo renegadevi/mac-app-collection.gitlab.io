@@ -15,7 +15,7 @@ features:
 meta:
 - name: description
   content: Find hidden gems to improve your Mac.
-footer: MIT Licensed | Made with VuePress and GitLab CI | Created by [Philip Andersen](https://philipandersen.se)
+footer: MIT Licensed - Made with VuePress and GitLab CI - Created by Philip Andersen
 ---
 
 
