@@ -156,7 +156,7 @@ body.darkmode th {
  * filters to get it somewhat nicer without having to deal with separate assets.
  */
 body.darkmode td img {
-    filter: saturate(90%) brightness(1.35);
+    filter: saturate(80%) brightness(1.6);
 }
 body.darkmode table td:nth-child(1) {
     background: rgba(0, 0, 0, 0.075);
