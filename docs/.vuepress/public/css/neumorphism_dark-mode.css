@@ -301,3 +301,10 @@ body.darkmode footer.page-edit {
     box-shadow: inset 6px 6px 14px #23262b,
         inset -6px -6px 14px #2f343a;
 }
+body.darkmode .edit-link a,
+body.darkmode .last-updated .prefix,
+body.darkmode .page-nav .inner .next a,
+body.darkmode .page-nav .inner .prev a {
+    color: white !important;
+}
+
