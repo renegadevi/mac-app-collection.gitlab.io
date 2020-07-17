@@ -394,6 +394,7 @@ ul.nav-dropdown li.dropdown-item a.nav-link:hover {
 }
 .sidebar .nav-links {
     border-bottom: 1px transparent !important;
+    padding-top: 1em !important;
 }
 
 /* PAGENAV
