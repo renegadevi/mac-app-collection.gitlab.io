@@ -80,9 +80,7 @@ a.nav-link.action-button:active {
     inset -3px -3px 7px #ffffff;
 }
 
-.go-to-top[data-v-4ead8f6c] {
-    color: #4e6e8e !important;
-}
+
 
 .home .features {
     margin-bottom: 5em;
@@ -383,6 +381,7 @@ ul.nav-dropdown li.dropdown-item a.nav-link:hover {
     padding-top: 1em !important;
 }
 
+
 /* PAGENAV
    ========================================================================== */
 
@@ -426,6 +425,10 @@ footer.page-edit {
     margin-bottom: 3em;
     max-width: 40em;
 
+}
+
+svg.go-to-top {
+    color: #4e6e8e !important;
 }
 
 /* ==========================================================================
