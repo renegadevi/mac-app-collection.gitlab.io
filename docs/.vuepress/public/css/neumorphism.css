@@ -292,6 +292,7 @@ table td:nth-child(5) {
 .dropdown-wrapper .dropdown-title{
     padding-bottom: 1px;
     line-height: 1.3rem !important;
+    color: #4e6e8e !important;
 }
 
 a.sidebar-link {
@@ -368,6 +369,7 @@ ul.nav-dropdown li.dropdown-item a.nav-link:hover {
     padding-left: 1.2em;
     padding-right: 1.2em;
     border-radius: 30px;
+    color: #4e6e8e !important;
 }
 .dropdown-wrapper:hover,
 .repo-link:hover {
