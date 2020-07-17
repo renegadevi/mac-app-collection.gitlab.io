@@ -11,7 +11,7 @@
 | Name ⇵ | Description ⇵ | Get it ⇵ | ⇵ | ⇵ |
 |:-------|:--------------|:--------:|:-:|:-:|
 |[TableTool](https://github.com/jakob/TableTool)| A simple CSV editor for the Mac.|[Github](https://github.com/jakob/TableTool)|![Free](symbols/free.svg "Free")|![Open-Source](symbols/open.svg "Open-Source")|
-|[Easy CSV Editor](https://apps.apple.com/app/easy-csv-editor/id1171346381?mt=12)| Easy CSV Editor is one of the best editors for CSV and TSV data files. In a clean and user-friendly interface, it offers simplicity and flexibility to edit both small and large documents.|[AppStore](https://apps.apple.com/app/easy-csv-editor/id1171346381?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[Easy CSV Editor](https://apps.apple.com/app/easy-csv-editor/id1171346381?mt=12)| Easy user-friendly interface, it offers simplicity and flexibility to edit both small and large documents.|[AppStore](https://apps.apple.com/app/easy-csv-editor/id1171346381?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 
 ## Database manager
