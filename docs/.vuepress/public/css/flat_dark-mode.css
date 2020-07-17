@@ -25,7 +25,7 @@ svg#dark-mode-toggle-icon {
     fill: #AAA9AA;
 }
 
-svg#dark-mode-toggle-icon:hover{
+svg#dark-mode-toggle-icon:hover {
     fill: #2c3e50;
 }
 
@@ -52,6 +52,7 @@ body.darkmode svg#dark-mode-toggle-icon {
 body {
     min-height: 100vh;
 }
+
 body.darkmode {
     color: #FFFFFF;
     background: #3A3C43;
@@ -63,13 +64,16 @@ body.darkmode {
 body.darkmode .navbar .site-name {
     color: #FFFFFF;
 }
+
 body.darkmode header.navbar {
     background: #2F3136;
     border-color: #2B2D31;
 }
+
 body.darkmode .dropdown-wrapper .dropdown-title {
     color: #ffffff;
 }
+
 body.darkmode ul.nav-dropdown {
     background: #2F3136;
     border-color: #2B2D31;
@@ -83,9 +87,11 @@ body.darkmode aside.sidebar {
     background: #2F3136;
     border-color: #2B2D31;
 }
+
 body.darkmode a.sidebar-link {
     color: #ffffff;
 }
+
 body.darkmode a.sidebar-link.active {
     color: #4BD69C;
     background: #3A3C43;
@@ -97,9 +103,11 @@ body.darkmode a.sidebar-link.active {
 body.darkmode .home .feature h2 {
     color: white;
 }
+
 .home h2 {
     border-color: #2F3136;
 }
+
 body.darkmode p,
 body.darkmode .home .features .feature p {
     color: #cecece !important;
@@ -109,16 +117,20 @@ body.darkmode .home .hero .description,
 body.darkmode .home .feature p {
     color: #8E9296;
 }
+
 body.darkmode .home .features {
     border-top: 1px solid #2F3136;
     border-bottom: 1px solid #2F3136;
 }
+
 body.darkmode .page-nav .inner {
     border-top: 1px solid #2F3136;
 }
+
 body.darkmode .page h2 {
     border-bottom: 1px solid transparent;
 }
+
 body.darkmode .page-edit .edit-link a,
 body.darkmode .page .last-updated span.prefix {
     color: #ffffff;
@@ -131,6 +143,7 @@ body.darkmode .page a {
 body.darkmode .navbar .links a {
     color: #ffffff;
 }
+
 body.darkmode .footer {
     color: white;
     border-color: #2F3136;
@@ -148,6 +161,7 @@ body.darkmode th,
 body.darkmode tr:nth-child(2n) {
     background-color: #2F3136;
 }
+
 body.darkmode th {
     border-bottom: 2px solid #2F3136 !important;
 }
@@ -158,6 +172,7 @@ body.darkmode th {
 body.darkmode td img {
     filter: saturate(80%) brightness(1.6);
 }
+
 body.darkmode table td:nth-child(1) {
     background: rgba(0, 0, 0, 0.075);
 }
@@ -169,6 +184,7 @@ body.darkmode .search-box input {
     border-color: #3A3C43;
     color: white;
 }
+
 body.darkmode ul.suggestions {
     background: #2F3136;
     border-color: #2B2D31;
@@ -177,4 +193,3 @@ body.darkmode ul.suggestions {
 body.darkmode ul.suggestions li.focused {
     background-color: #3A3C43 !important;
 }
-

@@ -17,13 +17,16 @@ body {
     border-bottom: 1px solid #eaecef;
     margin-bottom: 3em;
 }
+
 .home .features p {
-    margin-left:0em;
+    margin-left: 0em;
 }
+
 .home h2 {
     margin-top: 2em;
     border: none;
 }
+
 .home p {
     margin-left: 1em;
 }
@@ -35,6 +38,7 @@ table {
     width: 100% !important;
     display: table !important;
 }
+
 table td:nth-child(1) {
     background: rgba(0, 0, 0, 0.02);
 }
@@ -42,9 +46,11 @@ table td:nth-child(1) {
 table td:nth-child(1) a {
     font-weight: bold !important;
 }
+
 table td:nth-child(3) {
     min-width: 5.6em !important;
 }
+
 table td {
     font-size: 0.9em !important;
 }
@@ -53,19 +59,24 @@ th,
 td {
     border: none !important;
 }
+
 tr {
     border: none !important;
 }
+
 thead>tr {
     border-top: none !important;
 }
+
 th {
     border-bottom: 2px solid #dfe2e5 !important;
 }
+
 table td {
     border: none !important;
     line-height: 1.5;
 }
+
 thead th {
     cursor: pointer !important;
     -webkit-touch-callout: none !important;
@@ -75,6 +86,7 @@ thead th {
     -ms-user-select: none !important;
     user-select: none !important;
 }
+
 td img {
     max-height: 32px;
 }
@@ -85,6 +97,7 @@ table td:nth-child(5) {
 }
 
 @media all and (max-width: 900px) {
+
     table td:nth-child(2),
     table th:nth-child(2) {
         display: none;
@@ -94,6 +107,7 @@ table td:nth-child(5) {
         visibility: collapse;
     }
 }
+
 @media all and (min-width: 900px) {
     table td:nth-child(1) {
         min-width: 8em !important;
@@ -108,18 +122,20 @@ table td:nth-child(5) {
     margin-left: 1em;
 }
 
-a.sidebar-link{
+a.sidebar-link {
     font-weight: 600;
     border-radius: 10px;
     padding-top: 0.3em;
     padding-bottom: 0.3em;
     border: none !important;
 }
+
 .sidebar>.sidebar-links {
     margin-left: 1em;
     margin-right: 1em;
 
 }
+
 .sidebar-sub-headers a.sidebar-link {
     margin-top: 0.3em;
     margin-bottom: 0.3em;
@@ -132,6 +148,7 @@ a.sidebar-link.active {
     padding-bottom: 0.3em;
     background: #F6F8FA;
 }
+
 .dropdown-wrapper .dropdown-title {
     outline: none;
 }

@@ -3,8 +3,7 @@ module.exports = {
     plugins: [
         '@vuepress/back-to-top',
         '@vuepress/active-header-links',
-        '@vuepress/last-updated',
-        '@vuepress/nprogress'
+        '@vuepress/last-updated'
     ],
     title: 'Mac App Collection',
     description: 'Find hidden gems to improve your Mac.',
@@ -12,8 +11,8 @@ module.exports = {
     dest: 'public',
     head: [
         [ "link",   { rel: "stylesheet", href: "https://fonts.googleapis.com/css?family=Inter:400,500,600,700&display=swap" }, ],
-        [ "link",   { rel: "stylesheet", href: "/css/extra.css" }, ],
-        [ "link",   { rel: "stylesheet", href: "/css/dark-mode.css" }, ],
+        [ "link",   { rel: "stylesheet", href: "/css/neumorphism.css" }, ],
+        [ "link",   { rel: "stylesheet", href: "/css/neumorphism_dark-mode.css" }, ],
         [ "script", { src: "/js/sorttable.js" }, ],
         [ "script", { src: "/js/dark-mode.js" }, ],
         [ 'link',   { rel: "shortcut icon", href: "/favicon.ico" }],
@@ -23,7 +22,7 @@ module.exports = {
         search: true,
         searchMaxSuggestions: 10,
         searchPlaceholder: 'Search',
-        logo: '/img/icon-colored.png',
+        logo: '/img/icon-nocircle.png',
         lastUpdated: 'Last updated',
         activeHeaderLinks: true,
         nextLinks: true,

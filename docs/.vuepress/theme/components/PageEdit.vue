@@ -31,7 +31,8 @@ export default {
 
   computed: {
     lastUpdated () {
-      return this.$page.lastUpdated
+      var date = new Date(this.$page.lastUpdated).toISOString();
+      return date.split('T')[0] + ' ' + date.split('T')[1].split('.')[0];
     },
 
     lastUpdatedText () {

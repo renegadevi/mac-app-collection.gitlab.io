@@ -1,0 +1,303 @@
+/**
+ * This file contains all dark-mode adjustments
+ */
+
+
+/* ==========================================================================
+   DARK MODE BUTTON
+   ========================================================================== */
+button#dark-mode-toggle {
+    background: none;
+    border: none;
+    outline: none;
+    padding: .75em;
+    width: 40px !important;
+    height: 40px !important;
+    cursor: pointer;
+    border-radius: 999px;
+    box-shadow: 6px 6px 14px #d7dade,
+    -6px -6px 14px #ffffff;
+    margin-right: 2.3em;
+    margin-top: 0.1em;
+}
+button#dark-mode-toggle:hover,
+button#dark-mode-toggle:active {
+    box-shadow: inset 3px 3px 7px #d7dade,
+    inset -3px -3px 7px #ffffff;
+}
+button#dark-mode-toggle svg#dark-mode-toggle-icon {
+    transition: 0.5s;
+}
+
+svg#dark-mode-toggle-icon {
+    fill: #4e6e8e;
+}
+
+svg#dark-mode-toggle-icon:hover{
+    fill: #2c3e50;
+
+}
+
+body.darkmode svg#dark-mode-toggle-icon {
+    fill: #ffffff !important;
+    transform: rotate(180deg) !important;
+    transition: 0.5s;
+}
+
+body.darkmode button#dark-mode-toggle {
+    box-shadow: 6px 6px 14px #23262b,
+    -6px -6px 14px #2f343a;
+}
+body.darkmode button#dark-mode-toggle:hover,
+body.darkmode button#dark-mode-toggle:active {
+    box-shadow: inset 3px 3px 7px #23262b,
+    inset -3px -3px 7px #2f343a;
+}
+
+
+/* ==========================================================================
+   TRANSITION
+   ========================================================================== */
+* {
+    transition: 0.2s background-color;
+}
+
+/* BASIC
+   ========================================================================== */
+html {
+    background: #292d32 !important;
+}
+body {
+    min-height: 100vh;
+}
+body.darkmode {
+    background: #292d32 !important;
+    color: white;
+}
+
+
+
+/* NAVBAR
+   ========================================================================== */
+
+body.darkmode .navbar {
+    background-color: #292d32 !important;
+}
+body.darkmode .no-sidebar .navbar {
+    background: none !important;
+}
+body.darkmode .navbar .site-name {
+    color: white !important;
+}
+
+body.darkmode ul.nav-dropdown {
+    box-shadow: 12px 12px 25px #23262b,
+        -12px -12px 25px #646a72;
+    background: #292d32 !important;
+}
+body.darkmode button.dropdown-title>span.title {
+    color: white !important;
+}
+body.darkmode button.dropdown-title>span.title:hover,
+body.darkmode ul.nav-dropdown li.dropdown-item a.nav-link:hover {
+    color: #6a8bad !important;
+}
+body.darkmode .dropdown-wrapper .nav-dropdown .dropdown-item a {
+    color: white !important;
+}
+body.darkmode .repo-link {
+    color: white !important;
+}
+body.darkmode a.navlink,
+body.darkmode a.navlink.external {
+    color: white !important;
+}
+
+body.darkmode ul.nav-dropdown {
+    box-shadow: 12px 12px 25px #23262b;
+}
+
+@media all and (min-width: 720px) {
+body.darkmode .dropdown-wrapper {
+    box-shadow: 6px 6px 14px #23262b,
+        -6px -6px 14px #2f343a;
+}
+
+body.darkmode .repo-link {
+    box-shadow: 6px 6px 14px #23262b,
+        -6px -6px 14px #2f343a;
+}
+
+body.darkmode .dropdown-wrapper:hover,
+body.darkmode .repo-link:hover {
+    box-shadow: inset 3px 3px 7px #23262b,
+    inset -3px -3px 7px #2f343a;
+}
+
+
+/* SIDEBAR
+   ========================================================================== */
+@media all and (max-width: 720px) {
+    body.darkmode .sidebar {
+        background: #292d32 !important;
+        box-shadow: 2px 2px 25px #23262b,
+            -2px -2px 25px #2f343a;
+    }
+}
+
+body.darkmode a.sidebar-link.active {
+    font-weight: 600;
+    border-radius: 10px;
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
+    box-shadow: 3px 3px 7px #23262b,
+    -3px -3px 7px #2f343a;
+    color: white !important;
+
+}
+body.darkmode a.sidebar-link {
+    color: white !important;
+}
+body.darkmode a.sidebar-link:hover {
+    color: #6a8bad !important;
+}
+body.darkmode a.sidebar-link:hover {
+    background: #292d32 !important;
+    box-shadow: 3px 3px 7px #23262b,
+        -3px -3px 7px #2f343a;
+}
+
+
+/* HOMEPAGE / PAGE
+   ========================================================================== */
+
+body.darkmode .home .hero,
+body.darkmode .home .hero img,
+body.darkmode .home .hero .action-button {
+    background: #292d32 !important;
+    border: transparent !important;
+    box-shadow: 12px 12px 25px #23262b,
+    -12px -12px 25px #2f343a;
+}
+
+
+body.darkmode a.nav-link.action-button:hover,
+body.darkmode a.nav-link.action-button:active {
+    box-shadow: inset 12px 12px 25px #23262b,
+    inset -12px -12px 25px #2f343a;
+}
+
+body.darkmode .home .feature h2 {
+    color: white;
+    border: transparent !important;
+}
+body.darkmode .home p {
+    color: #bcbcbc;
+    border: transparent !important;
+}
+
+body.darkmode .theme-default-content.custom {
+    box-shadow: 12px 12px 25px #23262b,
+    -12px -12px 25px #2f343a;
+}
+body.darkmode .theme-default-content.content__default p a {
+    color: white !important;
+    font-weight: bold !important;
+}
+body.darkmode .theme-default-content.custom a {
+    color: white !important;
+}
+body.darkmode .home .footer {
+    color: white !important;
+}
+
+/* TABLE
+   ========================================================================== */
+
+/* Instead of making new images with correct colors, we can adjust it with
+ * filters to get it somewhat nicer without having to deal with separate assets.
+ */
+body.darkmode td img {
+    filter: saturate(80%) brightness(1.6);
+}
+
+
+body.darkmode table {
+    background: #292d32;
+    box-shadow: 12px 12px 30px #23262b,
+        -12px -12px 30px #2f343a;
+
+}
+body.darkmode th {
+    background: transparent !important;
+    border-bottom: 2px solid #2f343a !important;
+}
+body.darkmode table td:nth-child(1) a {
+    color: white !important;
+}
+
+body.darkmode .theme-default-content.content__default table tbody tr td a {
+    color: #ffffff !important;
+}
+body.darkmode table td {
+    border-bottom: 1px solid #2f343a !important;
+}
+body.darkmode table tr:last-child td {
+    border-bottom: none !important;
+}
+
+/* SEARCH
+   ========================================================================== */
+body.darkmode .search-box input {
+    background: #2F3136 url(/mac-app-collection/assets/img/search.83621669.svg) 0.9rem 0.9rem no-repeat !important;
+    box-shadow: 6px 6px 14px #23262b,
+    -6px -6px 14px #2f343a;
+    color: white !important;
+}
+body.darkmode .search-box input:active,
+body.darkmode .search-box input:focus {
+    background: #2F3136 url(/mac-app-collection/assets/img/search.83621669.svg) 0.9rem 0.9rem no-repeat !important;
+    box-shadow: inset 3px 3px 7px #23262b,
+    inset -3px -3px 7px #2f343a;
+}
+body.darkmode ul.suggestions {
+    background: #2F3136 !important;
+    box-shadow: 12px 12px 25px #23262b,
+    -12px -12px 25px #2f343a;
+
+}
+body.darkmode ul.suggestions li a {
+    color: white !important;
+}
+
+body.darkmode ul.suggestions li.focused {
+    background-color: #ffffff !important;
+    color: #2F3136 !important;
+}
+
+body.darkmode ul.suggestions li.focused a {
+    color: #2F3136 !important;
+}
+body.darkmode .search-box input::placeholder {
+    color: #ffffff;
+}
+
+
+/* PAGENAV
+   ========================================================================== */
+
+body.darkmode .page-nav .inner span {
+    box-shadow: 6px 6px 14px #23262b,
+        -6px -6px 14px #2f343a;
+}
+
+body.darkmode .page-nav .inner span:hover,
+body.darkmode .page-nav .inner span:active {
+    box-shadow: inset 6px 6px 14px #23262b,
+        inset -6px -6px 14px #2f343a;
+}
+
+body.darkmode footer.page-edit {
+    box-shadow: inset 6px 6px 14px #23262b,
+        inset -6px -6px 14px #2f343a;
+}

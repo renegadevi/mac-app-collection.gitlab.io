@@ -1,0 +1,482 @@
+/**
+ * This file is a extra css to override standard theme
+ */
+
+/* ==========================================================================
+   BASIC
+   ========================================================================== */
+body {
+    font-family: 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif !important;
+    background: #ecf0f4 !important;
+}
+html {
+    animation: fadeInAnimation ease 1s;
+    animation-iteration-count: 1;
+    animation-fill-mode: forwards;
+}
+p a {
+    color: #4e6e8e !important;
+}
+h1, h2 {
+    border-bottom: none !important;
+}
+
+/* ==========================================================================
+   EFFECTS
+   ========================================================================== */
+   @keyframes fadeInAnimation {
+       0% {
+           opacity: 0;
+       }
+
+       100% {
+           opacity: 1;
+       }
+   }
+
+
+/* ==========================================================================
+   HOMEPAGE
+   ========================================================================== */
+
+.home .features {
+    border-bottom: 1px solid #eaecef;
+    margin-bottom: 3em;
+}
+
+.home .features p {
+    margin-left: 0em;
+}
+
+.home h2 {
+    margin-top: 2em;
+    border: none;
+}
+
+.home p {
+    margin-left: 1em;
+    color: #4e6e8e;
+}
+
+.hero {
+    padding: 2em;
+    margin-top: 3em;
+    border-radius: 30px;
+    box-shadow: 12px 12px 25px #d7dade,
+        -12px -12px 25px #ffffff;
+}
+
+.home .hero img {
+    border-radius: 60px;
+    margin: 4em auto;
+    padding: 2.2em;
+    width: 12em;
+    border: 1px solid rgba(255, 255, 255, 0.075);
+    margin-bottom: 5em !important;
+    margin-top: 5em !important;
+    background: #ecf0f4;
+    box-shadow: 6px 6px 14px #d7dade,
+    -6px -6px 14px #ffffff;
+}
+
+
+.home .hero .action-button {
+    color: #6C7587 !important;
+    border-radius: 30px !important;
+    border: none !important;
+    margin-top: 1em;
+    background: #ecf0f4 !important;
+    box-shadow: 6px 6px 14px #d7dade,
+        -6px -6px 14px #ffffff;
+}
+
+a.nav-link.action-button:hover,
+a.nav-link.action-button:active {
+    box-shadow: inset 3px 3px 7px #d7dade,
+    inset -3px -3px 7px #ffffff;
+}
+
+.go-to-top[data-v-4ead8f6c] {
+    color: #4e6e8e !important;
+}
+
+.home .features {
+    margin-bottom: 5em;
+}
+
+.theme-default-content.custom {
+    box-shadow: 12px 12px 25px #d7dade,
+    -12px -12px 25px #ffffff;
+    padding: 2em 3em !important;
+    border-radius: 30px;
+    margin-bottom: 2em !important;
+}
+
+.theme-container {
+    padding-top: 2em !important;
+}
+
+.content__default {
+    margin-bottom: 1em !important;
+    border-radius: 30px;
+    padding-bottom: 7em !important;
+}
+
+.page .content__default>h1,
+.page .content__default>h2 {
+    text-align: center;
+}
+
+.theme-default-content:not(.custom){
+    margin-top: 1em !important;
+}
+.page .theme-default-content.content__default>h1 {
+    display: none !important;
+}
+.page .theme-default-content.content__default>h2 {
+    margin-top: -1em !important;
+}
+
+.page .theme-default-content:not(.custom)>h1:first-child {
+    margin-top: -4.5rem !important;
+    margin-bottom: 2rem !important;
+}
+
+.theme-default-content.content__default table tbody tr td a {
+    color: #4e6e8e !important;
+}
+
+.home .features {
+    border: transparent !important;
+}
+
+.home .footer {
+    border-top: transparent !important;
+}
+a.header-anchor, a {
+    color: #2c3e50 !important;
+}
+
+/* ==========================================================================
+   TABLES
+   ========================================================================== */
+table {
+    width: 100% !important;
+    background: #ecf0f4;
+    display: table !important;
+    padding: 0.75em !important;
+    border-collapse: separate !important;
+    border-radius: 15px !important;
+    box-shadow: 12px 12px 30px #d7dade,
+        -12px -12px 30px #ffffff;
+}
+
+table thead {
+    border-radius: 30px !important;
+}
+
+table:after {
+    padding: 2em !important;
+    border-collapse: separate !important;
+    border-radius: 30px !important;
+
+}
+
+tr:nth-child(2n) {
+    background: transparent !important;
+}
+
+th {
+    font-weight: 500;
+    font-size: 0.95em;
+}
+
+table td:nth-child(1) a {
+    color: #4e6e8e !important;
+    font-weight: bold !important;
+}
+
+table td:nth-child(3) {
+    min-width: 5.6em !important;
+}
+
+table td {
+    font-size: 0.9em !important;
+}
+
+th,
+td {
+    border: none !important;
+}
+
+thead>tr {
+    border-top-right-radius: 30px;
+    border-top-left-radius: 30px;
+}
+
+th {
+    border-bottom: 2px solid #dfe2e5 !important;
+}
+
+table td {
+    border-bottom: 1px solid #dfe2e5 !important;
+    line-height: 1.5;
+}
+table tr:last-child td {
+    border-bottom: none !important;
+}
+
+thead th {
+    cursor: pointer !important;
+    -webkit-touch-callout: none !important;
+    -webkit-user-select: none !important;
+    -khtml-user-select: none !important;
+    -moz-user-select: none !important;
+    -ms-user-select: none !important;
+    user-select: none !important;
+}
+
+td img {
+    max-height: 32px;
+}
+
+table td:nth-child(4),
+table td:nth-child(5) {
+    width: 1.75em !important;
+}
+
+@media all and (max-width: 900px) {
+
+    table td:nth-child(2),
+    table th:nth-child(2) {
+        display: inline-block;
+    }
+}
+
+@media all and (min-width: 900px) {
+    table td:nth-child(1) {
+        min-width: 8em !important;
+    }
+}
+
+
+/* ==========================================================================
+   NAVBAR / SIDEBAR
+   ========================================================================== */
+.bar {
+    display: none !important;
+}
+.navbar {
+    background-color: #ecf0f4 !important;
+    border-bottom: transparent !important;
+}
+.page .navbar {
+
+    max-width: 100wv !important;
+}
+.no-sidebar .navbar {
+    position: relative;
+    background: none !important;
+    max-width: 63em;
+    margin: 0 auto;
+    margin-bottom: -3em;
+}
+
+.navbar .links {
+    background: none !important;
+    margin-left: 1em;
+
+}
+
+.sidebar {
+    background: transparent !important;
+    border: transparent !important;
+}
+
+@media all and (max-width: 720px) {
+    .sidebar {
+        background: #ecf0f4 !important;
+        box-shadow: 2px 2px 25px #d7dade,
+            -2px -2px 25px #ffffff;
+    }
+}
+
+.nav-links a:hover,
+.dropdown-wrapper .dropdown-title:hover {
+    color: #4e6e8e !important;
+}
+.dropdown-wrapper .dropdown-title{
+    padding-bottom: 1px;
+    line-height: 1.3rem !important;
+}
+
+a.sidebar-link {
+    font-weight: 600;
+    border-radius: 99px !important;
+    padding-top: 0.5em !important;
+    padding-bottom: 0.5em !important;
+    border: none !important;
+}
+a.sidebar-link:hover {
+    background: #ecf0f4 !important;
+    box-shadow: 3px 3px 7px #d7dade,
+    -3px -3px 7px #ffffff;
+}
+
+.sidebar>.sidebar-links {
+    margin-left: 1em;
+    margin-right: 1em;
+
+}
+
+.sidebar-sub-headers a.sidebar-link {
+    padding-top: 0.6em !important;
+    padding-bottom: 0.6em !important;
+    margin-top: 0.25em !important;
+    margin-bottom: 0.25em !important;
+}
+
+a.sidebar-link.active {
+    font-weight: 600;
+    border-radius: 10px;
+    box-shadow: 3px 3px 7px #d7dade,
+     -3px -3px 7px #ffffff;
+    color: #4e6e8e !important;
+}
+
+.dropdown-wrapper .dropdown-title {
+    outline: none;
+}
+
+a.sidebar-link:hover {
+    transition: .25s;
+    color: #4e6e8e !important;
+}
+
+ul.nav-dropdown {
+    box-shadow: 12px 12px 25px #d7dade;
+    background: #ecf0f4 !important;
+    border: transparent !important;
+    border-radius: 15px !important;
+}
+
+ul.nav-dropdown li.dropdown-item a.nav-link:hover {
+    color: #4e6e8e !important;
+
+}
+
+@media all and (min-width: 720px) {
+.dropdown-wrapper {
+    box-shadow: 6px 6px 14px #d7dade,
+    -6px -6px 14px #ffffff;
+    padding-top: 0.3em;
+    padding-bottom: 0.5em;
+    padding-left: 0.7em;
+    padding-right: 0.7em;
+    border-radius: 30px;
+    margin-left: 1em;
+}
+.repo-link {
+    box-shadow: 6px 6px 14px #d7dade,
+    -6px -6px 14px #ffffff;
+    padding-top: 0.6em;
+    padding-bottom: 0.65em;
+    padding-left: 1.2em;
+    padding-right: 1.2em;
+    border-radius: 30px;
+}
+.dropdown-wrapper:hover,
+.repo-link:hover {
+    box-shadow: inset 3px 3px 7px #d7dade,
+    inset -3px -3px 7px #ffffff;
+}
+
+}
+.sidebar .nav-links {
+    border-bottom: 1px transparent !important;
+}
+
+/* PAGENAV
+   ========================================================================== */
+
+.page-nav .inner {
+    padding-right: 1em !important;
+    padding-left: 1em !important;
+    border-top: transparent !important;
+}
+
+.page-nav .inner span {
+    box-shadow: 6px 6px 14px #d7dade,
+        -6px -6px 14px #ffffff;
+    border-radius: 30px;
+    line-height: 1;
+    padding: 1em 1.5em;
+    margin: 0;
+    margin-bottom: 3em;
+    display: inline-block;
+}
+
+.page-nav .inner span:hover,
+.page-nav .inner span:active {
+    box-shadow: inset 6px 6px 14px #d7dade,
+        inset -6px -6px 14px #ffffff;
+}
+
+.page-nav .inner span.prev {
+    margin-left: 0em;
+}
+
+.page-nav .inner span.next {
+    margin-right: 0em;
+}
+
+footer.page-edit {
+    box-shadow: inset 3px 3px 7px #d7dade,
+        inset -3px -3px 7px #ffffff;
+    border-radius: 30px;
+    margin-top: -7em;
+    margin: -6em auto;
+    margin-bottom: 3em;
+    max-width: 40em;
+
+}
+
+/* ==========================================================================
+   SEARCH-BOX
+   ========================================================================== */
+.search-box input {
+    background: #ecf0f4 url(/mac-app-collection/assets/img/search.83621669.svg) 0.9rem 0.9rem no-repeat !important;
+    box-shadow: 6px 6px 14px #d7dade,
+    -6px -6px 14px #ffffff;
+    border: none!important;
+    padding-top: 0.3em !important;
+    padding-bottom: 0.3em !important;
+    color: #4e6e8e;
+}
+.search-box input::placeholder {
+    color: #4e6e8e;
+}
+
+.search-box input:active,
+.search-box input:focus {
+    background: #ecf0f4 url(/mac-app-collection/assets/img/search.83621669.svg) 0.9rem 0.9rem no-repeat !important;
+    box-shadow: inset 3px 3px 7px #d7dade,
+    inset -3px -3px 7px #ffffff;
+}
+
+ul.suggestions {
+    background: #ecf0f4 !important;
+    border: transparent !important;
+    box-shadow: 12px 12px 25px #d7dade,
+        -12px -12px 25px #ffffff;
+    border-radius: 10px !important;
+}
+
+ul.suggestions li.focused {
+    background-color: #4e6e8e !important;
+    color: white !important;
+}
+
+ul.suggestions li.focused a {
+    color: white !important;
+}
