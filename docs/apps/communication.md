@@ -19,7 +19,7 @@
 
 | Name ⇵ | Description ⇵ | Get it ⇵ | ⇵ | ⇵ |
 |:-------|:--------------|:--------:|:-:|:-:|
-|[Textual](https://www.codeux.com/textual/)| Textual is the most popular GUI application for IRC on macOS.|[AppStore](https://apps.apple.com/us/app/textual-7/id1262957439?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[Textual](https://www.codeux.com/textual/)| Textual is the most popular GUI application for IRC on macOS.|[AppStore](https://apps.apple.com/us/app/textual-7/id1262957439?mt=12)|![Paid](symbols/paid.svg "Paid")|![Open-Source](symbols/open.svg "Open-Source")|
 
 
 ## Messages
