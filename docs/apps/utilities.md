@@ -5,7 +5,7 @@
 |:-------|:--------------|:--------:|:-:|:-:|
 |[The Unarchiver](https://theunarchiver.com/)| Open any archive in seconds.|[AppStore](https://itunes.apple.com/us/app/the-unarchiver/id425424353?mt=12)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[BetterZip](https://macitbetter.com/)| Advanced archiver that does everything you need.|[Website](https://macitbetter.com/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
-|[AppName](https://www.keka.io/)| Keka is a full featured file archiver, as easy as it can be.|[AppStore](https://apps.apple.com/app/keka/id470158793)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[Keka](https://www.keka.io/)| Keka is a full featured file archiver, as easy as it can be.|[AppStore](https://apps.apple.com/app/keka/id470158793)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Archiver](https://archiverapp.com/)| Easy to use archiver.|[Website](https://archiverapp.com/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 
