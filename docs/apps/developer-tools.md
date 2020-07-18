@@ -17,7 +17,7 @@
 ## Database manager
 | Name ⇵ | Description ⇵ | Get it ⇵ | ⇵ | ⇵ |
 |:-------|:--------------|:--------:|:-:|:-:|
-|[SequelPro](http://www.sequelpro.com/)| Sequel Pro is a fast, easy-to-use Mac database management application for working with MySQL databases.|[Website](http://www.sequelpro.com/)|![Free](symbols/free.svg "Free")|![Open-Source](symbols/open.svg "Open-Source")|
+|[Sequel Ace](https://sequel-ace.com/)| Sequel Ace is a fast, easy-to-use Mac database management application for working with MySQL & MariaDB databases.|[AppStore](https://apps.apple.com/us/app/sequel-ace/id1518036000?ls=1)|![Free](symbols/free.svg "Free")|![Open-Source](symbols/open.svg "Open-Source")|
 |[TablePlus](https://tableplus.com/)| Modern, native, and friendly GUI tool for relational databases: MySQL, PostgreSQL, SQLite & more. |[Website](https://tableplus.com/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Base](http://menial.co.uk/base/)| Base is an application for creating, designing, editing and browsing SQLite 3 database files.|[Website](http://menial.co.uk/base/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Postioco](https://eggerapps.at/postico/)| A Modern PostgreSQL Client for the Mac.|[Website](https://eggerapps.at/postico/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
