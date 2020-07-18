@@ -61,31 +61,6 @@
           </form>
         </div>
     </div>
-<script>
-    // This is the script that manage all the filters. It's quite messy, but it does
-    // "work"... as in I predict it may have a bug or two I've yet not experienced.
-    $(document.body).on('change', "#filter_paid", function () {
-      $("table tr img[alt='Paid']").closest("tr").toggle();
-    });
-    $(document.body).on('change', "#filter_freemium", function () {
-        $("table tr img[alt='Freemium']").closest("tr").toggle();
-    });
-    $(document.body).on('change', "#filter_subscription", function () {
-        $("table tr img[alt='Subscription']").closest("tr").toggle();
-    });
-    $(document.body).on('change', "#filter_advertising", function () {
-        $("table tr img[alt='Advertising']").closest("tr").toggle();
-    });
-    $(document.body).on('change', "#filter_free", function () {
-        $("table tr img[alt='Free']").closest("tr").toggle();
-    });
-    $(document.body).on('change', "#filter_open_source", function () {
-        $("table tr img[alt='Open-Source']").closest("tr").toggle();
-    });
-    $(document.body).on('change', "#filter_closed_source", function () {
-        $("table tr img[alt='Closed-Source']").closest("tr").toggle();
-    });
-</script>
 
       <AlgoliaSearchBox
         v-if="isAlgoliaSearch"
