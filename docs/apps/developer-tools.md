@@ -45,7 +45,7 @@
 ## Dictionaries
 | Name ⇵ | Description ⇵ | Get it ⇵ | ⇵ | ⇵ |
 |:-------|:--------------|:--------:|:-:|:-:|
-|[Dash](https://kapeli.com/dash)| Instant offline access to 200+ API documentation sets.|[Website](https://kapeli.com/dash)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[Dash](https://kapeli.com/dash)| Instant offline access to 200+ API documentation sets.|[Website](https://kapeli.com/dash)|![Free](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 
 ## Diff/Merge
