@@ -468,13 +468,14 @@ ul.nav-dropdown li.dropdown-item a.nav-link:hover {
     width: 200%;
     background: #ECF0F4;
     border-radius: 15px;
-    transform: translate3d(-75%, 0, 0);
+    transform: translate3d(25%, 0, 0);
+
     transition: transform .4s cubic-bezier(.85, .05, .18, 1.35);
     box-shadow: -8px -4px 8px 0px #fff, 8px 4px 12px 0px #d1d9e6;
 }
 .toggle-state:checked~.indicator,
 input[type="checkbox"]:checked~.indicator {
-    transform: translate3d(25%, 0, 0);
+    transform: translate3d(-75%, 0, 0);
 }
 
 
