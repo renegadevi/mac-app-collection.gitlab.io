@@ -13,9 +13,10 @@ module.exports = {
         [ "link",   { rel: "stylesheet", href: "https://fonts.googleapis.com/css?family=Inter:400,500,600,700&display=swap" }, ],
         [ "link",   { rel: "stylesheet", href: "/css/neumorphism.css" }, ],
         [ "link",   { rel: "stylesheet", href: "/css/neumorphism_dark-mode.css" }, ],
-        [ "script", { src: "/js/sorttable.js" }, ],
-        [ "script", { src: "/js/dark-mode.js" }, ],
-        [ 'link',   { rel: "shortcut icon", href: "/favicon.ico" }],
+        [ "link",   { rel: "shortcut icon", href: "/favicon.ico" }],
+        [ "script", { src: "https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js" }],
+        [ "script", { src: "/js/dark-mode-filters.js" }, ],
+        [ "script", { src: "/js/sorttable.js" },],
     ],
     themeConfig: {
         navbar: true,
@@ -36,7 +37,7 @@ module.exports = {
             {
                 text: 'Feedback',
                 items: [
-                    { text: 'GitLab issues', link: 'https://gitlab.com/renegadevi/mac-app-collection/-/issues/new' },
+                    { text: 'Suggest a app', link: 'https://gitlab.com/renegadevi/mac-app-collection/-/issues/new' },
                     { text: 'Email', link: 'mailto:philip.andersen@codeofmagi.net?subject=Mac%20App%20Collection: Feedback' }
                 ]
             },

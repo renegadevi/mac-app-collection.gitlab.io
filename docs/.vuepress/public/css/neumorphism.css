@@ -375,6 +375,109 @@ ul.nav-dropdown li.dropdown-item a.nav-link:hover {
 }
 
 
+.dropbtn {
+    background: transparent;
+    border-radius: 30px;
+    color: #4E6E8E;
+    border: none;
+    cursor: pointer;
+    margin-right: 1.5em;
+    box-shadow: 6px 6px 14px #d7dade, -6px -6px 14px #ffffff;
+    font-size: 1em;
+    font-weight: 400;
+    padding-top: 0.65em;
+    padding-bottom: 0.65em;
+    padding-left: 1em;
+    padding-right: 1em;
+    font-size: 0.9rem;
+    font-family: inherit;
+    line-height: 1.4rem;
+    font-weight: 500;
+    background-size: 24px;
+    outline: none;
+}
+
+.dropbtn:hover {
+    box-shadow: inset 3px 3px 7px #d7dade,
+        inset -3px -3px 7px #ffffff;
+}
+
+.filter-dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #ECF0F4;
+    min-width: 260px;
+    overflow: auto;
+    z-index: 1;
+    box-shadow: 3px 3px 7px #d7dade,
+        -3px -3px 7px #ffffff;
+    outline: none;
+    border-radius: 15px;
+    padding-top: 0.5em;
+}
+
+.filter-dropdown-content input {
+    padding: 12px 16px;
+    text-decoration: none;
+    cursor: pointer;
+    outline: none;
+}
+
+.filter-dropdown-content label {
+    padding-left: 1em;
+    cursor: pointer;
+}
+
+.show {
+    display: block;
+}
+
+
+.label {
+    line-height: 3em;
+    display: inline-flex;
+    cursor: pointer;
+    color: #394a56;
+}
+
+.label-text {
+    display: inline-block;
+    margin-left: 1.5em;
+}
+.theme-container.no-sidebar header.navbar div.links div#main-filter-dropdown.filter-dropdown button.dropbtn {
+    display: none;
+}
+/* Thanks to Dr.Web for this neat animation @ https://codepen.io/drweb */
+.toggle {
+    isolation: isolate;
+    display: inline-block;
+    position: relative;
+    height: 30px;
+    margin-top: 0.5em;
+    width: 60px;
+    border-radius: 15px;
+    overflow: hidden;
+    box-shadow: -8px -4px 8px 0px #fff, 8px 4px 12px 0px #d1d9e6, 4px 4px 4px 0px #d1d9e6 inset, -4px -4px 4px 0px #fff inset;
+}
+
+.toggle-state, input[type="checkbox"] {
+    display: none;
+}
+.indicator {
+    height: 100%;
+    width: 200%;
+    background: #ECF0F4;
+    border-radius: 15px;
+    transform: translate3d(-75%, 0, 0);
+    transition: transform .4s cubic-bezier(.85, .05, .18, 1.35);
+    box-shadow: -8px -4px 8px 0px #fff, 8px 4px 12px 0px #d1d9e6;
+}
+.toggle-state:checked~.indicator,
+input[type="checkbox"]:checked~.indicator {
+    transform: translate3d(25%, 0, 0);
+}
+
+
 /* PAGENAV
    ========================================================================== */
 

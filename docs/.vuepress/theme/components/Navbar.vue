@@ -27,7 +27,6 @@
       } : {}"
     >
       <button style="width: 64px;" id="dark-mode-toggle" class="dark-mode-toggle" aria-label="toggle dark mode">
-        <!-- <img id="dark-mode-icon" src="/img/dark-mode-icon.svg"> -->
         <svg version="1.1" id="dark-mode-toggle-icon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
             viewBox="0 0 64 64" style="enable-background:new 0 0 64 64;" xml:space="preserve">
         <g id="icon">
@@ -47,6 +46,24 @@
         </g>
         </svg>
       </button>
+
+      <div id="main-filter-dropdown" class="filter-dropdown">
+        <button onclick="toggleFilters()" class="dropbtn">Filter&nbsp;&nbsp;<span class="arrow down"></span></button>
+          <div id="filter-dropdown" class="filter-dropdown-content">
+            <form class="filter">
+              <label class="label" for="filter_paid"><div class="toggle"><input id="filter_paid" type="checkbox"><div class="indicator"></div></div><div class="label-text">Paid</div></label><br>
+              <label class="label" for="filter_freemium"><div class="toggle"><input id="filter_freemium" type="checkbox"><div class="indicator"></div></div><div class="label-text">Freemium</div></label><br>
+              <label class="label" for="filter_subscription"><div class="toggle"><input id="filter_subscription" type="checkbox"><div class="indicator"></div></div><div class="label-text">Subscription</div></label><br>
+              <label class="label" for="filter_advertising"><div class="toggle"><input id="filter_advertising" type="checkbox"><div class="indicator"></div></div><div class="label-text">Advertising</div></label><br>
+              <label class="label" for="filter_free"><div class="toggle"><input id="filter_free" type="checkbox"><div class="indicator"></div></div><div class="label-text">Free</div></label><br>
+              <label class="label" for="filter_open_source"><div class="toggle"><input id="filter_open_source" type="checkbox"><div class="indicator"></div></div><div class="label-text">Open-Source</div></label><br>
+              <label class="label" for="filter_closed_source"><div class="toggle"><input id="filter_closed_source" type="checkbox"><div class="indicator"></div></div><div class="label-text">Closed-Source</div></label>
+          </form>
+        </div>
+    </div>
+
+
+
       <AlgoliaSearchBox
         v-if="isAlgoliaSearch"
         :options="algolia"
@@ -57,6 +74,7 @@
     </div>
   </header>
 </template>
+
 
 <script>
 import AlgoliaSearchBox from '@AlgoliaSearchBox'

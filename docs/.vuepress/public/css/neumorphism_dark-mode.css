@@ -135,6 +135,37 @@ body.darkmode .repo-link:hover {
 }
 }
 
+
+body.darkmode .dropbtn {
+    color: #ffffff;
+    box-shadow: 6px 6px 14px #23262b,
+    -6px -6px 14px #2f343a;
+}
+body.darkmode .dropbtn:hover {
+    box-shadow: inset 3px 3px 7px #23262b,
+        inset -3px -3px 7px #2f343a;
+}
+body.darkmode .filter-dropdown-content {
+    background-color: #292d32;
+    box-shadow: 3px 3px 7px #23262b,
+        -3px -3px 7px #2f343a;
+}
+body.darkmode .label {
+    color: #ffffff;
+}
+body.darkmode .toggle {
+    box-shadow: -8px -4px 8px 0px #2f343a,
+    8px 4px 12px 0px #23262b,
+    4px 4px 4px 0px #23262b inset,
+    -4px -4px 4px 0px #2f343a inset;
+}
+body.darkmode .indicator {
+    background: #292d32;
+    box-shadow: -8px -4px 8px 0px #23262b,
+    8px 4px 12px 0px #2f343a;
+}
+
+
 /* SIDEBAR
    ========================================================================== */
 @media all and (max-width: 720px) {
