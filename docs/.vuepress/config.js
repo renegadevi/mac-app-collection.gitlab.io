@@ -10,13 +10,36 @@ module.exports = {
     base: '/mac-app-collection/',
     dest: 'public',
     head: [
+        // Styling
         [ "link",   { rel: "stylesheet", href: "https://fonts.googleapis.com/css?family=Inter:400,500,600,700&display=swap" }, ],
         [ "link",   { rel: "stylesheet", href: "/css/neumorphism.css" }, ],
         [ "link",   { rel: "stylesheet", href: "/css/neumorphism_dark-mode.css" }, ],
+
+        // Favicon
         [ "link",   { rel: "shortcut icon", href: "/favicon.ico" }],
+
+        // Javascript
         [ "script", { src: "https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js" }],
         [ "script", { src: "/js/dark-mode-filters.js" }, ],
         [ "script", { src: "/js/sorttable.js" },],
+
+        // SEO
+        ['meta', { name: "title", content: "Mac App Collection" },],
+        ['meta', { name: "description", content: "Find hidden gems to improve your Mac." },],
+
+        ['meta', { property: "og:type", content: "website" },],
+        ['meta', { property: "og:url", content: "https://renegadevi.gitlab.io/mac-app-collection/" },],
+        ['meta', { property: "og:title", content: "Mac App Collection" },],
+        ['meta', { property: "og:description", content: "Find hidden gems to improve your Mac." },],
+        ['meta', { property: "og:image", content: "https://renegadevi.gitlab.io/mac-app-collection/img/icon-colored.png" },],
+
+        ['meta', { property: "twitter:card" ,content: "summary_large_image" },],
+        ['meta', { property: "twitter:url", content: "https://renegadevi.gitlab.io/mac-app-collection/" },],
+        ['meta', { property: "twitter:title", content: "Mac App Collection" },],
+        ['meta', { property: "twitter:description", content: "Find hidden gems to improve your Mac." },],
+        ['meta', { property: "twitter:image", content: "https://renegadevi.gitlab.io/mac-app-collection/img/icon-colored.png" },],
+
+
     ],
     themeConfig: {
         navbar: true,
