@@ -27,7 +27,7 @@
 |:-------|:--------------|:--------:|:-:|:-:|
 |[SwitchResX](https://www.madrau.com/)| Get full control of your displays|[Website](https://www.madrau.com/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[f.lux](https://justgetflux.com/)| It makes the color of your computer's display adapt to the time of day, warm at night and like sunlight during the day. |[Website](https://justgetflux.com/)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
-|[MonitorControl](https://github.com/the0neyouseek/MonitorControl)| Control your external monitor brightness & volume on your Mac |[Github](https://github.com/the0neyouseek/MonitorControl)|![Free](symbols/free.svg "Free")|![Open-Source](symbols/open.svg "Open-Source")|
+|[MonitorControl](https://github.com/MonitorControl/MonitorControl)| Control your external monitor brightness & volume on your Mac |[Github](https://github.com/MonitorControl/MonitorControl)|![Free](symbols/free.svg "Free")|![Open-Source](symbols/open.svg "Open-Source")|
 |[GammaControl](https://michelf.ca/projects/gamma-control/)| Per-screen color adjustments.|[AppStore](https://apps.apple.com/us/app/gamma-control/id1250521285?l=en)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[QuickRes](https://thnkdev.com/QuickRes/)| Quick and simple resolution changer for MacOS as a menubar dropdown.|[Website](https://thnkdev.com/QuickRes/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
