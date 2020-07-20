@@ -31,13 +31,13 @@ module.exports = {
         ['meta', { property: "og:url", content: "https://renegadevi.gitlab.io/mac-app-collection/" },],
         ['meta', { property: "og:title", content: "Mac App Collection" },],
         ['meta', { property: "og:description", content: "Find hidden gems to improve your Mac." },],
-        ['meta', { property: "og:image", content: "https://renegadevi.gitlab.io/mac-app-collection/img/icon-colored.png" },],
+        ['meta', { property: "og:image", content: "https://renegadevi.gitlab.io/mac-app-collection/img/icon-1200x1200.png" }, ],
 
         ['meta', { property: "twitter:card" ,content: "summary_large_image" },],
         ['meta', { property: "twitter:url", content: "https://renegadevi.gitlab.io/mac-app-collection/" },],
         ['meta', { property: "twitter:title", content: "Mac App Collection" },],
         ['meta', { property: "twitter:description", content: "Find hidden gems to improve your Mac." },],
-        ['meta', { property: "twitter:image", content: "https://renegadevi.gitlab.io/mac-app-collection/img/icon-colored.png" },],
+        ['meta', { property: "twitter:image", content: "https://renegadevi.gitlab.io/mac-app-collection/img/icon-1200x1200.png" },],
 
 
     ],
