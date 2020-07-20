@@ -40,6 +40,8 @@
 |[Clipboard Center](http://www.kodlian.com/apps/clipboard-center)| Easy-to-use and powerful clipboard manager. Through a history, lists and a flexible UI, this app allows you to copy and paste texts, images, and files in the most efficient way.|[AppStore](https://apps.apple.com/us/app/clipboard-center/id599614786?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[CopyClip](https://apps.apple.com/us/app/copyclip-clipboard-history/id595191960?mt=12)| Very simple and efficient clipboard manager for your Mac. Running discreetly from your menu bar.|[AppStore](https://apps.apple.com/us/app/copyclip-clipboard-history/id595191960?mt=12)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[CopyClip 2](https://fiplab.com/apps/copyclip-for-mac)| A newer clipboard manager for your Mac running discreetly from your menu bar and features a search bar similar to spotlight and is integraded with the touchbar.|[AppStore](https://apps.apple.com/us/app/copyclip-2-clipboard-manager/id1020812363?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[Unclutter](https://unclutterapp.com/)| A new handy place on your desktop for storing notes, files and pasteboard clips.|[AppStore](https://apps.apple.com/app/unclutter/id577085396)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[iClip – Clipboard Manager](http://iclipapp.com/)|Keep a history of almost anything you copy, instead of only the last thing.|[AppStore](https://apps.apple.com/app/id468369783?ls=1&mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 
 ## Contacts
@@ -52,6 +54,15 @@
 | Name ⇵ | Description ⇵ | Get it ⇵ | ⇵ | ⇵ |
 |:-------|:--------------|:--------:|:-:|:-:|
 |[Daylite](https://www.marketcircle.com/)| Organize your clients, leads, projects all in one place so your team can share everything.|[Website](https://www.marketcircle.com/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+
+
+## Education / Science
+| Name ⇵ | Description ⇵ | Get it ⇵ | ⇵ | ⇵ |
+|:-------|:--------------|:--------:|:-:|:-:|
+|[EnzymeX](https://nucleobytes.com/enzymex/index.html)| The DNA sequence editor for OS X|[Website](https://nucleobytes.com/enzymex/index.html)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[Findings](https://findingsapp.com/)| Your research assistant & lab notebook, all in one app.|[Website](https://findingsapp.com/)|![Freemium](symbols/freemium.svg "Freemium")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[Studies](http://www.studiesapp.com/)| Studies is a flashcard app for the serious student, with editions for Mac®, iPhone® and iPad®.|[AppStore](https://apps.apple.com/us/app/studies/id1071676469)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+
 
 
 ## File managers
@@ -70,6 +81,7 @@
 |[Diagrams](https://diagrams.app/)| The new diagram editor for Mac. Create beautiful, structured diagrams. As fast as you think.|[AppStore](https://apps.apple.com/app/apple-store/id1276248849?mt=8)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[SheetPlanner](https://sheetplanner.com/)| Organize information, plan your life and schedule your tasks and activities.|[AppStore](https://apps.apple.com/us/app/sheetplanner/id1438761088?mt=12)|![Freemium](symbols/freemium.svg "Freemium")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[MindNode](https://mindnode.com/)| Most productive mindnote software on the Mac.|[AppStore](https://apps.apple.com/app/apple-store/id1289197285?mt=8)|![Subscription](symbols/subscription.svg "Subscription")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[4Peaks](https://nucleobytes.com/4peaks/index.html)| View and edit sequence trace files|[Website](https://nucleobytes.com/4peaks/index.html)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 
 ## Mail
@@ -174,6 +186,8 @@
 |[Scrivener](https://www.literatureandlatte.com/scrivener/overview)| The go-to app for writers of all kinds, used every day by best-selling novelists, screenwriters, students, academics, journalists etc. |[AppStore](https://apps.apple.com/us/app/scrivener-3/id1310686187?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Highland 2](https://quoteunquoteapps.com/highland-2/)| We’ve taken the tools we built for writing screenplays and made them work for almost every kind of document you write with clean design and innovative tools.|[AppStore](https://apps.apple.com/se/app/highland-2/id1171820258?mt=12)|![Freemium](symbols/freemium.svg "Freemium")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Slugline](https://slugline.co/)| The best-reviewed screenwriting app for Mac.|[AppStore](https://apps.apple.com/us/app/slugline-2/id1483507254?mt=12)|![Freemium](symbols/freemium.svg "Freemium")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[Texpad](https://www.texpad.com/)| Join academics and professional writers in harnessing the power of LaTeX to produce polished output of your writing.|[Website](https://www.texpad.com/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[Manuscripts](https://www.manuscriptsapp.com/)| Your next manuscript, from A to Z.|[Website](https://www.manuscriptsapp.com/)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 
 ## Writing tools

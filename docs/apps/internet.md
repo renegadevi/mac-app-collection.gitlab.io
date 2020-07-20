@@ -14,6 +14,7 @@
 |[FileZilla](https://filezilla-project.org/)| Your classic FTP client for Mac |[Website](https://filezilla-project.org/)|![Free](symbols/free.svg "Free")|![Open-Source](symbols/open.svg "Open-Source")|
 |[Mountain Duck](https://mountainduck.io)| Mount server and cloud storage as a disk in Finder on macOS |[AppStore](https://apps.apple.com/us/app/mountain-duck/id1024974133?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[ViperFTP](https://viperftp.com/)| Simple, user-friendly yet powerful FTP client for Mac|[AppStore](https://apps.apple.com/us/app/viper-ftp/id995745423)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[Dropshare](https://dropshare.app/)| Meet the most flexible file sharing solution for macOS & iOS.|[Website](https://dropshare.app/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 
 ## Network monitoring
@@ -26,6 +27,7 @@
 |[Simple WebMonitor](https://apps.apple.com/us/app/simple-webmonitor/id1074602144?mt=12)| Monitor and watch whether your IPv4/IPv6 web sites are still alive|[AppStore](https://apps.apple.com/us/app/simple-webmonitor/id1074602144?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[PeakHour](https://peakhourapp.com/)| Simple and beautiful network performance, quality and usage monitoring.|[AppStore](https://apps.apple.com/us/app/peakhour-4/id1241445112?ls=1&mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Where IP](https://apps.apple.com/us/app/where-ip-monitor-connection/id1506929908)| Monitors internet connection by checking public ip address and location, ensuring that you have control over your internet connection.|[AppStore](https://apps.apple.com/us/app/where-ip-monitor-connection/id1506929908)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[stts](https://github.com/inket/stts)| A simple macOS app for monitoring the status of cloud services.|[AppStore](https://apps.apple.com/us/app/stts/id1187772509?mt=12)|![Free](symbols/free.svg "Free")|![Open-Source](symbols/open.svg "Open-Source")|
 
 
 ## Networking tools
@@ -53,6 +55,7 @@
 | Name ⇵ | Description ⇵ | Get it ⇵ | ⇵ | ⇵ |
 |:-------|:--------------|:--------:|:-:|:-:|
 |[CoreTunnel](https://coretunnel.app/)| The missing tunnel manager, compatible with OpenSSH, automatic and intuitive. Don't waste your time; be productive.|[AppStore](https://apps.apple.com/us/app/core-tunnel/id1354318707?ls=1&mt=12)|![Freemium](symbols/freemium.svg "Freemium")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[Secure Pipes](https://www.opoet.com/pyro/index.php)| Private and secure connectivity for OS X clients and servers.|[Website](https://www.opoet.com/pyro/index.php)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 
 ## VPN

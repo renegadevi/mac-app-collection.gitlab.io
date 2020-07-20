@@ -7,6 +7,8 @@
 |[coconutBattery](https://www.coconut-flavour.com/coconutbattery/)| Inspect your battery life and get live and current health information, as well in your menu bar.|[Website](https://www.coconut-flavour.com/coconutbattery/)|![Freemium](symbols/freemium.svg "Freemium")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Juice!](https://www.ettoresoftware.com/mac-apps/juice/)| Keeps an eye on your laptop’s battery charge level and can play a sound when it’s time to plug in or when it’s OK to disconnect from the mains.|[AppStore](https://apps.apple.com/us/app/juice/id1456354072?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Wattagio](https://filincode.com/en/wattagio)| Powerful battery assistant for your Mac. It gives you information about current battery health, including battery life, battery consumption, and battery cycle count.|[Website](https://filincode.com/en/wattagio)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[FruitJuice](https://fruitjuiceapp.com/)| FruitJuice will let you know how long to stay unplugged each day to keep your battery healthy.|[AppStore](https://apps.apple.com/us/app/fruitjuice-battery-health/id671736912)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+
 
 ## Bluetooth
 | Name ⇵ | Description ⇵ | Get it ⇵ | ⇵ | ⇵ |
@@ -40,6 +42,8 @@
 |[Paragon NTFS for Mac](https://www.paragon-drivers.com/en/ntfsmac/)| Seamless first-class support for NTFS. Write, edit, copy, move and delete files easy on your Mac.|[Website](https://www.paragon-drivers.com/en/ntfsmac/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Paragon extFS for Mac](https://www.paragon-drivers.com/en/extfsmac/)| Read or write files from HDD, SSD or flash drives formatted under Linux ext2, ext3, and ext4 file systems. Just connect the disk and access the files.|[Website](https://www.paragon-drivers.com/en/extfsmac/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Blue Harvest](https://apps.apple.com/us/app/blueharvest/id739483376?mt=12)| BlueHarvest keeps your devices free of macOS and Windows metadata such as ._ files, .DS_Store files, .Trashes, Thumbs.db, Desktop.ini and $RECYCLE.BIN etc.|[AppStore](https://apps.apple.com/us/app/blueharvest/id739483376?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[Microsoft NTFS by Tuxera](https://www.tuxera.com/products/tuxera-ntfs-for-mac/)| Get reliable read-write compatibility for all NTFS-formatted USB drives|[Website](https://www.tuxera.com/products/tuxera-ntfs-for-mac/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[AutoMounter](https://www.pixeleyes.co.nz/automounter/)| AutoMounter ensures that your shares are always mounted when you need them.|[AppStore](https://apps.apple.com/us/app/automounter/id1160435653?ls=1&mt=12)|![Freemium](symbols/freemium.svg "Freemium")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 
 ## Keyboard
@@ -48,6 +52,7 @@
 |[KeyCastr](https://github.com/keycastr/keycastr)| An open-source keystroke visualizer |[Github](https://github.com/keycastr/keycastr)|![Free](symbols/free.svg "Free")|![Open-Source](symbols/open.svg "Open-Source")|
 |[Karabiner-Elements](https://karabiner-elements.pqrs.org/)| A powerful and stable keyboard customizer for macOS.|[Website](https://karabiner-elements.pqrs.org/)|![Free](symbols/free.svg "Free")|![Open-Source](symbols/open.svg "Open-Source")|
 |[Visualize](https://www.lisburntech.com/apps/visualize/)| Visualize allows you to highlight your key presses and mouse clicks right on your desktop!|[AppStore](https://apps.apple.com/app/id978980906?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+
 
 ## Management
 | Name ⇵ | Description ⇵ | Get it ⇵ | ⇵ | ⇵ |
@@ -59,6 +64,7 @@
 |[Disk Inventory X](http://www.derlien.com)| Disk usage utility for Mac OS X. It shows the sizes of files and folders in a special graphical way called "treemaps".|[Website](http://www.derlien.com)|![Free](symbols/free.svg "Free")|![Open-Source](symbols/open.svg "Open-Source")|
 |[OmniDiskSweeper](https://www.omnigroup.com/more)| This shows you the files on your drive, largest to smallest, and lets you quickly Trash or open them.|[Website](https://www.omnigroup.com/more)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Darksight](https://www.imagetasks.com/disksight-disk-cleaner/)| Visualize your disk, so you can easily find and remove large folders and files that might be not needed anymore.|[AppStore](https://apps.apple.com/us/app/disksight/id1485505524?ls=1&mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[Launch Services](https://apps.tempel.org/LaunchServices/index.php)| Uses the macOS Launch Services API to perform lookups of bundle IDs and file extensions.|[Website](https://apps.tempel.org/LaunchServices/index.php#download)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 
 ## Mouse / Trackpad
@@ -88,6 +94,7 @@
 |[MacPorts](https://www.macports.org/)| Ports for compiling, installing, and upgrading either command-line X11 or Aqua based open-source software.|[Website](https://www.macports.org/)|![Free](symbols/free.svg "Free")|![Open-Source](symbols/open.svg "Open-Source")|
 |[MAS](https://github.com/mas-cli/mas)| Mac App Store command line interface|[Github](https://github.com/mas-cli/mas)|![Free](symbols/free.svg "Free")|![Open-Source](symbols/open.svg "Open-Source")|
 |[Cakebrew](https://www.cakebrew.com/)| The Mac App (GUI) for Homebrew.|[Website](https://www.cakebrew.com/)|![Free](symbols/free.svg "Free")|![Open-Source](symbols/open.svg "Open-Source")|
+|[Latest](https://max.codes/latest/)| App for macOS that checks if all your apps are up to date.|[Website](https://max.codes/latest/)|![Free](symbols/free.svg "Free")|![Open-Source](symbols/open.svg "Open-Source")|
 
 
 ## Sleep
@@ -112,6 +119,7 @@
 |[FreeSpace](http://freespaceosx.0fees.net/FreeSpace_-_Shows_Available_Space_on_All_of_Your_Drives_in_Single_Menu.html?i=1)| Show free space of your drives in a menubar app, including TimeMachine and hidden local TimeMachine snapshots.|[AppStore](https://apps.apple.com/us/app/freespace/id457520846?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Stats](https://github.com/exelban/stats)| Simple macOS system monitor in your menu bar to show cpu, ram, network, battery and sensors.|[Github](https://github.com/exelban/stats)|![Free](symbols/free.svg "Free")|![Open-Source](symbols/open.svg "Open-Source")|
 
+
 ## Tiling window managers
 | Name ⇵ | Description ⇵ | Get it ⇵ | ⇵ | ⇵ |
 |:-------|:--------------|:--------:|:-:|:-:|
@@ -127,8 +135,8 @@
 |[New File Menu](https://langui.net/new-file-menu/)| New File Menu allows you to create new files quickly via the Finder context menu. |[AppStore](https://apps.apple.com/us/app/new-file-menu/id1064959555?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Context Menu](https://langui.net/context-menu/)| Context Menu is a configurable contextual menu extension for Finder.|[AppStore](https://apps.apple.com/app/context-menu/id1236813619?l=en&mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[PrefEdit](https://www.bresink.com/osx/PrefEdit.html)| PrefEdit is an application to manage nearly all aspects of the preference system contained in every macOS installation.|[Website](https://www.bresink.com/osx/PrefEdit.html)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[Prefs Editor](https://apps.tempel.org/PrefsEditor/)| A GUI for the 'defaults' command. a.k.a. the Registry Editor for macOS.|[Website](https://apps.tempel.org/PrefsEditor/)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Easy New File](https://liufsd.github.io/2018/04/29/Easy-New-File/)| A finder extension which adds some functions in right click menu in the Finder|[AppStore](https://apps.apple.com/app/easy-new-file/id1162194131?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
-
 
 
 ## Window layout / Snapping
@@ -151,4 +159,4 @@
 |[CommandQ](https://commandqapp.com/)| Never accidentally quit an app or mistakenly close a window again.|[Website](https://commandqapp.com/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Hocus Focus](http://hocusfoc.us/)| A Mac menu bar utility that hides your inactive windows.|[Website](http://hocusfoc.us/)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Window Focus](https://fiplab.com/apps/window-focus-for-mac)| Highlight your active window and dim the rest|[Website](https://fiplab.com/apps/window-focus-for-mac)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
-
+|[Contexts](https://contexts.co/)| Switch between application windows effortlessly.|[Website](https://contexts.co/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|

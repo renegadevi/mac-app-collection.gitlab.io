@@ -65,6 +65,7 @@
 |[CHM File Reader](https://apps.apple.com/se/app/chm-file-reader/id1498728464?mt=12)| Simple app open and read CHM files, and convert CHM document to PDF format.|[AppStore](https://apps.apple.com/se/app/chm-file-reader/id1498728464?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[A Companion for SwiftUI](https://swiftui-lab.com/companion)| Companion for SwiftUI documents all the SwiftUI views, shapes, and protocols for the iOS and macOS platform.|[AppStore](https://apps.apple.com/us/app/a-companion-for-swiftui/id1485436674?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
+
 ## IDEs
 | Name ⇵ | Description ⇵ | Get it ⇵ | ⇵ | ⇵ |
 |:-------|:--------------|:--------:|:-:|:-:|
@@ -81,6 +82,14 @@
 |[SmartBaby](https://apps.apple.com/us/app/smartbaby/id1438971945?mt=12)| SmartBaby infer Swift Codable model from JSON to save your time.|[AppStore](https://apps.apple.com/us/app/smartbaby/id1438971945?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 
+## Hex
+| Name ⇵ | Description ⇵ | Get it ⇵ | ⇵ | ⇵ |
+|:-------|:--------------|:--------:|:-:|:-:|
+|[Hex Fiend](https://ridiculousfish.com/hexfiend/)| Hex Fiend is a fast, lean, and powerful hex editor built just for the Mac.|[AppStore](https://apps.apple.com/us/app/hex-fiend/id1342896380?mt=12)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[Synalyze It! Pro](https://www.synalysis.net/)| Binary File Analysis made easy|[AppStore](https://apps.apple.com/app/synalyze-it-pro/id475193367)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+
+
+
 ## Plist (XML)
 | Name ⇵ | Description ⇵ | Get it ⇵ | ⇵ | ⇵ |
 |:-------|:--------------|:--------:|:-:|:-:|
@@ -95,6 +104,7 @@
 |[create-dmg](https://github.com/sindresorhus/create-dmg)| Create a good-looking DMG for your macOS app in seconds.|[Github](https://github.com/sindresorhus/create-dmg)|![Free](symbols/free.svg "Free")|![Open-Source](symbols/open.svg "Open-Source")|
 |[DMG Canvas](https://www.araelium.com/dmgcanvas)| Easy Professional Disk Image Creation|[Website](https://www.araelium.com/dmgcanvas)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[ScriptToApp](https://apps.apple.com/us/app/scripttoapp-app-maker/id1456096188?mt=12)| One-click to convert the script file into an app that can be run by double-clicking, and displays the result of the running script in the app window.|[AppStore](https://apps.apple.com/us/app/scripttoapp-app-maker/id1456096188?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+
 
 ## RegEx
 | Name ⇵ | Description ⇵ | Get it ⇵ | ⇵ | ⇵ |
@@ -156,6 +166,7 @@
 |[SnailSVN](https://langui.net/snailsvn/)| SnailSVN is a TortoiseSVN-like Apache Subversion (SVN) client, implemented as a Finder extension.|[AppStore](https://apps.apple.com/app/snailsvn-lite-svn-for-finder/id1063090543?mt=12)|![Freemium](symbols/freemium.svg "Freemium")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Cornerstone](https://cornerstone.assembla.com/)| The ultimate Subversion client for Mac just got better.|[Website](https://cornerstone.assembla.com/)|![Subscription](symbols/subscription.svg "Subscription")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
+
 ## Other
 | Name ⇵ | Description ⇵ | Get it ⇵ | ⇵ | ⇵ |
 |:-------|:--------------|:--------:|:-:|:-:|
@@ -165,8 +176,8 @@
 |[Hopper](https://www.hopperapp.com/)| The macOS and Linux Disassembler.|[Website](https://www.hopperapp.com/)|![Paid](symbols/freemium.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[xScope](https://xscopeapp.com/)| Created specifically for designers & developers, xScope is a powerful set of tools that are ideal for measuring, inspecting & testing on-screen graphics and layouts.|[AppStore](https://apps.apple.com/us/app/xscope-4/id889428659?ign-mpt=uo%3D4&mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Carbinize](https://www.dangercove.com/carbonize/)| Generate gorgeous, highly customizable images from your code snippets. Ready to save or share.|[AppStore](https://apps.apple.com/app/carbonize/id1451177988)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[Codye](https://darioroa.com/codye/)| Present code in a beautiful way with Codye!|[AppStore](https://apps.apple.com/us/app/codye/id1516894961?l=en)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Lantern](https://icing.space/tools/lantern/)| An open source Mac app for website auditing and crawling.|[AppStore](https://itunes.apple.com/us/app/lantern-website-crawler-for/id991526452?ls=1&mt=12)|![Free](symbols/free.svg "Free")|![Open-Source](symbols/open.svg "Open-Source")|
-|[stts](https://github.com/inket/stts)| A simple macOS app for monitoring the status of cloud services.|[Github](https://github.com/inket/stts)|![Free](symbols/free.svg "Free")|![Open-Source](symbols/open.svg "Open-Source")|
 |[OpenInTerminal](https://github.com/Ji4n1ng/OpenInTerminal)| Finder Toolbar app for macOS to open the current directory in Terminal, iTerm, Hyper or Alacritty|[Github](https://github.com/Ji4n1ng/OpenInTerminal)|![Free](symbols/free.svg "Free")|![Open-Source](symbols/open.svg "Open-Source")|
 |[Touch Bar Preview](https://touchbar.github.io/)| A small open source app to display your designs on the Touch Bar of MacBook Pro.|[Website](https://touchbar.github.io/)|![Freem](symbols/free.svg "Free")|![Open-Source](symbols/open.svg "Open-Source")|
 |[Paw](https://paw.cloud/)| Paw is a full-featured HTTP client that lets you test and describe the APIs you build or consume.|[Website](https://paw.cloud/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
@@ -175,8 +186,7 @@
 |[Sequence Diagram](http://macsequencediagram.com/)| Mac Sequence Diagram makes it incredibly easy to create UML 2.0 style sequence diagrams, using nothing more than plain text.|[AppStore](https://apps.apple.com/us/app/sequence-diagram/id1195426709?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Date Format Creator](https://apps.apple.com/us/app/date-format-creator/id965645209?mt=12)| Makes working with dates a little bit easier by giving you a date formatter to test and experiment with. Enter your UTS date format, pick a date and see how an NSDateFormatter would convert it into a string.|[AppStore](https://apps.apple.com/us/app/date-format-creator/id965645209?mt=12)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[OpenGL Extensions Viewer](http://www.realtech-vr.com/home/glview)| This program displays the vendor name, the version implemented, the renderer name and the extensions of the current OpenGL 3D accelerator (note: May not work on your specific hw).|[AppStore](https://apps.apple.com/us/app/opengl-extensions-viewer/id444052073?mt=12)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
-
-
+|[ShowClipboards](http://www.tempel.org/ShowClipboards)| View and test the pasteboard (clipboard) contents for both Carbon and NSPasteboard.|[Website](http://www.tempel.org/ShowClipboards)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 
 
