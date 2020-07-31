@@ -5,6 +5,8 @@
 |:-------|:--------------|:--------:|:-:|:-:|
 |[AirFoil](https://rogueamoeba.com/airfoil/mac/)| Stream any audio from your Mac all around your network devices.|[Website](https://rogueamoeba.com/airfoil/mac/buy.php)|![Freemium](symbols/freemium.svg "Freemium")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[BlackHole](https://github.com/ExistentialAudio/BlackHole)| MacOS virtual audio driver that pass audio to other applications with zero latency.|[Github](https://github.com/ExistentialAudio/BlackHole#readme)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[SoundDesk](https://www.loudlab-app.com/sounddesk-app)| Virtual Audio Mixer. SoundDesk 4 is the easiest way to turn your computer into a digital mixing desk!|[Website](https://www.loudlab-app.com/sounddesk-app)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+
 
 
 ## Live
@@ -60,6 +62,7 @@ See [Video](video) section for multimedia players
 |[SoundStudio](https://felttip.com/ss/)| Record and edit podcasts, music, interviews, or presentations all with high fidelity.|[Website](https://felttip.com/ss/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[SoundForge](https://www.magix.com/int/music/sound-forge/sound-forge-pro-mac/)| Professional audio waveform editor for Mac by MAGIX|[Website](https://www.magix.com/int/music/sound-forge/sound-forge-pro-mac/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[OceanAudio](https://www.ocenaudio.com/en/startpage)| Easy and fast audio editor|[Website](https://www.ocenaudio.com/en/startpage)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+
 
 
 ## Volume controls / EQ

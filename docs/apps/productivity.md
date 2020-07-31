@@ -42,6 +42,7 @@
 |[CopyClip 2](https://fiplab.com/apps/copyclip-for-mac)| A newer clipboard manager for your Mac running discreetly from your menu bar and features a search bar similar to spotlight and is integraded with the touchbar.|[AppStore](https://apps.apple.com/us/app/copyclip-2-clipboard-manager/id1020812363?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Unclutter](https://unclutterapp.com/)| A new handy place on your desktop for storing notes, files and pasteboard clips.|[AppStore](https://apps.apple.com/app/unclutter/id577085396)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[iClip – Clipboard Manager](http://iclipapp.com/)|Keep a history of almost anything you copy, instead of only the last thing.|[AppStore](https://apps.apple.com/app/id468369783?ls=1&mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[Maccy](https://maccy.app/)| Clipboard manager for macOS which does one job - keep your copy history at hand. Period.|[Website](https://maccy.app/)|![Free](symbols/free.svg "Free")|![Open-Source](symbols/open.svg "Open-Source")|
 
 
 ## Contacts

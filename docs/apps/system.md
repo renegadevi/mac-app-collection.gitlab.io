@@ -32,6 +32,7 @@
 |[MonitorControl](https://github.com/MonitorControl/MonitorControl)| Control your external monitor brightness & volume on your Mac |[Github](https://github.com/MonitorControl/MonitorControl)|![Free](symbols/free.svg "Free")|![Open-Source](symbols/open.svg "Open-Source")|
 |[GammaControl](https://michelf.ca/projects/gamma-control/)| Per-screen color adjustments.|[AppStore](https://apps.apple.com/us/app/gamma-control/id1250521285?l=en)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[QuickRes](https://thnkdev.com/QuickRes/)| Quick and simple resolution changer for MacOS as a menubar dropdown.|[Website](https://thnkdev.com/QuickRes/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[Displays](https://www.jibapps.com/apps/displays/)| Manage your monitors and more|[Website](https://www.jibapps.com/apps/displays/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 
 ## File system / Drivers
