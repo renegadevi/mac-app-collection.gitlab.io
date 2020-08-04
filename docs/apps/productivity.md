@@ -174,6 +174,7 @@
 |[Gemini](https://macpaw.com/gemini)| The intelligent duplicate file finder|[AppStore](https://apps.apple.com/app/gemini-2-the-duplicate-finder/id1090488118?mt=12)|![Freemium](symbols/freemium.svg "Freemium")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Keystroke Pro](https://ixeau.com/keystroke-pro/)| Keypress Visualizer|[Website](https://ixeau.com/keystroke-pro/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Hazel](https://www.noodlesoft.com/)| Automated Organization for Your Mac. Hazel watches whatever folders you tell it to, automatically organizing your files according to the rules you create.|[Website](https://www.noodlesoft.com/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[Keysmith](http://www.keysmith.app/)| Create custom keyboard shortcuts for your Mac and the web. |[Website](http://www.keysmith.app/)|![Freemium](symbols/freemium.svg "Freemium")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 
 ## Writing

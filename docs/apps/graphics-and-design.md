@@ -19,6 +19,7 @@
 |:-------|:--------------|:--------:|:-:|:-:|
 |[Color Picker Plus](https://github.com/viktorstrate/color-picker-plus)| An extension to the macOS Colors panel, that is inspired by the color picker from Adobe Photoshop.|[Github](https://github.com/viktorstrate/color-picker-plus#color-picker-plus)|![Free](symbols/free.svg "Free")|![Open-Source](symbols/open.svg "Open-Source")|
 |[ColorSlurp](http://colorslurp.com/)| ColorSlurp is the ultimate color productivity booster for designers and developers.|[AppStore](https://apps.apple.com/us/app/colorslurp/id1287239339?ls=1&mt=12)|![Freemium](symbols/freemium.svg "Freemium")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[Litur](https://litur.app/)| Litur helps you find, collect, and organize all your colors|[AppStore](https://apps.apple.com/us/app/id1519450882)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 
 ## Fonts
