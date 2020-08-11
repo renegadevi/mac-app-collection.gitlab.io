@@ -13,6 +13,7 @@
 |[Affinity Photo](https://affinity.serif.com/en-us/photo/)| Professional Imagine Editing Software |[AppStore](https://apps.apple.com/us/app/affinity-photo/id824183456?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Pixelmator Pro](https://www.pixelmator.com/pro/)| Professional image editing tools that anyone can use.|[AppStore](https://apps.apple.com/us/app/pixelmator-pro/id1289583905?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[ArtStudio Pro](https://www.luckyclan.com/apps/artstudiopro-macos)| Powerful painting and photo editing app redesigned to bring new features and improvements taking full advantage of the latest technologies.|[AppStore](https://apps.apple.com/us/app/artstudio-pro/id1313773050?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[Hydra](https://creaceed.com/hydra)| Pro HDR Editor for Mac. Create stunning HDR images from single or multiple exposures.|[AppStore](https://apps.apple.com/app/id1111590907?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 ## Color pickers
 | Name ⇵ | Description ⇵ | Get it ⇵ | ⇵ | ⇵ |
@@ -65,6 +66,8 @@
 |[Graphic Inspector](http://zevrix.com/graphicinspector.php)| Show extensive info on entire folders of images and vector graphic files. Designed to help print, web design, electronic publishing and digital photography.|[Website](http://zevrix.com/graphicinspector.php)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Hej Stylus](https://hejstylus.com/)| App that smoothes pen position, pressure, tilt and rotation, adjusting pressure and features mapping system, ruler tools etc. for your Mac.|[Website](https://hejstylus.com/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Principle](https://principleformac.com/)| Prototype animation tool for MacOS that's easy to use with option to import from Figma and Sketch.|[Website](https://principleformac.com/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[ThumbsUp](https://www.devontechnologies.com/apps/freeware)| Create batch thumbnails for your website in seconds with ThumbsUp.|[Website](https://www.devontechnologies.com/apps/freeware)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[Morph Age](https://creaceed.com/morphage)| Create stunning morphing animations from faces, animals, or objects.|[AppStore](https://apps.apple.com/app/id413898200?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 
 ## Vector

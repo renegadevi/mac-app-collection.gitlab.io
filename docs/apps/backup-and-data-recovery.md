@@ -7,6 +7,9 @@
 |[Carbon Copy Cloner](https://bombich.com/)| Superb bootable backup solution for the Mac|[Website](https://bombich.com/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[SuperDuper](https://www.shirt-pocket.com/SuperDuper/SuperDuperDescription.html)| Advanced, yet easy to use disk copying program for macOS.|[Website](https://www.shirt-pocket.com/SuperDuper/SuperDuperDescription.html)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Get Backup Pro](https://www.belightsoft.com/products/getbackup/)| Advanced mac backup software. Backup, clone, archive and sync – all in one app|[Website](https://www.belightsoft.com/products/getbackup/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[BackupLoupe](https://www.soma-zone.com/BackupLoupe/)| Alternative GUI for Time Machine with a Finder-like interface|[Website](https://www.soma-zone.com/download/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+
+
 
 
 ## Data recovery

@@ -18,6 +18,7 @@
 |[Nocturnal](https://github.com/HarshilShah/Nocturnal)| A simple macOS app to toggle dark mode with one click.|[Github](https://github.com/HarshilShah/Nocturnal)|![Free](symbols/free.svg "Free")|![Open-Source](symbols/open.svg "Open-Source")|
 
 
+
 ## Menu bar
 | Name ⇵ | Description ⇵ | Get it ⇵ | ⇵ | ⇵ |
 |:-------|:--------------|:--------:|:-:|:-:|
@@ -27,6 +28,11 @@
 |[Vanilla](https://matthewpalmer.net/vanilla/)| Hide menu bar icons on your Mac.|[Website](https://matthewpalmer.net/vanilla/)|![Freemium](symbols/freemium.svg "Freemium")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[DarkNight](https://hobbyistsoftware.com/darknight)| Automatically switch between light and dark wallpapers based on sunrise and sunset, or on your own schedule.|[AppStore](https://itunes.apple.com/us/app/dark-night/id1451526460)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[BitBar](https://getbitbar.com/)| Put anything in your menu bar. |[Github](https://github.com/matryer/bitbar#-bitbar)|![Free](symbols/free.svg "Free")|![Open-Source](symbols/open.svg "Open-Source")|
+|[One Switch](https://fireball.studio/oneswitch)| All your powerful switches in one place.|[Website](https://fireball.studio/oneswitch)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[TextBar](http://richsomerfield.com/apps/textbar/)| Tiny but powerful app that lets you add any text to your MenuBar.|[Website](http://richsomerfield.com/apps/textbar/)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[XMenu](https://www.devontechnologies.com/apps/freeware)| Brings back Apple Menu and is a application launcher.|[AppStore](https://apps.apple.com/us/app/xmenu/id419332741?mt=12)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[Hand Mirror](https://handmirror.app/)| Check yo face from the menubar|[AppStore](https://apps.apple.com/us/app/hand-mirror/id1502839586?mt=12)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+
 
 
 ## Touch bar

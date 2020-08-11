@@ -126,6 +126,7 @@
 |[PDFCombo](https://www.onekerato.com/pdfcombo.html)| Simple utility to combine PDF documents - with special consideration for the table of contents (TOC) in the PDFs.|[AppStore](https://apps.apple.com/us/app/pdfcombo/id1030461463?mt=12)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[PDFExplode](https://www.onekerato.com/pdfexplode.html)| Explode your large PDF into many PDFs. Extract pages corresponding to any Table of Contents (TOC) entry in your PDF.|[AppStore](https://apps.apple.com/us/app/pdfexplode/id483327629?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[PDFpenPro](https://smilesoftware.com/pdfpenpro/)| Powerful PDF Editing On Your Mac|[AppStore](https://apps.apple.com/us/app/pdfpenpro-12/id1507044690?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[PDF Toolkit +](https://apps.apple.com/us/app/pdf-toolkit/id545164971?mt=12)| Manipulate PDF files: merging files, split file into smaller files, extracting pages, extracting images, compressing entire files.|[AppStore](https://apps.apple.com/us/app/pdf-toolkit/id545164971?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 
 ## Time management / tracking
@@ -175,6 +176,8 @@
 |[Keystroke Pro](https://ixeau.com/keystroke-pro/)| Keypress Visualizer|[Website](https://ixeau.com/keystroke-pro/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Hazel](https://www.noodlesoft.com/)| Automated Organization for Your Mac. Hazel watches whatever folders you tell it to, automatically organizing your files according to the rules you create.|[Website](https://www.noodlesoft.com/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Keysmith](http://www.keysmith.app/)| Create custom keyboard shortcuts for your Mac and the web. |[Website](http://www.keysmith.app/)|![Freemium](symbols/freemium.svg "Freemium")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[EasyFind](https://www.devontechnologies.com/apps/freeware)| Finds files and folders by name, content, tags, or comments using bool operators, wildcards, phrases and regular expressions.|[Website](https://www.devontechnologies.com/apps/freeware)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+
 
 
 ## Writing

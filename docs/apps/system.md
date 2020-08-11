@@ -33,6 +33,8 @@
 |[GammaControl](https://michelf.ca/projects/gamma-control/)| Per-screen color adjustments.|[AppStore](https://apps.apple.com/us/app/gamma-control/id1250521285?l=en)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[QuickRes](https://thnkdev.com/QuickRes/)| Quick and simple resolution changer for MacOS as a menubar dropdown.|[Website](https://thnkdev.com/QuickRes/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Displays](https://www.jibapps.com/apps/displays/)| Manage your monitors and more|[Website](https://www.jibapps.com/apps/displays/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[NightTone](https://alexdenk.eu/)| Makes your screen more comfortable, enjoyable and healthier by shifting the colors of your display to a warmer, eye-friendly palette.|[AppStore](https://apps.apple.com/us/app/nighttone-night-light-filter/id1135472584?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+
 
 
 ## File system / Drivers

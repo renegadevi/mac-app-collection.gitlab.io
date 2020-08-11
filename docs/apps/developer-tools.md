@@ -157,6 +157,9 @@
 |[Fork](https://git-fork.com/)| Fast and friendly git client for Mac and Windows.|[Website](https://git-fork.com/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[GitUp](https://gitup.co/)| Visualize your repo like a pro.|[Website](https://gitup.co/)|![Free](symbols/free.svg "Free")|![Open-Source](symbols/open.svg "Open-Source")|
 |[GitFox](https://www.gitfox.app/)| Commit faster, improve your code quality with superior diffs - and look good doing it.|[AppStore](https://apps.apple.com/at/app/gitfox/id1475511261?l=en&mt=12)|![Subscription](symbols/subscription.svg "Subscription")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[Folio](http://folioformac.com/)| Simple version control for design teams based on Git|[Website](http://folioformac.com/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+
+
 
 ### SVN
 | Name ⇵ | Description ⇵ | Get it ⇵ | ⇵ | ⇵ |
