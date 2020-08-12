@@ -1,6 +1,6 @@
 # System
 
-## Battery
+## Battery / Power management
 | Name ⇵ | Description ⇵ | Get it ⇵ | ⇵ | ⇵ |
 |:-------|:--------------|:--------:|:-:|:-:|
 |[Batteries](https://www.fadel.io/batteries)| Track all your devices' batteries from your Mac. |[Website](https://www.fadel.io/batteries)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
@@ -8,6 +8,7 @@
 |[Juice!](https://www.ettoresoftware.com/mac-apps/juice/)| Keeps an eye on your laptop’s battery charge level and can play a sound when it’s time to plug in or when it’s OK to disconnect from the mains.|[AppStore](https://apps.apple.com/us/app/juice/id1456354072?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Wattagio](https://filincode.com/en/wattagio)| Powerful battery assistant for your Mac. It gives you information about current battery health, including battery life, battery consumption, and battery cycle count.|[Website](https://filincode.com/en/wattagio)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[FruitJuice](https://fruitjuiceapp.com/)| FruitJuice will let you know how long to stay unplugged each day to keep your battery healthy.|[AppStore](https://apps.apple.com/us/app/fruitjuice-battery-health/id671736912)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[App Tamer](https://www.stclairsoft.com/AppTamer/)| Detect applications and take control over apps that is resource hogs. App Tamer will automatically slow down or pause your applications whenever you're not using them, greatly reducing their CPU use.|[Website](https://www.stclairsoft.com/AppTamer/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 
 ## Bluetooth
@@ -106,7 +107,6 @@
 |[Lungo](https://sindresorhus.com/lungo)| Prevent your Mac from going to sleep|[AppStore](https://apps.apple.com/us/app/lungo/id1263070803?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake)| Prevents your Mac from going to sleep.|[Github](https://github.com/newmarcel/KeepingYouAwake)|![Free](symbols/free.svg "Free")|![Open-Source](symbols/open.svg "Open-Source")|
 |[Amphetamine](https://apps.apple.com/de/app/amphetamine/id937984704?mt=12)| Amphetamine can keep your Mac, and optionally its display(s), awake through a super simple on/off switch, or automatically through easy-to-configure Triggers.|[AppStore](https://apps.apple.com/de/app/amphetamine/id937984704?mt=12)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
-|[App Tamer](https://www.stclairsoft.com/AppTamer/)| Detect applications and take control over apps that is resource hogs. App Tamer will automatically slow down or pause your applications whenever you're not using them, greatly reducing their CPU use.|[Website](https://www.stclairsoft.com/AppTamer/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 
 ## System information
