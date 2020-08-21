@@ -14,6 +14,7 @@
 |[Pixelmator Pro](https://www.pixelmator.com/pro/)| Professional image editing tools that anyone can use.|[AppStore](https://apps.apple.com/us/app/pixelmator-pro/id1289583905?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[ArtStudio Pro](https://www.luckyclan.com/apps/artstudiopro-macos)| Powerful painting and photo editing app redesigned to bring new features and improvements taking full advantage of the latest technologies.|[AppStore](https://apps.apple.com/us/app/artstudio-pro/id1313773050?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Hydra](https://creaceed.com/hydra)| Pro HDR Editor for Mac. Create stunning HDR images from single or multiple exposures.|[AppStore](https://apps.apple.com/app/id1111590907?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[iMazing HEIC Converter](https://imazing.com/heic)| 100% free solution to easily convert pictures taken in the new HEIF format.|[AppStore](https://apps.apple.com/us/app/imazing-heic-converter/id1292198261?mt=12)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 ## Color pickers
 | Name ⇵ | Description ⇵ | Get it ⇵ | ⇵ | ⇵ |
