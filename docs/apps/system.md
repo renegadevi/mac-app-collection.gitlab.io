@@ -24,6 +24,11 @@
 |[Free My Desktop](http://www.valentinourbano.com/Free-my-desktop-mac-app.html)| Automatically hides all the icons from your desktop, the dock and the menubar.|[Website](http://www.valentinourbano.com/Free-my-desktop-mac-app.html)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[HiddenMe](https://appersian.net/)| Hide your desktop icons with a single click|[AppStore](https://apps.apple.com/us/app/hiddenme/id467040476)|![Freemium](symbols/freemium.svg "Freemium")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
+## Device management (MDM)
+| Name ⇵ | Description ⇵ | Get it ⇵ | ⇵ | ⇵ |
+|:-------|:--------------|:--------:|:-:|:-:|
+|[iMazing Profile Editor](https://imazing.com/profile-editor)| Create, edit, and sign Apple configuration profiles.|[AppStore](https://apps.apple.com/us/app/imazing-profile-editor/id1487860882?mt=12)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+
 
 ## Display
 | Name ⇵ | Description ⇵ | Get it ⇵ | ⇵ | ⇵ |
@@ -69,11 +74,6 @@
 |[OmniDiskSweeper](https://www.omnigroup.com/more)| This shows you the files on your drive, largest to smallest, and lets you quickly Trash or open them.|[Website](https://www.omnigroup.com/more)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Darksight](https://www.imagetasks.com/disksight-disk-cleaner/)| Visualize your disk, so you can easily find and remove large folders and files that might be not needed anymore.|[AppStore](https://apps.apple.com/us/app/disksight/id1485505524?ls=1&mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Launch Services](https://apps.tempel.org/LaunchServices/index.php)| Uses the macOS Launch Services API to perform lookups of bundle IDs and file extensions.|[Website](https://apps.tempel.org/LaunchServices/index.php#download)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
-
-## Device management (MDM)
-| Name ⇵ | Description ⇵ | Get it ⇵ | ⇵ | ⇵ |
-|:-------|:--------------|:--------:|:-:|:-:|
-|[iMazing Profile Editor](https://imazing.com/profile-editor)| Create, edit, and sign Apple configuration profiles.|[AppStore](https://apps.apple.com/us/app/imazing-profile-editor/id1487860882?mt=12)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 
 ## Mouse / Trackpad
