@@ -158,6 +158,7 @@
 |[KeepIt](https://reinventedsoftware.com/keepit/)| Keep It is notebook, scrapbook and organizer, ideal for writing notes, saving web links, storing documents, images or any kind of file, and finding them again.|[AppStore](https://apps.apple.com/us/app/keep-it/id1272768911?mt=12)|![Freemium](symbols/freemium.svg "Freemium")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[SideNotes](https://www.apptorium.com/sidenotes)| Quick notes on the side of your screen.|[AppStore](https://apps.apple.com/us/app/sidenotes/id1441958036?ls=1&mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[TickTick](https://ticktick.com/)| Cross-platform todo list, checklist and task manager app.|[AppStore](https://apps.apple.com/app/id966085870)|![Subscription](symbols/subscription.svg "Subscription")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[Taskheat](https://eyen.fr/)| The personal task manager for determined people.|[AppStore](https://apps.apple.com/us/app/taskheat-visual-to-do-list/id1431995750)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 
 ## Tools
