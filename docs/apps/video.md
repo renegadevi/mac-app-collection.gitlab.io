@@ -31,7 +31,10 @@
 |[Final Cut Pro X](https://www.apple.com/final-cut-pro/)| Professional post-production video editor.|[AppStore](https://apps.apple.com/us/app/final-cut-pro/id424389933?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[iMovie](https://www.apple.com/imovie/)| Streamlined easy to use movie editor.|[AppStore](https://apps.apple.com/us/app/imovie/id408981434?mt=12)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Mitti](https://imimot.com/mitti/)| Easy to use and powerful video cue software for macOS|[Website](https://imimot.com/mitti/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[GlueMotion](https://neededapps.com/gluemotion/)| Batch edit, deflicker and assemble sequences of images into time-lapse movies.|[AppStore](https://apps.apple.com/app/gluemotion/id1396851118)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
+
+ 
 
 ## Tools
 | Name ⇵ | Description ⇵ | Get it ⇵ | ⇵ | ⇵ |
