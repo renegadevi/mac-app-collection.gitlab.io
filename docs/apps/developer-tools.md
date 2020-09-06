@@ -33,6 +33,7 @@
 |[Sketch to Xcode](https://sketchtoxcode.com/)| Drop in your Sketch file to export as Color Assets and Swift code.|[AppStore](https://apps.apple.com/app/id1483874460?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Fabula](https://www.pnguin.app/)| Beautiful and easy to use animation creation and testing app.Tweak animation values in real-time.|[AppStore](https://apps.apple.com/us/app/fabula/id1503214451)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Kelir](http://rimbunesia.com/apps/kelir)| Unique picker with a preview which color you are selecting. Once you pick a color, any code will be available for you to paste it.|[AppStore](https://apps.apple.com/us/app/kelir/id1145215534?mt=12)|![Freemium](symbols/freemium.svg "Freemium")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[Asset Catalog Tinkerer](https://github.com/insidegui/AssetCatalogTinkerer)| An app that lets you open .car files and browse/extract their images.|[Github](https://github.com/insidegui/AssetCatalogTinkerer)|![Free](symbols/free.svg "Free")|![Open-Source](symbols/open.svg "Open-Source")|
 
 
 ## Development servers 
@@ -64,6 +65,7 @@
 |[CHM to PDF Converter Plus](https://apps.apple.com/se/app/chm-to-pdf-converter-plus/id1498867553?mt=12)| Easy tool for batch conversion of CHM(Compiled HTML Help) files into PDF files.|[AppStore](https://apps.apple.com/se/app/chm-to-pdf-converter-plus/id1498867553?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[CHM File Reader](https://apps.apple.com/se/app/chm-file-reader/id1498728464?mt=12)| Simple app open and read CHM files, and convert CHM document to PDF format.|[AppStore](https://apps.apple.com/se/app/chm-file-reader/id1498728464?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[A Companion for SwiftUI](https://swiftui-lab.com/companion)| Companion for SwiftUI documents all the SwiftUI views, shapes, and protocols for the iOS and macOS platform.|[AppStore](https://apps.apple.com/us/app/a-companion-for-swiftui/id1485436674?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[Algorithms & Data Structures](https://github.com/thexande/SwiftAlgorithms)| Collection of resources for programmers interested in learning more about algorithms and data structures in Swift.|[AppStore](https://apps.apple.com/app/algorithms-data-structures/id1498349698?mt=12)|![Free](symbols/free.svg "Free")|![Open-Source](symbols/open.svg "Open-Source")|
 
 
 ## IDEs
@@ -128,6 +130,8 @@
 | Name ⇵ | Description ⇵ | Get it ⇵ | ⇵ | ⇵ |
 |:-------|:--------------|:--------:|:-:|:-:|
 |[TeaCode](https://www.apptorium.com/teacode)| Don't repeat yourself. Write your code snippets dynamicly.|[Website](https://www.apptorium.com/teacode)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[XCOrganizer](https://xcorganizer.com/)| Using metadata it finds all your Xcode Projects, Xcode Workspaces, Swift Playgrounds and Swift Packages in seconds.|[AppStore](https://apps.apple.com/us/app/xcorganizer/id1507556912?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[PENcode](https://pencode.alecoconnor.com/)| Encode and decode strings with ease! PenTesting is hard enough as it is.|[AppStore](https://apps.apple.com/app/pencode/id1519532970?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 
 ## Translation
