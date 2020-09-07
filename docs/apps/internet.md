@@ -73,3 +73,4 @@
 |:-------|:--------------|:--------:|:-:|:-:|
 |[Integrity](https://peacockmedia.software/mac/integrity/free.html)| Free website link checker for Mac|[Website](https://peacockmedia.software/mac/integrity/free.html)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Netler](https://www.imagetasks.com/netler-network-monitor/)| Network monitor for Notification Center and Menu Bar|[AppStore](https://apps.apple.com/us/app/netler/id1401495844?ls=1&mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[SquidMan](https://squidman.net/squidman/)| Graphical installer and manager for the Squid proxy cache.|[Website](https://squidman.net/squidman/)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|

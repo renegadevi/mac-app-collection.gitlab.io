@@ -7,7 +7,7 @@
 |[BetterZip](https://macitbetter.com/)| Advanced archiver that does everything you need.|[Website](https://macitbetter.com/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Keka](https://www.keka.io/)| Keka is a full featured file archiver, as easy as it can be.|[AppStore](https://apps.apple.com/app/keka/id470158793)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Archiver](https://archiverapp.com/)| Easy to use archiver.|[Website](https://archiverapp.com/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
-
+|[WinZip](https://www.winzip.com/mac/en/)| Zip and unzip files instantly|[Website](https://www.winzip.com/mac/en/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 ## Dark mode / Light mode 
 | Name ⇵ | Description ⇵ | Get it ⇵ | ⇵ | ⇵ |
@@ -32,6 +32,7 @@
 |[TextBar](http://richsomerfield.com/apps/textbar/)| Tiny but powerful app that lets you add any text to your MenuBar.|[Website](http://richsomerfield.com/apps/textbar/)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[XMenu](https://www.devontechnologies.com/apps/freeware)| Brings back Apple Menu and is a application launcher.|[AppStore](https://apps.apple.com/us/app/xmenu/id419332741?mt=12)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Hand Mirror](https://handmirror.app/)| Check yo face from the menubar|[AppStore](https://apps.apple.com/us/app/hand-mirror/id1502839586?mt=12)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[Clocker](https://abhishekbanthia.com/clocker/)| Clocker is designed to help you keep track of your friends and colleagues in different time zones.|[AppStore](https://apps.apple.com/us/app/clocker-menubar-world-clock/id1056643111?ls=1&mt=12)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 
 

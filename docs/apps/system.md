@@ -67,6 +67,7 @@
 | Name ⇵ | Description ⇵ | Get it ⇵ | ⇵ | ⇵ |
 |:-------|:--------------|:--------:|:-:|:-:|
 |[AppCleaner](https://freemacsoft.net/appcleaner/)| A small application which allows you to thoroughly uninstall unwanted apps.|[Website](https://freemacsoft.net/appcleaner/)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[TrashMe](https://www.jibapps.com/apps/trashme3/)| Clean and uninstall, the perfect way|[Website](https://www.jibapps.com/apps/trashme3/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[DaisyDisk](https://daisydiskapp.com/)| Analyze disk usage and clear up space|[AppStore](https://apps.apple.com/us/app/daisydisk/id411643860?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[LaunchControl](https://www.soma-zone.com/LaunchControl/)| LaunchControl is a fully-featured launchd GUI allowing you to create, manage and debug system- and user services on your Mac.|[Website](https://www.soma-zone.com/LaunchControl/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Lingon](https://www.peterborgapps.com/lingon/)| An easy to use yet powerful app to run things automatically|[Website](https://www.peterborgapps.com/lingon/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|

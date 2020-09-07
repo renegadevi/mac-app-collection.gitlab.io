@@ -20,6 +20,9 @@
 |[InstaCal](http://instacalapp.com/)| InstaCal is an affordable and powerful Mac calendar app that puts all your events and reminders in your Mac menu bar.|[AppStore](https://apps.apple.com/us/app/instacal-menu-bar-calendar/id1247292524?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[MonthlyCal](https://doublerew.net/os-x/monthlycal/)| A colorful calendar widget|[AppStore](https://apps.apple.com/us/app/monthlycal/id935250717?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Blotter](https://www.wireload.net/products/blotter/)| Present your Calendar events and reminders right on your desktop.|[AppStore](https://apps.apple.com/us/app/blotter/id406580224?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[TheClock](https://www.seense.com/the_clock/)| The Best World Clock|[AppStore](https://apps.apple.com/app/the-clock/id488764545?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+
+
 
 
 ## Calculators
@@ -27,6 +30,9 @@
 |:-------|:--------------|:--------:|:-:|:-:|
 |[Calcbot](https://tapbots.com/calcbot/mac/)| An Intelligent Calculator and Unit Converter.|[AppStore](https://apps.apple.com/us/app/calcbot-the-smart-calculator/id931657367)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[PocketCAS](https://pocketcas.com/)| Very advanced mathematics application that helps you with any kind of math problem from elementary school to calculus, algebra and statistics.|[AppStore](https://apps.apple.com/us/app/pocketcas-mathematics-toolkit/id703006457)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[PCalc](https://www.pcalc.com/)| Powerful choice for scientists, engineers, students, programmers, or indeed anybody looking for a feature rich calculator|[AppStore](https://apps.apple.com/app/pcalc/id403504866?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+
+
 
 
 ## Clipboard managers
@@ -115,6 +121,7 @@
 |[Keynote](https://www.apple.com/keynote/)| Build stunning presentations|[AppStore](https://apps.apple.com/us/app/keynote/id409183694?mt=12)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Pages](https://www.apple.com/pages/)| Documents that stand apart|[AppStore](https://apps.apple.com/us/app/pages/id409201541?mt=12)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Receipts](https://www.receipts-app.com/)| Receipts is ideal for collecting and managing receipts for tax purposes, for expenses, for preparation of bookkeeping and also for private households.|[AppStore](https://apps.apple.com/us/app/receipts/id1079833326?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[Presentify](https://presentify.compzets.com/)| A menu bar app that helps you give better presentations, online classes, or video tutorials by letting you annotate any screen, highlight your cursor, and more.|[AppStore](https://apps.apple.com/app/presentify/id1507246666)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 
 ## PDF
@@ -129,7 +136,7 @@
 |[PDF Toolkit +](https://apps.apple.com/us/app/pdf-toolkit/id545164971?mt=12)| Manipulate PDF files: merging files, split file into smaller files, extracting pages, extracting images, compressing entire files.|[AppStore](https://apps.apple.com/us/app/pdf-toolkit/id545164971?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 
-## Time management / tracking
+## Time management / Tracking
 | Name ⇵ | Description ⇵ | Get it ⇵ | ⇵ | ⇵ |
 |:-------|:--------------|:--------:|:-:|:-:|
 |[Stand](https://getstandapp.com/)| Just a simple app for your Mac that reminds you to stand up once an hour.|[Website](https://getstandapp.com/)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
@@ -138,6 +145,8 @@
 |[Tracktiq](https://tracktiq.com/)| Easy time tracking on MacOS.|[AppStore](https://apps.apple.com/se/app/tracktiq/id1165790525?mt=12)|![Freemium](symbols/freemium.svg "Freemium")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Timing](https://timingapp.com/)| Just continue focusing on your work while Timing records your time automatically. |[Website](https://timingapp.com/)|![Subscription](symbols/subscription.svg "Subscription")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Timemator](https://timemator.com)| Automate your time-tracking and forget about the timer.|[Website](https://timemator.com)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[Gestimer](http://maddin.io/gestimer/)| Simple Mac menu bar app for reminders during the day.|[AppStore](https://apps.apple.com/us/app/gestimer/id990588172?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+
 
 
 ## Todo / GTD / Note-taking
@@ -159,6 +168,7 @@
 |[SideNotes](https://www.apptorium.com/sidenotes)| Quick notes on the side of your screen.|[AppStore](https://apps.apple.com/us/app/sidenotes/id1441958036?ls=1&mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[TickTick](https://ticktick.com/)| Cross-platform todo list, checklist and task manager app.|[AppStore](https://apps.apple.com/app/id966085870)|![Subscription](symbols/subscription.svg "Subscription")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Taskheat](https://eyen.fr/)| The personal task manager for determined people.|[AppStore](https://apps.apple.com/us/app/taskheat-visual-to-do-list/id1431995750)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[DEVONthink](https://www.devontechnologies.com/apps/devonthink)| Collect, organize, edit and annotate documents of any kind. Have them automatically analyzed, connected, and filed.|[Website](https://www.devontechnologies.com/apps/devonthink)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 
 ## Tools
@@ -178,8 +188,8 @@
 |[Hazel](https://www.noodlesoft.com/)| Automated Organization for Your Mac. Hazel watches whatever folders you tell it to, automatically organizing your files according to the rules you create.|[Website](https://www.noodlesoft.com/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Keysmith](http://www.keysmith.app/)| Create custom keyboard shortcuts for your Mac and the web. |[Website](http://www.keysmith.app/)|![Freemium](symbols/freemium.svg "Freemium")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[EasyFind](https://www.devontechnologies.com/apps/freeware)| Finds files and folders by name, content, tags, or comments using bool operators, wildcards, phrases and regular expressions.|[Website](https://www.devontechnologies.com/apps/freeware)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
-
-
+|[Space Drop](https://fiplab.com/apps/space-drop-for-mac)| This app makes dragging and dropping files much easier with a handy dock that instantly appears whenever you start dragging a file.|[AppStore](https://apps.apple.com/us/app/space-drop-better-drag-drop/id1199057830?mt=12)|![Paid](symbols/Paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[Pliim](https://pliim.app/)| Avoid embarrassing stuff while presenting. Notifications, desktop icons, apps and more.|[Website](https://pliim.app/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 ## Writing
 | Name ⇵ | Description ⇵ | Get it ⇵ | ⇵ | ⇵ |
@@ -212,3 +222,5 @@
 |[start](https://apps.apple.com/us/app/start/id1329701389)| Get a windows start menu for your mac.|[AppStore](https://apps.apple.com/us/app/start/id1329701389)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Paprika](https://www.paprikaapp.com/)| Helps you organize your recipes, make meal plans, and create grocery lists. |[AppStore](https://apps.apple.com/us/app/paprika-recipe-manager-3/id1303222628?ls=1&mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[SwitchGlass](https://apps.apple.com/us/app/switchglass/id1498546559?mt=12)| SwitchGlass adds a dedicated application switcher to your Mac.|[AppStore](https://apps.apple.com/us/app/switchglass/id1498546559?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[DEVONagent Pro](https://www.devontechnologies.com/apps/devonagent)| Searches multiple sources and frees you from manually sorting the wheat from the chaff.|[AppStore](https://apps.apple.com/us/app/devonagent-pro/id450113817?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+

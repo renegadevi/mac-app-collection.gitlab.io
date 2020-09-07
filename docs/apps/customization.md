@@ -17,3 +17,5 @@
 |:-------|:--------------|:--------:|:-:|:-:|
 |[Irvue](https://irvue.tumblr.com/)| Gorgeous high-resolution wallpapers on your Mac from Unsplash with new ones every day. |[AppStore](https://apps.apple.com/app/irvue-unsplash-wallpapers/id1039633667)|![Freemium](symbols/freemium.svg "Freemium")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Plash](https://github.com/sindresorhus/Plash)| Make any website your Mac desktop wallpaper.|[GitHub](https://github.com/sindresorhus/Plash)|![Free](symbols/free.svg "Free")|![Open-Source](symbols/open.svg "Open-Source")|
+|[24 Hour Wallpaper](https://www.jetsoncreative.com/24hourwallpaper/)| Expands Dynamic Desktop by offering a complete catalog of wallpapers from around the world that change to match the time of day.|[AppStore](https://apps.apple.com/us/app/24-hour-wallpaper/id1226087575?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[Plash](https://sindresorhus.com/plash)| A website as desktop wallpaper|[AppStore](https://apps.apple.com/us/app/plash/id1494023538?mt=12)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|

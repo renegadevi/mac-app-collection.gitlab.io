@@ -27,6 +27,10 @@
 |[Tagr](http://www.entwicklungsfreu.de/tagr.html)| An tagging  application that helps you organize your music collection with a simple UI.|[AppStore](https://apps.apple.com/us/app/tagr/id903733783?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Swinsian](https://swinsian.com/)| Simple music player for with wide format support, folder watching, advanced tag editing and designed to be responsive even with the largest libraries.|[Website](https://swinsian.com/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Ampado](http://ampado.com/)| Easy and powerful AudioPlayer for macOS with audio graph.|[AppStore](https://apps.apple.com/app/id1296740756)|![Freemium](symbols/freemium.svg "Freemium")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[TunesArt](https://www.jibapps.com/apps/tunesart/)| Display a gorgeous album cover on your desktop and display lyrics and bio about artists.|[AppStore](https://apps.apple.com/app/tunesart/id444696268?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[DesktopLyrics](https://www.corecode.io/desktoplyrics/)| Display the lyrics of the song currently playing in "iTunes" right on your desktop.|[AppStore](https://apps.apple.com/us/app/desktoplyrics/id518820958?mt=12)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[Meta](https://www.nightbirdsevolve.com/meta/)| Advanced Music Tag Editor for macOS.|[AppStore](https://apps.apple.com/app/meta-music-tag-editor/id558317092?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+
 
 See [Video](video) section for multimedia players 
 
