@@ -160,7 +160,7 @@
 ## Window management
 | Name ⇵ | Description ⇵ | Get it ⇵ | ⇵ | ⇵ |
 |:-------|:--------------|:--------:|:-:|:-:|
-|[Alt-Tab](https://github.com/lwouis/alt-tab-macos)| Brings the power of Windows' "alt-tab" window switcher to macOS.|[Github](https://github.com/lwouis/alt-tab-macos#alt-tab-macos)|![Free](symbols/free.svg "Free")|![Open-Source](symbols/open.svg "Open-Source")|
+|[Alt-Tab](https://alt-tab-macos.netlify.app/)| Windows alt-tab on macOS.|[Website](https://github.com/lwouis/alt-tab-macos#alt-tab-macos)|![Free](symbols/free.svg "Free")|![Open-Source](symbols/open.svg "Open-Source")|
 |[WindowSwitcher](https://noteifyapp.com/windowswitcher/)| Powerful Mac Desktop Window Switcher and Window Manager for macOS|[Website](https://noteifyapp.com/windowswitcher/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[MaxSnap](https://noteifyapp.com/maxsnap-mac-window-manager/)| Powerful Window Manager for Mac, Alternative to SizeUp, Divvy and Moom.|[Website](https://noteifyapp.com/maxsnap-mac-window-manager/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[ScreenFocus](https://www.apptorium.com/screenfocus)| Dimms any number of screens, so that you can focus only on what you are actually working on. |[AppStore](https://apps.apple.com/us/app/screenfocus/id1337028713?ct=apt&ls=1&mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
