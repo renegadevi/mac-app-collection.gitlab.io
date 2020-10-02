@@ -58,6 +58,7 @@
 |:-------|:--------------|:--------:|:-:|:-:|
 |[CoreTunnel](https://coretunnel.app/)| The missing tunnel manager, compatible with OpenSSH, automatic and intuitive. Don't waste your time; be productive.|[AppStore](https://apps.apple.com/us/app/core-tunnel/id1354318707?ls=1&mt=12)|![Freemium](symbols/freemium.svg "Freemium")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Secure Pipes](https://www.opoet.com/pyro/index.php)| Private and secure connectivity for OS X clients and servers.|[Website](https://www.opoet.com/pyro/index.php)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[SSH Config Editor](https://www.hejki.org/ssheditor/)| Manage your SSH client configuration file in a smart and efficient way|[AppStore](https://apps.apple.com/app/apple-store/id1109319285)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 
 ## VPN
@@ -74,3 +75,4 @@
 |[Integrity](https://peacockmedia.software/mac/integrity/free.html)| Free website link checker for Mac|[Website](https://peacockmedia.software/mac/integrity/free.html)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Netler](https://www.imagetasks.com/netler-network-monitor/)| Network monitor for Notification Center and Menu Bar|[AppStore](https://apps.apple.com/us/app/netler/id1401495844?ls=1&mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[SquidMan](https://squidman.net/squidman/)| Graphical installer and manager for the Squid proxy cache.|[Website](https://squidman.net/squidman/)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[GoPanel](https://gopanel.io/)| Linux web server manager|[AppStore](https://apps.apple.com/app/gopanel-2-web-server-manager/id1350654978)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
