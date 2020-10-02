@@ -30,7 +30,7 @@
 |[TunesArt](https://www.jibapps.com/apps/tunesart/)| Display a gorgeous album cover on your desktop and display lyrics and bio about artists.|[AppStore](https://apps.apple.com/app/tunesart/id444696268?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[DesktopLyrics](https://www.corecode.io/desktoplyrics/)| Display the lyrics of the song currently playing in "iTunes" right on your desktop.|[AppStore](https://apps.apple.com/us/app/desktoplyrics/id518820958?mt=12)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Meta](https://www.nightbirdsevolve.com/meta/)| Advanced Music Tag Editor for macOS.|[AppStore](https://apps.apple.com/app/meta-music-tag-editor/id558317092?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
-
+|[Pine Player](https://apps.apple.com/app/pine-player/id1112075769?mt=12)| Exclusive listening digital music player for music lovers.|[AppStore](https://apps.apple.com/app/pine-player/id1112075769?mt=12)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 See [Video](video) section for multimedia players 
 
@@ -42,7 +42,8 @@ See [Video](video) section for multimedia players
 |[Mutify](https://mutify.app/)| Quickly mute your microphone with a shortcut or the touch bar. |[Website](https://mutify.app/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[ToothFairy](https://c-command.com/toothfairy/)| Connect AirPods (or other Bluetooth headphones) to your Mac with a single click or keypress.|[AppStore](https://apps.apple.com/us/app/toothfairy/id1191449274?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[[Un]MuteMic](https://github.com/CocoaHeadsBrasil/MuteUnmuteMic)| macOS app to mute & unmute the input volume of your microphone.|[Github](https://github.com/CocoaHeadsBrasil/MuteUnmuteMic)|![Free](symbols/free.svg "Free")|![Open-Source](symbols/open.svg "Open-Source")|
-
+|[Sonic Atom](https://www.loudlab-app.com/sonicatom-app)| Multi-instrument, audio analysis and metering software.|[Website](https://www.loudlab-app.com/sonicatom-app)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[FuzzMeasure](https://www.rodetest.com/)| Powerful Audio and Acoustic Measurements, by RØDE|[Website](https://www.rodetest.com/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 ##  Podcasting
 | Name ⇵ | Description ⇵ | Get it ⇵ | ⇵ | ⇵ |
@@ -66,7 +67,7 @@ See [Video](video) section for multimedia players
 |[SoundStudio](https://felttip.com/ss/)| Record and edit podcasts, music, interviews, or presentations all with high fidelity.|[Website](https://felttip.com/ss/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[SoundForge](https://www.magix.com/int/music/sound-forge/sound-forge-pro-mac/)| Professional audio waveform editor for Mac by MAGIX|[Website](https://www.magix.com/int/music/sound-forge/sound-forge-pro-mac/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[OceanAudio](https://www.ocenaudio.com/en/startpage)| Easy and fast audio editor|[Website](https://www.ocenaudio.com/en/startpage)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
-
+|[Fluctus](https://www.loudlab-app.com/fluctus-app)| Audio Editor for both the Newcomer and the Expert.|[Website](https://www.loudlab-app.com/fluctus-app)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 
 ## Volume controls / EQ
