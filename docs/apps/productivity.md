@@ -57,11 +57,11 @@
 |[busyContacts](https://www.busymac.com/busycontacts/)| Contact manager for macOS that makes creating, finding, and managing contacts faster and more efficient.|[AppStore](https://apps.apple.com/us/app/busycontacts/id964258399?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 
-## CRM
+## CRM / Project Management
 | Name ⇵ | Description ⇵ | Get it ⇵ | ⇵ | ⇵ |
 |:-------|:--------------|:--------:|:-:|:-:|
-|[Daylite](https://www.marketcircle.com/)| Organize your clients, leads, projects all in one place so your team can share everything.|[Website](https://www.marketcircle.com/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
-
+|[Daylite](https://www.marketcircle.com/)| Organize your clients, leads, projects all in one place so your team can share everything.|[Website](https://www.marketcircle.com/)|![Subscription](symbols/subscription.svg "Subscription")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[Merlin Project](https://www.projectwizards.net/en)| The professional tool for the project manager on Mac, iPad & iPhone|[AppStore](https://apps.apple.com/app/merlin-project-gantt-kanban/id1335639877?mt=12)|![Freemium](symbols/freemium.svg "Freemium")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 ## Education / Science
 | Name ⇵ | Description ⇵ | Get it ⇵ | ⇵ | ⇵ |
@@ -169,6 +169,7 @@
 |[TickTick](https://ticktick.com/)| Cross-platform todo list, checklist and task manager app.|[AppStore](https://apps.apple.com/app/id966085870)|![Subscription](symbols/subscription.svg "Subscription")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Taskheat](https://eyen.fr/)| The personal task manager for determined people.|[AppStore](https://apps.apple.com/us/app/taskheat-visual-to-do-list/id1431995750)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[DEVONthink](https://www.devontechnologies.com/apps/devonthink)| Collect, organize, edit and annotate documents of any kind. Have them automatically analyzed, connected, and filed.|[Website](https://www.devontechnologies.com/apps/devonthink)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[iMeetingX](https://www.imeetingx.com/en/index.aspx)| Plan and follow-up on tasks from business meetings and workshops|[Website](https://www.imeetingx.com/en/index.aspx)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 
 ## Tools
@@ -190,6 +191,9 @@
 |[EasyFind](https://www.devontechnologies.com/apps/freeware)| Finds files and folders by name, content, tags, or comments using bool operators, wildcards, phrases and regular expressions.|[Website](https://www.devontechnologies.com/apps/freeware)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Space Drop](https://fiplab.com/apps/space-drop-for-mac)| This app makes dragging and dropping files much easier with a handy dock that instantly appears whenever you start dragging a file.|[AppStore](https://apps.apple.com/us/app/space-drop-better-drag-drop/id1199057830?mt=12)|![Paid](symbols/Paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Pliim](https://pliim.app/)| Avoid embarrassing stuff while presenting. Notifications, desktop icons, apps and more.|[Website](https://pliim.app/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[VisualGrep](https://apps.apple.com/app/visualgrep/id597887722?mt=12)| Non-indexed full text search of files supporting filters and folder traversal.|[AppStore](https://apps.apple.com/app/visualgrep/id597887722?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[VisualDiffer](https://visualdiffer.com/)| Compares side-by-side folders and files using colors to visually show differences|[AppStore](https://apps.apple.com/app/visualdiffer/id412386481?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+
 
 ## Writing
 | Name ⇵ | Description ⇵ | Get it ⇵ | ⇵ | ⇵ |
@@ -204,6 +208,7 @@
 |[Slugline](https://slugline.co/)| The best-reviewed screenwriting app for Mac.|[AppStore](https://apps.apple.com/us/app/slugline-2/id1483507254?mt=12)|![Freemium](symbols/freemium.svg "Freemium")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Texpad](https://www.texpad.com/)| Join academics and professional writers in harnessing the power of LaTeX to produce polished output of your writing.|[Website](https://www.texpad.com/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Manuscripts](https://www.manuscriptsapp.com/)| Your next manuscript, from A to Z.|[Website](https://www.manuscriptsapp.com/)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[Final Draft](https://www.finaldraft.com/)| Screenwriting software choice of professional screenwriters and filmmakers around the world.|[Website](https://www.finaldraft.com/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 
 ## Writing tools
@@ -214,7 +219,7 @@
 |[Rocket](https://matthewpalmer.net/rocket/)| Mind-blowing emoji on your Mac. Like Slack and Discord.|[Website](https://matthewpalmer.net/rocket/)|![Freemium](symbols/freemium.svg "Freemium")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Typinator](https://www.ergonis.com/products/typinator/)| Fastest text-expander for the Mac.|[Website](https://www.ergonis.com/products/typinator/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[TypeIt4Me](https://www.ettoresoftware.com/)| The original text-expander for the Mac. Save time and effort. Type more with fewer keystrokes.|[AppStore](https://apps.apple.com/se/app/typeit4me/id412141729?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
-
+|[aText](https://www.trankynam.com/atext/)| Accelerate your typing anywhere by replacing abbreviations with frequently used defined phrases.|[AppStore](https://apps.apple.com/app/atext/id488566438?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 ## Other
 | Name ⇵ | Description ⇵ | Get it ⇵ | ⇵ | ⇵ |
