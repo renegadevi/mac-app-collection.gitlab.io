@@ -41,6 +41,7 @@
 |:-------|:--------------|:--------:|:-:|:-:|
 |[MAMP Pro](https://www.mamp.info/en/mamp-pro/mac/)| Easy to use webdev stack for local development. (Apache, Nginx, PHP & MySQL)|[Website](https://www.mamp.info/en/mamp-pro/mac/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[RedisApp](https://github.com/jpadilla/redisapp)| Easy way to manage Redis on the Mac via the menubar.|[Github](https://github.com/jpadilla/redisapp)|![Free](symbols/free.svg "Free")|![Open-Source](symbols/open.svg "Open-Source")|
+|[VirtualHostX](https://clickontyler.com/virtualhostx/)| Easy-to-install local server environment for macOS. |[Website](https://clickontyler.com/virtualhostx/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 
 ## Dictionaries
@@ -114,6 +115,11 @@
 |[Patterns](https://krillapps.com/patterns/)| The ultimate tool for working with regular expressions.|[AppStore](http://itunes.apple.com/us/app/patterns-the-regex-app/id429449079?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Expressions](https://www.apptorium.com/expressions)| An app to play with regular expressions. Easily and nicely. |[AppStore](https://apps.apple.com/us/app/expressions/id913158085?ls=1&mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
+
+## Server monitoring
+| Name ⇵ | Description ⇵ | Get it ⇵ | ⇵ | ⇵ |
+|:-------|:--------------|:--------:|:-:|:-:|
+|[Simon](https://www.dejal.com/simon/)| Essential site monitoring tool for macOS. It checks servers for changes or failures and notifies you.|[Website](https://www.dejal.com/simon/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 ## Text editors
 | Name ⇵ | Description ⇵ | Get it ⇵ | ⇵ | ⇵ |
@@ -194,6 +200,7 @@
 |[Date Format Creator](https://apps.apple.com/us/app/date-format-creator/id965645209?mt=12)| Makes working with dates a little bit easier by giving you a date formatter to test and experiment with. Enter your UTS date format, pick a date and see how an NSDateFormatter would convert it into a string.|[AppStore](https://apps.apple.com/us/app/date-format-creator/id965645209?mt=12)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[OpenGL Extensions Viewer](http://www.realtech-vr.com/home/glview)| This program displays the vendor name, the version implemented, the renderer name and the extensions of the current OpenGL 3D accelerator (note: May not work on your specific hw).|[AppStore](https://apps.apple.com/us/app/opengl-extensions-viewer/id444052073?mt=12)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[ShowClipboards](http://www.tempel.org/ShowClipboards)| View and test the pasteboard (clipboard) contents for both Carbon and NSPasteboard.|[Website](http://www.tempel.org/ShowClipboards)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+
 
 
 
