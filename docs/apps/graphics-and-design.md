@@ -69,6 +69,7 @@
 |[Principle](https://principleformac.com/)| Prototype animation tool for MacOS that's easy to use with option to import from Figma and Sketch.|[Website](https://principleformac.com/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[ThumbsUp](https://www.devontechnologies.com/apps/freeware)| Create batch thumbnails for your website in seconds with ThumbsUp.|[Website](https://www.devontechnologies.com/apps/freeware)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Morph Age](https://creaceed.com/morphage)| Create stunning morphing animations from faces, animals, or objects.|[AppStore](https://apps.apple.com/app/id413898200?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[EXIF](https://apps.apple.com/app/exif-view-and-edit-meta-data/id1487918941?mt=12)| View and Edit Meta Data|[AppStore](https://apps.apple.com/app/exif-view-and-edit-meta-data/id1487918941?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 
 ## Vector
