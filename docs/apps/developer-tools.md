@@ -121,7 +121,7 @@
 |:-------|:--------------|:--------:|:-:|:-:|
 |[Simon](https://www.dejal.com/simon/)| Essential site monitoring tool for macOS. It checks servers for changes or failures and notifies you.|[Website](https://www.dejal.com/simon/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
-# Testing
+## Testing
 | Name ⇵ | Description ⇵ | Get it ⇵ | ⇵ | ⇵ |
 |:-------|:--------------|:--------:|:-:|:-:|
 |[Sim Genie](https://simgenie.app/)| Turbo-charge your workflow. Xcode’s simulator can do so much more.|[Website](https://simgenie.app/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
