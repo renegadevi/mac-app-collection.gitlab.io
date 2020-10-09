@@ -41,6 +41,7 @@
 |[Displays](https://www.jibapps.com/apps/displays/)| Manage your monitors and more|[Website](https://www.jibapps.com/apps/displays/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[NightTone](https://alexdenk.eu/)| Makes your screen more comfortable, enjoyable and healthier by shifting the colors of your display to a warmer, eye-friendly palette.|[AppStore](https://apps.apple.com/us/app/nighttone-night-light-filter/id1135472584?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[EasyRes](http://easyresapp.com/)| A fast screen resolution switcher for Mac OS X with live previews.|[AppStore](https://apps.apple.com/app/easyres/id688211836?ls=1&mt=12)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[RapidRes](https://apps.apple.com/app/rapidres/id1329898474)| This allows to change the display resolution from the title bar.|[AppStore](https://apps.apple.com/app/rapidres/id1329898474)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 
 ## File system / Drivers
