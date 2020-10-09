@@ -7,6 +7,7 @@
 |[Alacritty](https://github.com/alacritty/alacritty)| A super fast, cross-platform, GPU-accelerated terminal emulator.|[Github](https://github.com/alacritty/alacritty)|![Free](symbols/free.svg "Free")|![Open-Source](symbols/open.svg "Open-Source")|
 |[Cathode](https://apps.apple.com/us/app/cathode/id499233976?mt=12)| Vintage terminal emulator.|[AppStore](https://apps.apple.com/us/app/cathode/id499233976?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Serial](https://www.decisivetactics.com/products/serial/)| Connect to routers, servers, firewalls, industrial control and IoT devices with ease.|[AppStore](https://apps.apple.com/us/app/serial/id877615577?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[Core Shell](https://coreshell.app/)| A terminal to make your SSH life easy|[AppStore](https://apps.apple.com/app/core-shell-ssh-client/id1354319581)|![Freemium](symbols/freemium.svg "Freemium")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 
 ## Miscellaneous
