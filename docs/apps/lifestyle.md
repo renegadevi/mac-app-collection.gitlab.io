@@ -17,6 +17,7 @@
 |[PowerPhotos](https://www.fatcatsoftware.com/powerphotos/)| Organize your Mac's photo library|[Website](https://www.fatcatsoftware.com/powerphotos/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Anamorphic Pro](https://apps.apple.com/us/app/anamorphic-pro/id1242990146?mt=12)| Imagine Portrait Mode but with expensive cinematic and anamorphic lenses.|[AppStore](https://apps.apple.com/us/app/anamorphic-pro/id1242990146?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[ApolloOne](https://www.apollooneapp.com/)| Designed from the ground up as a fast, efficient and feature rich media viewer.|[AppStore](https://apps.apple.com/us/app/apolloone-photo-video-viewer/id1044484672?mt=12)|![Freemium](symbols/freemium.svg "Freemium")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[Posterino](http://www.zykloid.com/posterino)| A photo collage in minutes|[AppStore](https://apps.apple.com/us/app/posterino-3/id945991770?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 
 ## Weather
