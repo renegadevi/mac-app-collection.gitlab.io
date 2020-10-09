@@ -41,7 +41,7 @@
 |[Cookie](https://cookieapp.com/)| Designed to run invisibly in the background - you can rest easy knowing that advertisers and marketers aren't tracking your every click.|[AppStore](https://apps.apple.com/us/app/cookie/id1473091386?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Network Kit X](https://doublerew.net/os-x/network-utility-x/)| Keep under control your network with an user friendly set of network tool that will help you to analyze your LAN and notification center widget.|[AppStore](https://apps.apple.com/us/app/network-kit-x/id979299240?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Bandwidth+](https://apps.apple.com/app/bandwidth/id490461369?mt=12)| Track your Wi-Fi hotspot usage.|[AppStore](https://apps.apple.com/app/bandwidth/id490461369?mt=12)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
-
+|[PingDoctor](https://apps.apple.com/app/pingdoctor/id1350044974)| Powerful graphical traceroute|[AppStore](https://apps.apple.com/app/pingdoctor/id1350044974)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 
 ## Remote control
@@ -59,6 +59,7 @@
 |[CoreTunnel](https://coretunnel.app/)| The missing tunnel manager, compatible with OpenSSH, automatic and intuitive. Don't waste your time; be productive.|[AppStore](https://apps.apple.com/us/app/core-tunnel/id1354318707?ls=1&mt=12)|![Freemium](symbols/freemium.svg "Freemium")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Secure Pipes](https://www.opoet.com/pyro/index.php)| Private and secure connectivity for OS X clients and servers.|[Website](https://www.opoet.com/pyro/index.php)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[SSH Config Editor](https://www.hejki.org/ssheditor/)| Manage your SSH client configuration file in a smart and efficient way|[AppStore](https://apps.apple.com/app/apple-store/id1109319285)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+
 
 
 ## VPN
