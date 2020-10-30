@@ -15,6 +15,7 @@
 |[ArtStudio Pro](https://www.luckyclan.com/apps/artstudiopro-macos)| Powerful painting and photo editing app redesigned to bring new features and improvements taking full advantage of the latest technologies.|[AppStore](https://apps.apple.com/us/app/artstudio-pro/id1313773050?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Hydra](https://creaceed.com/hydra)| Pro HDR Editor for Mac. Create stunning HDR images from single or multiple exposures.|[AppStore](https://apps.apple.com/app/id1111590907?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[iMazing HEIC Converter](https://imazing.com/heic)| 100% free solution to easily convert pictures taken in the new HEIF format.|[AppStore](https://apps.apple.com/us/app/imazing-heic-converter/id1292198261?mt=12)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[Paint X](https://apps.apple.com/app/paint-x-paint-draw-and-edit/id668502966?mt=12)| Classic simple painting application inspired by MS Paint.|[AppStore](https://apps.apple.com/app/paint-x-paint-draw-and-edit/id668502966?mt=12)|![Freemium](symbols/freemium.svg "Freemium")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 ## Color pickers
 | Name ⇵ | Description ⇵ | Get it ⇵ | ⇵ | ⇵ |
@@ -23,6 +24,8 @@
 |[ColorSlurp](http://colorslurp.com/)| ColorSlurp is the ultimate color productivity booster for designers and developers.|[AppStore](https://apps.apple.com/us/app/colorslurp/id1287239339?ls=1&mt=12)|![Freemium](symbols/freemium.svg "Freemium")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Litur](https://litur.app/)| Litur helps you find, collect, and organize all your colors|[AppStore](https://apps.apple.com/us/app/id1519450882)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Sipapp](https://sipapp.io/)| A better way to collect, organize & share your colors.|[Website](https://sipapp.io/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[QuickLens](https://apps.apple.com/app/id1527758002)| Inspect your UI like a professional designer.|[AppStore](https://apps.apple.com/app/id1527758002)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+
 
 ## Fonts
 | Name ⇵ | Description ⇵ | Get it ⇵ | ⇵ | ⇵ |

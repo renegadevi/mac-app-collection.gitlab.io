@@ -121,10 +121,12 @@
 |:-------|:--------------|:--------:|:-:|:-:|
 |[Simon](https://www.dejal.com/simon/)| Essential site monitoring tool for macOS. It checks servers for changes or failures and notifies you.|[Website](https://www.dejal.com/simon/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
+
 ## Testing
 | Name ⇵ | Description ⇵ | Get it ⇵ | ⇵ | ⇵ |
 |:-------|:--------------|:--------:|:-:|:-:|
 |[Sim Genie](https://simgenie.app/)| Turbo-charge your workflow. Xcode’s simulator can do so much more.|[Website](https://simgenie.app/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+
 
 ## Text editors
 | Name ⇵ | Description ⇵ | Get it ⇵ | ⇵ | ⇵ |
@@ -143,6 +145,7 @@
 |[TeaCode](https://www.apptorium.com/teacode)| Don't repeat yourself. Write your code snippets dynamicly.|[Website](https://www.apptorium.com/teacode)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[XCOrganizer](https://xcorganizer.com/)| Using metadata it finds all your Xcode Projects, Xcode Workspaces, Swift Playgrounds and Swift Packages in seconds.|[AppStore](https://apps.apple.com/us/app/xcorganizer/id1507556912?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[PENcode](https://pencode.alecoconnor.com/)| Encode and decode strings with ease! PenTesting is hard enough as it is.|[AppStore](https://apps.apple.com/app/pencode/id1519532970?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[Yttrium](https://www.yttrium.app/)| Powerful node-based user interface. Use various nodes to create complex AR/3D-scenes.|[AppStore](https://apps.apple.com/app/yttrium/id1480253775)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 
 ## Translation

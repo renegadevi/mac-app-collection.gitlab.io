@@ -9,6 +9,7 @@
 |[Wattagio](https://filincode.com/en/wattagio)| Powerful battery assistant for your Mac. It gives you information about current battery health, including battery life, battery consumption, and battery cycle count.|[Website](https://filincode.com/en/wattagio)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[FruitJuice](https://fruitjuiceapp.com/)| FruitJuice will let you know how long to stay unplugged each day to keep your battery healthy.|[AppStore](https://apps.apple.com/us/app/fruitjuice-battery-health/id671736912)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[App Tamer](https://www.stclairsoft.com/AppTamer/)| Detect applications and take control over apps that is resource hogs. App Tamer will automatically slow down or pause your applications whenever you're not using them, greatly reducing their CPU use.|[Website](https://www.stclairsoft.com/AppTamer/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[Power Manager](https://www.dssw.co.uk/powermanager/)| Automate sophisticated tasks and improve your Mac's power management.|[Website](https://www.dssw.co.uk/powermanager/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 
 ## Bluetooth
@@ -76,7 +77,7 @@
 |[OmniDiskSweeper](https://www.omnigroup.com/more)| This shows you the files on your drive, largest to smallest, and lets you quickly Trash or open them.|[Website](https://www.omnigroup.com/more)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Darksight](https://www.imagetasks.com/disksight-disk-cleaner/)| Visualize your disk, so you can easily find and remove large folders and files that might be not needed anymore.|[AppStore](https://apps.apple.com/us/app/disksight/id1485505524?ls=1&mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Launch Services](https://apps.tempel.org/LaunchServices/index.php)| Uses the macOS Launch Services API to perform lookups of bundle IDs and file extensions.|[Website](https://apps.tempel.org/LaunchServices/index.php#download)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
-
+|[Disk Space Analyzer](https://nektony.com/disk-expert)| A powerful disk usage scanning and reporting utility for Mac.|[AppStore](https://apps.apple.com/app/disk-space-analyzer-pro/id488920185)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 ## Mouse / Trackpad
 | Name ⇵ | Description ⇵ | Get it ⇵ | ⇵ | ⇵ |
@@ -156,6 +157,7 @@
 |[Magnet](https://magnet.crowdcafe.com/)| Magnet declutters your screen by snapping windows into organized tiles.|[AppStore](https://apps.apple.com/app/id441258766?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Moom](https://manytricks.com/moom/)| Moom makes window management as easy as clicking a mouse button—or using a keyboard shortcut.|[AppStore](https://apps.apple.com/us/app/moom/id419330170?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Mosaic](https://www.lightpillar.com/mosaic.html)| Effortlessly resize and re-position windows on your Mac.|[Website](https://www.lightpillar.com/mosaic.html)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[Hookshot](https://hookshot.app/)| Cursor movement window snapping on macOS|[Website](https://hookshot.app/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
  
  
 ## Window management

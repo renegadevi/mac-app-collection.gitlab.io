@@ -49,7 +49,7 @@
 |[Unclutter](https://unclutterapp.com/)| A new handy place on your desktop for storing notes, files and pasteboard clips.|[AppStore](https://apps.apple.com/app/unclutter/id577085396)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[iClip – Clipboard Manager](http://iclipapp.com/)|Keep a history of almost anything you copy, instead of only the last thing.|[AppStore](https://apps.apple.com/app/id468369783?ls=1&mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Maccy](https://maccy.app/)| Clipboard manager for macOS which does one job - keep your copy history at hand. Period.|[Website](https://maccy.app/)|![Free](symbols/free.svg "Free")|![Open-Source](symbols/open.svg "Open-Source")|
-
+|[CCboard](https://apps.apple.com/app/ccboard-pasteboard-tool/id1503125921?mt=12)| Simple and graphical pasteboard tool.|[AppStore](https://apps.apple.com/app/ccboard-pasteboard-tool/id1503125921?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 ## Contacts
 | Name ⇵ | Description ⇵ | Get it ⇵ | ⇵ | ⇵ |
@@ -62,6 +62,8 @@
 |:-------|:--------------|:--------:|:-:|:-:|
 |[Daylite](https://www.marketcircle.com/)| Organize your clients, leads, projects all in one place so your team can share everything.|[Website](https://www.marketcircle.com/)|![Subscription](symbols/subscription.svg "Subscription")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Merlin Project](https://www.projectwizards.net/en)| The professional tool for the project manager on Mac, iPad & iPhone|[AppStore](https://apps.apple.com/app/merlin-project-gantt-kanban/id1335639877?mt=12)|![Freemium](symbols/freemium.svg "Freemium")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[Workspaces](https://www.apptorium.com/workspaces2)| Workflow organizing app for Mac|[Website](https://www.apptorium.com/workspaces2)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+
 
 ## Education / Science
 | Name ⇵ | Description ⇵ | Get it ⇵ | ⇵ | ⇵ |
@@ -69,7 +71,6 @@
 |[EnzymeX](https://nucleobytes.com/enzymex/index.html)| The DNA sequence editor for OS X|[Website](https://nucleobytes.com/enzymex/index.html)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Findings](https://findingsapp.com/)| Your research assistant & lab notebook, all in one app.|[Website](https://findingsapp.com/)|![Freemium](symbols/freemium.svg "Freemium")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Studies](http://www.studiesapp.com/)| Studies is a flashcard app for the serious student, with editions for Mac®, iPhone® and iPad®.|[AppStore](https://apps.apple.com/us/app/studies/id1071676469)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
-
 
 
 ## File managers
@@ -176,6 +177,7 @@
 | Name ⇵ | Description ⇵ | Get it ⇵ | ⇵ | ⇵ |
 |:-------|:--------------|:--------:|:-:|:-:|
 |[Alfred](https://www.alfredapp.com/)| Search your Mac and the web, and be more productive with custom actions to control your Mac.|[Website](https://www.alfredapp.com/)|![Freemium](symbols/freemium.svg "Freemium")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[Lacona](https://lacona.app/)| Open with a keystroke and start typing. Launch apps and find your files instantly.|[AppStore](https://apps.apple.com/app/lacona/id1495926282?mt=12)|![Freemium](symbols/freemium.svg "Freemium")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Yoink](https://eternalstorms.at/yoink/mac/)| Simplify and improve drag and drop on your Mac and speed up your daily workflow. |[AppStore](https://apps.apple.com/app/yoink/id457622435?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Dropover](https://dropoverapp.com/?r=as_en)| Make Drag & Drop easier. Use it to stash, gather or move any draggable content without having to open side-by-side windows. |[AppStore](https://apps.apple.com/us/app/dropover/id1355679052?mt=12)|![Freemium](symbols/freemium.svg "Freemium")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Keyboard Mestro](http://www.keyboardmaestro.com/main/)| Automate applications or web sites, text or images, simple or complex, on command or scheduled. You can automate virtually anything.|[Website](http://www.keyboardmaestro.com/main/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|

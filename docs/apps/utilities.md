@@ -33,6 +33,8 @@
 |[XMenu](https://www.devontechnologies.com/apps/freeware)| Brings back Apple Menu and is a application launcher.|[AppStore](https://apps.apple.com/us/app/xmenu/id419332741?mt=12)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Hand Mirror](https://handmirror.app/)| Check yo face from the menubar|[AppStore](https://apps.apple.com/us/app/hand-mirror/id1502839586?mt=12)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Clocker](https://abhishekbanthia.com/clocker/)| Clocker is designed to help you keep track of your friends and colleagues in different time zones.|[AppStore](https://apps.apple.com/us/app/clocker-menubar-world-clock/id1056643111?ls=1&mt=12)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[Timey](https://www.getniceapps.com/timey-3)| A menu bar timer|[AppStore](https://apps.apple.com/app/timey-3-menu-bar-timer/id1421143542?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[Jettison](https://stclairsoft.com/Jettison/)| Eliminates the hassle of ejecting external drives before you put your MacBook to sleep.|[Website](https://stclairsoft.com/Jettison/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 
 
