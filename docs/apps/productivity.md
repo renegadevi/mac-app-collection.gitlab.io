@@ -148,6 +148,7 @@
 |[Timemator](https://timemator.com)| Automate your time-tracking and forget about the timer.|[Website](https://timemator.com)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Gestimer](http://maddin.io/gestimer/)| Simple Mac menu bar app for reminders during the day.|[AppStore](https://apps.apple.com/us/app/gestimer/id990588172?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Pommie](https://hacknicity.com/pommie/osx)| Improve your productivity by managing your time into strict work and break periods.|[AppStore](https://apps.apple.com/app/pommie-pomodoro-timer/id963504129)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[Statsey](http://getniceapps.com/statsey)| Track time you spent in apps|[AppStore](https://apps.apple.com/app/statsey-app-usage-statistics/id1198515957)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 
 ## Todo / GTD / Note-taking
