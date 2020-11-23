@@ -149,6 +149,7 @@
 |[Gestimer](http://maddin.io/gestimer/)| Simple Mac menu bar app for reminders during the day.|[AppStore](https://apps.apple.com/us/app/gestimer/id990588172?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Pommie](https://hacknicity.com/pommie/osx)| Improve your productivity by managing your time into strict work and break periods.|[AppStore](https://apps.apple.com/app/pommie-pomodoro-timer/id963504129)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Statsey](http://getniceapps.com/statsey)| Track time you spent in apps|[AppStore](https://apps.apple.com/app/statsey-app-usage-statistics/id1198515957)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[Timey](https://www.getniceapps.com/timey-3)| A menu bar timer|[AppStore](https://apps.apple.com/app/timey-3-menu-bar-timer/id1421143542?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 
 ## Todo / GTD / Note-taking
