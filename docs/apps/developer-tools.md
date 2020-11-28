@@ -34,6 +34,7 @@
 |[Fabula](https://www.pnguin.app/)| Beautiful and easy to use animation creation and testing app.Tweak animation values in real-time.|[AppStore](https://apps.apple.com/us/app/fabula/id1503214451)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Kelir](http://rimbunesia.com/apps/kelir)| Unique picker with a preview which color you are selecting. Once you pick a color, any code will be available for you to paste it.|[AppStore](https://apps.apple.com/us/app/kelir/id1145215534?mt=12)|![Freemium](symbols/freemium.svg "Freemium")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Asset Catalog Tinkerer](https://github.com/insidegui/AssetCatalogTinkerer)| An app that lets you open .car files and browse/extract their images.|[Github](https://github.com/insidegui/AssetCatalogTinkerer)|![Free](symbols/free.svg "Free")|![Open-Source](symbols/open.svg "Open-Source")|
+|[ColorSet](https://imazing.com/downloads)| Utility and framework to manage custom interface colors.|[Github](https://github.com/DigiDNA/ColorSet)|![Free](symbols/free.svg "Free")|![Open-Source](symbols/open.svg "Open-Source")|
 
 
 ## Development servers 
@@ -209,9 +210,8 @@
 |[Date Format Creator](https://apps.apple.com/us/app/date-format-creator/id965645209?mt=12)| Makes working with dates a little bit easier by giving you a date formatter to test and experiment with. Enter your UTS date format, pick a date and see how an NSDateFormatter would convert it into a string.|[AppStore](https://apps.apple.com/us/app/date-format-creator/id965645209?mt=12)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[OpenGL Extensions Viewer](http://www.realtech-vr.com/home/glview)| This program displays the vendor name, the version implemented, the renderer name and the extensions of the current OpenGL 3D accelerator (note: May not work on your specific hw).|[AppStore](https://apps.apple.com/us/app/opengl-extensions-viewer/id444052073?mt=12)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[ShowClipboards](http://www.tempel.org/ShowClipboards)| View and test the pasteboard (clipboard) contents for both Carbon and NSPasteboard.|[Website](http://www.tempel.org/ShowClipboards)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
-
-
-
-
-
-
+|[Xclean](https://imazing.com/downloads)| Menu bar app with a convenient way to clear Xcode's derived data or module cache.|[Github](https://github.com/macmade/Xclean)|![Free](symbols/free.svg "Free")|![Open-Source](symbols/open.svg "Open-Source")|
+|[CCache GUI](https://imazing.com/downloads)| GUI helper application for the ccache tool.|[Github](https://github.com/macmade/ccache-gui)|![Free](symbols/free.svg "Free")|![Open-Source](symbols/open.svg "Open-Source")|
+|[Notarize](https://imazing.com/downloads)| Notarization status monitoring tool for macOS.|[Github](https://github.com/macmade/Notarize)|![Free](symbols/free.svg "Free")|![Open-Source](symbols/open.svg "Open-Source")|
+|[Diagnostics](https://imazing.com/downloads)| Display diagnostic (crash) reports of macOS apps.|[Github](https://github.com/macmade/Diagnostics)|![Free](symbols/free.svg "Free")|![Open-Source](symbols/open.svg "Open-Source")|
+|[Console](https://imazing.com/downloads)| A replacement for the default macOS console application|[Github](https://github.com/macmade/Console)|![Free](symbols/free.svg "Free")|![Open-Source](symbols/open.svg "Open-Source")|
