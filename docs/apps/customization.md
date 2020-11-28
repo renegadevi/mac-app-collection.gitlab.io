@@ -12,6 +12,10 @@
 |[VerticalBar](https://github.com/DeromirNeves/VerticalBar)| Add a vertical or horizontal bar with space to the Dock similar to the default one.|[Github](https://github.com/DeromirNeves/VerticalBar)|![Free](symbols/free.svg "Free")|![Open-Source](symbols/open.svg "Open-Source")|
 |[Panelicious](https://larztech.com/projects/panelicious/about/)| Place alternative docks everywhere on your screen.|[AppStore](https://apps.apple.com/app/panelicious/id1500880455?mt=12)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
+## Menu bar
+| Name ⇵ | Description ⇵ | Get it ⇵ | ⇵ | ⇵ |
+|:-------|:--------------|:--------:|:-:|:-:|
+|[BoringOldMenuBar](https://www.publicspace.net/BoringOldMenuBar)| Bring the macOS Catalina menu bar to macOS 11 Big Sur|[Website](https://www.publicspace.net/BoringOldMenuBar/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 ## Wallpapers
 | Name ⇵ | Description ⇵ | Get it ⇵ | ⇵ | ⇵ |
