@@ -13,6 +13,7 @@
 | Name ⇵ | Description ⇵ | Get it ⇵ | ⇵ | ⇵ |
 |:-------|:--------------|:--------:|:-:|:-:|
 |[TweetBot](https://tapbots.com/tweetbot/mac/)| Full-featured Twitter client for the Mac with multiple-column support and much more.|[AppStore](https://apps.apple.com/us/app/tweetbot-3-for-twitter/id1384080005?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[Aviary](https://www.pnguin.app/aviary)| A beautiful Twitter client built with macOS design guidelines in mind.|[AppStore](https://apps.apple.com/app/id1522043420)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 
 ## IRC
