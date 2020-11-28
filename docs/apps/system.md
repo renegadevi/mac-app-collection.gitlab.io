@@ -129,6 +129,8 @@
 |[iStatistica](https://www.imagetasks.com/system-battery-network-monitor-widget/)| Advanced system monitor for macOS. It includes notification center widget and status bar menu|[AppStore](https://apps.apple.com/us/app/istatistica/id1025822138?ls=1&mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[FreeSpace](http://freespaceosx.0fees.net/FreeSpace_-_Shows_Available_Space_on_All_of_Your_Drives_in_Single_Menu.html?i=1)| Show free space of your drives in a menubar app, including TimeMachine and hidden local TimeMachine snapshots.|[AppStore](https://apps.apple.com/us/app/freespace/id457520846?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Stats](https://github.com/exelban/stats)| Simple macOS system monitor in your menu bar to show cpu, ram, network, battery and sensors.|[Github](https://github.com/exelban/stats)|![Free](symbols/free.svg "Free")|![Open-Source](symbols/open.svg "Open-Source")|
+|[Silicon](https://imazing.com/downloads)| Scan macOS apps and display their supported CPU architecture.|[Github](https://github.com/DigiDNA/Silicon)|![Free](symbols/free.svg "Free")|![Open-Source](symbols/open.svg "Open-Source")|
+|[Hot](https://imazing.com/downloads)| Menu bar app that displays the CPU speed limit due to thermal issues.|[Github](https://github.com/macmade/Hot)|![Free](symbols/free.svg "Free")|![Open-Source](symbols/open.svg "Open-Source")|
 
 
 ## Tiling window managers
