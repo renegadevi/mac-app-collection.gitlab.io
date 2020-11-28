@@ -53,7 +53,7 @@ Software that hasn't been updated but also isn't relevant anymore is rejected. E
 
 ### Frameworks
 
-As for UI, libraries, frameworks etc, the more native look and feel of a software where it looks like a part of the OS it self is what's promoted. Example of what's preferred is Cocoa, Qt, AppKit, SwiftUI (Catalyst) etc. while rejecting most CEF, Electron, JavaFX, Swing etc. frameworks.
+As for UI, libraries, frameworks etc, the more native look and feel of a software where it looks like a part of the OS it self is what's promoted. Example of what's preferred is Cocoa, Qt, AppKit, SwiftUI, Catalyst etc. while rejecting most CEF, Electron, JavaFX, Swing etc. frameworks.
 
 Most web applications wrappers does not comply with the UI guidelines, drains the battery, increase both your internet bandwidth and RAM usage, reimplement existing OS features while many times lacking native OS features and therefore is rejected.
 
