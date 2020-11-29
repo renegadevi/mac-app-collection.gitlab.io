@@ -10,7 +10,7 @@
 | Name ⇵ | Description ⇵ | Get it ⇵ | ⇵ | ⇵ |
 |:-------|:--------------|:--------:|:-:|:-:|
 |[Acorn](https://secure.flyingmeat.com/acorn/)| Full-featured photo editor for MacOS.|[AppStore](https://secure.flyingmeat.com/acorn/appstore/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
-|[Affinity Photo](https://affinity.serif.com/en-us/photo/)| Professional Imagine Editing Software |[AppStore](https://apps.apple.com/us/app/affinity-photo/id824183456?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[Affinity Photo](https://affinity.serif.com/en-us/photo/)| Professional Image Editing Software |[AppStore](https://apps.apple.com/us/app/affinity-photo/id824183456?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Pixelmator Pro](https://www.pixelmator.com/pro/)| Professional image editing tools that anyone can use.|[AppStore](https://apps.apple.com/us/app/pixelmator-pro/id1289583905?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[ArtStudio Pro](https://www.luckyclan.com/apps/artstudiopro-macos)| Powerful painting and photo editing app redesigned to bring new features and improvements taking full advantage of the latest technologies.|[AppStore](https://apps.apple.com/us/app/artstudio-pro/id1313773050?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Hydra](https://creaceed.com/hydra)| Pro HDR Editor for Mac. Create stunning HDR images from single or multiple exposures.|[AppStore](https://apps.apple.com/app/id1111590907?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
