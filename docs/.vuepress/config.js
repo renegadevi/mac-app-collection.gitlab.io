@@ -25,7 +25,7 @@ module.exports = {
 
         // SEO
         ['meta', { name: "title", content: "Mac App Collection" },],
-        ['meta', { name: "description", content: "Find hidden gems to improve your Mac." },],
+        ['meta', { name: "description", content: "Find hidden gems to improve your Mac" },],
 
         ['meta', { property: "og:type", content: "website" },],
         ['meta', { property: "og:url", content: "https://renegadevi.gitlab.io/mac-app-collection/" },],
@@ -60,7 +60,7 @@ module.exports = {
             {
                 text: 'Feedback',
                 items: [
-                    { text: 'Suggest a app', link: 'https://gitlab.com/renegadevi/mac-app-collection/-/issues/new' },
+                    { text: 'Suggest an app', link: 'https://gitlab.com/renegadevi/mac-app-collection/-/issues/new' },
                     { text: 'Email', link: 'mailto:philip.andersen@codeofmagi.net?subject=Mac%20App%20Collection: Feedback' }
                 ]
             },
