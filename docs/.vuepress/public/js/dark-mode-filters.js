@@ -78,6 +78,7 @@ $(document).ready(function () {
             $("#filter_free").prop("checked", false);
             $("#filter_open_source").prop("checked", false);
             $("#filter_closed_source").prop("checked", false);
+            toggleFilters();
         }
     }, 1);
 
