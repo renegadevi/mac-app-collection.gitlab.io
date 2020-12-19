@@ -150,6 +150,10 @@
 |[Pommie](https://hacknicity.com/pommie/osx)| Improve your productivity by managing your time into strict work and break periods.|[AppStore](https://apps.apple.com/app/pommie-pomodoro-timer/id963504129)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Statsey](http://getniceapps.com/statsey)| Track time you spent in apps|[AppStore](https://apps.apple.com/app/statsey-app-usage-statistics/id1198515957)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Timey](https://www.getniceapps.com/timey-3)| A menu bar timer|[AppStore](https://apps.apple.com/app/timey-3-menu-bar-timer/id1421143542?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[Klokki Slim](https://www.klokki.com/)| Powerful and beautiful time-tracking from the Menu Bar|[AppStore](https://apps.apple.com/app/klokki-slim-time-tracking/id1459795140?mt=12)|![Freemium](symbols/freemium.svg "Freemium")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[Rest Time](https://www.publicspace.net/RestTime/index.html)| Small, simple, elegant and unobtrusive break reminder.|[Website](https://www.publicspace.net/RestTime/index.html)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[Flow](https://flowapp.info/)| Simple Focus & Pomodoro Timer|[AppStore](https://apps.apple.com/app/flow-pausen-und-fokus-timer/id1423210932?mt=12)|![Freemium](symbols/freemium.svg "Freemium")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[Daily](https://dailytimetracking.com/)| Accurate work & hour tracker|[AppStore](https://apps.apple.com/app/daily-time-tracking/id686910553?mt=12)|![Freemium](symbols/freemium.svg "Freemium")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 
 ## Todo / GTD / Note-taking
@@ -186,7 +190,7 @@
 |[LaunchBar](https://www.obdev.at/products/launchbar/index.html)| Start with a single keyboard shortcut to access and control every aspect of your digital life.|[Website](https://www.obdev.at/products/launchbar/index.html)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[PopClip](https://pilotmoon.com/popclip/)| Get the iOS-like context menus for text selection|[AppStore](https://apps.apple.com/us/app/popclip/id445189367?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[CheatSheet](https://www.cheatsheetapp.com/CheatSheet/)| Hold the ⌘-Key to show a list of all active shortcuts of the current application. |[Website](https://www.cheatsheetapp.com/CheatSheet/)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
-|[BetterRename](https://www.publicspace.net/BetterRename/)| Advanced batch renamer for MacOS.|[AppStore](https://apps.apple.com/us/app/better-rename-11/id1501308038?ls=1)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[Better Rename](https://www.publicspace.net/BetterRename/)| Advanced batch renamer for MacOS.|[AppStore](https://apps.apple.com/us/app/better-rename-11/id1501308038?ls=1)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Flour](https://fluorapp.net/)| A handy tool for macOS allowing you to switch Fn keys' mode based on active application. |[Website](https://fluorapp.net/)|![Free](symbols/free.svg "Free")|![Open-Source](symbols/open.svg "Open-Source")|
 |[Gemini](https://macpaw.com/gemini)| The intelligent duplicate file finder|[AppStore](https://apps.apple.com/app/gemini-2-the-duplicate-finder/id1090488118?mt=12)|![Freemium](symbols/freemium.svg "Freemium")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Keystroke Pro](https://ixeau.com/keystroke-pro/)| Keypress Visualizer|[Website](https://ixeau.com/keystroke-pro/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
@@ -197,6 +201,10 @@
 |[Pliim](https://pliim.app/)| Avoid embarrassing stuff while presenting. Notifications, desktop icons, apps and more.|[Website](https://pliim.app/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[VisualGrep](https://apps.apple.com/app/visualgrep/id597887722?mt=12)| Non-indexed full text search of files supporting filters and folder traversal.|[AppStore](https://apps.apple.com/app/visualgrep/id597887722?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[VisualDiffer](https://visualdiffer.com/)| Compares side-by-side folders and files using colors to visually show differences|[AppStore](https://apps.apple.com/app/visualdiffer/id412386481?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[A Better Finder Rename](https://www.publicspace.net/ABetterFinderRename/index.html)| Allows users to quickly renamemultiple files.|[Website](https://www.publicspace.net/ABetterFinderRename/index.html)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[A Better Finder Attributes](https://www.publicspace.net/ABetterFinderAttributes/index.html)| Change creation dates, meta-data tags, file creation & modification dates, file flags and much more.|[Website](https://www.publicspace.net/ABetterFinderAttributes/index.html)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[Big Mean Folder Machine](https://www.publicspace.net/BigMeanFolderMachine/index.html)| Makes it easy to (re-)organize huge file collections.|[Website](https://www.publicspace.net/BigMeanFolderMachine/index.html)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[Default Folder X](https://www.stclairsoft.com/DefaultFolderX/index.html)| Make your Open and Save dialogs work as quickly as you do|[Website](https://www.stclairsoft.com/DefaultFolderX/index.html)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 
 ## Writing

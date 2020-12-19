@@ -138,7 +138,7 @@
 |[VimR](https://github.com/qvacua/vimr)| Neovim GUI for macOS.|[Github](https://github.com/qvacua/vimr)|![Free](symbols/free.svg "Free")|![Open-Source](symbols/open.svg "Open-Source")|
 |[Visual Studio Code](https://code.visualstudio.com/)| Free, multi-platform and open-source code editor by Microsoft **☢ ELECTRON ☢**. |[Website](https://code.visualstudio.com/)|![Free](symbols/free.svg "Free")|![Open-Source](symbols/open.svg "Open-Source")|
 |[BBEdit](www.barebones.com/products/bbedit/)| Simple professional text, code, and markup editor for the Macintosh. |[AppStore](https://apps.apple.com/app/bbedit/id404009241?mt=12)|![Freemium](symbols/freemium.svg "Freemium")|![Closed-Source](symbols/closed.svg "Closed-Source")|
-
+|[jEditor](https://www.shivapis.com/jeditor.html)| Fast & Powerful Text Editor written in Swift.|[AppStore](https://apps.apple.com/app/jeditor/id1027251570?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 ## Tools / Automation
 | Name ⇵ | Description ⇵ | Get it ⇵ | ⇵ | ⇵ |
@@ -179,7 +179,6 @@
 |[Folio](http://folioformac.com/)| Simple version control for design teams based on Git|[Website](http://folioformac.com/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 
-
 ### SVN
 | Name ⇵ | Description ⇵ | Get it ⇵ | ⇵ | ⇵ |
 |:-------|:--------------|:--------:|:-:|:-:|
@@ -215,3 +214,4 @@
 |[Notarize](https://imazing.com/downloads)| Notarization status monitoring tool for macOS.|[Github](https://github.com/macmade/Notarize)|![Free](symbols/free.svg "Free")|![Open-Source](symbols/open.svg "Open-Source")|
 |[Diagnostics](https://imazing.com/downloads)| Display diagnostic (crash) reports of macOS apps.|[Github](https://github.com/macmade/Diagnostics)|![Free](symbols/free.svg "Free")|![Open-Source](symbols/open.svg "Open-Source")|
 |[Console](https://imazing.com/downloads)| A replacement for the default macOS console application|[Github](https://github.com/macmade/Console)|![Free](symbols/free.svg "Free")|![Open-Source](symbols/open.svg "Open-Source")|
+|[Boop](https://boop.okat.best/)| Boop allows you to get simple tasks done in a native, safe, and welcoming environment.|[AppStore](https://apps.apple.com/app/boop/id1518425043?mt=12)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|

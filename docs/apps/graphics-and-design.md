@@ -25,6 +25,8 @@
 |[Litur](https://litur.app/)| Litur helps you find, collect, and organize all your colors|[AppStore](https://apps.apple.com/us/app/id1519450882)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Sipapp](https://sipapp.io/)| A better way to collect, organize & share your colors.|[Website](https://sipapp.io/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[QuickLens](https://apps.apple.com/app/id1527758002)| Inspect your UI like a professional designer.|[AppStore](https://apps.apple.com/app/id1527758002)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[Pastel](https://www.highcaffeinecontent.com/)| Capture and collect color palettes with Pastel!|[AppStore](https://apps.apple.com/app/id413897608)|![Freemium](symbols/freemium.svg "Freemium")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[Drop](http://dropyourcolor.com/)| Drop is a delightful little color picker for developers and designers.|[AppStore](https://apps.apple.com/app/drop-color-picker/id1173932628?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 
 ## Fonts

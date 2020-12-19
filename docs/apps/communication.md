@@ -28,3 +28,4 @@
 | Name ⇵ | Description ⇵ | Get it ⇵ | ⇵ | ⇵ |
 |:-------|:--------------|:--------:|:-:|:-:|
 |[Chatology](https://flexibits.com/chatology)| Search and archive trough your message history (iMessage/GoogleTalk/Jabber).|[Website](https://flexibits.com/chatology)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[Stickers](https://tmprk.github.io/stickers-for-macos/)| A native sticker manager for macOS|[Website](https://tmprk.github.io/stickers-for-macos/)|![Free](symbols/free.svg "Free")|![Open-Source](symbols/open.svg "Open-Source")|

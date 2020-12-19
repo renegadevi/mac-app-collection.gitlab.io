@@ -10,7 +10,7 @@
 |[FruitJuice](https://fruitjuiceapp.com/)| FruitJuice will let you know how long to stay unplugged each day to keep your battery healthy.|[AppStore](https://apps.apple.com/us/app/fruitjuice-battery-health/id671736912)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[App Tamer](https://www.stclairsoft.com/AppTamer/)| Detect applications and take control over apps that is resource hogs. App Tamer will automatically slow down or pause your applications whenever you're not using them, greatly reducing their CPU use.|[Website](https://www.stclairsoft.com/AppTamer/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Power Manager](https://www.dssw.co.uk/powermanager/)| Automate sophisticated tasks and improve your Mac's power management.|[Website](https://www.dssw.co.uk/powermanager/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
-
+|[Battery Monitor](http://www.bresink.com/osx/BatteryMonitor.html)| Display and monitor internal battery information|[Website](http://www.bresink.com/osx/BatteryMonitor.html)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 ## Bluetooth
 | Name ⇵ | Description ⇵ | Get it ⇵ | ⇵ | ⇵ |
@@ -131,6 +131,9 @@
 |[Stats](https://github.com/exelban/stats)| Simple macOS system monitor in your menu bar to show cpu, ram, network, battery and sensors.|[Github](https://github.com/exelban/stats)|![Free](symbols/free.svg "Free")|![Open-Source](symbols/open.svg "Open-Source")|
 |[Silicon](https://imazing.com/downloads)| Scan macOS apps and display their supported CPU architecture.|[Github](https://github.com/DigiDNA/Silicon)|![Free](symbols/free.svg "Free")|![Open-Source](symbols/open.svg "Open-Source")|
 |[Hot](https://imazing.com/downloads)| Menu bar app that displays the CPU speed limit due to thermal issues.|[Github](https://github.com/macmade/Hot)|![Free](symbols/free.svg "Free")|![Open-Source](symbols/open.svg "Open-Source")|
+|[Go64](https://www.stclairsoft.com/)| Check to see which of your applications are "Universal Apps" and which ones need to be updated.|[Website](https://www.stclairsoft.com/Go64/)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[System Monitor](http://www.bresink.com/osx/SystemMonitor.html)| Menu bar app, designed to inform you unobtrusively about the activity of your computer.|[Website](http://www.bresink.com/osx/SystemMonitor.html)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+
 
 
 ## Tiling window managers
@@ -150,6 +153,7 @@
 |[PrefEdit](https://www.bresink.com/osx/PrefEdit.html)| PrefEdit is an application to manage nearly all aspects of the preference system contained in every macOS installation.|[Website](https://www.bresink.com/osx/PrefEdit.html)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Prefs Editor](https://apps.tempel.org/PrefsEditor/)| A GUI for the 'defaults' command. a.k.a. the Registry Editor for macOS.|[Website](https://apps.tempel.org/PrefsEditor/)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Easy New File](https://liufsd.github.io/2018/04/29/Easy-New-File/)| A finder extension which adds some functions in right click menu in the Finder|[AppStore](https://apps.apple.com/app/easy-new-file/id1162194131?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[Macs Fan Control](https://crystalidea.com/macs-fan-control)| Real-time monitoring of fan speeds and temperatures|[Website](https://crystalidea.com/macs-fan-control)|![Freemium](symbols/freemium.svg "Freemium")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 
 ## Window layout / Snapping

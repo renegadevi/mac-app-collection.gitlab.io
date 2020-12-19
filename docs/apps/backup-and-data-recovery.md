@@ -24,3 +24,4 @@
 | Name ⇵ | Description ⇵ | Get it ⇵ | ⇵ | ⇵ |
 |:-------|:--------------|:--------:|:-:|:-:|
 |[TimeMachineEditor](https://tclementdev.com/timemachineeditor/)| Change the default one-hour backup to a specific interval or a scheduling.|[Website](https://tclementdev.com/timemachineeditor/)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[Backup Server Control](http://www.bresink.com/osx/BackupServerControl.html)| GUI to setup and administer a server for network-based Time Machine backups|[Website](http://www.bresink.com/osx/BackupServerControl.html)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|

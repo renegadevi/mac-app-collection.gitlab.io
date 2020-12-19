@@ -16,7 +16,7 @@
 |[Gray](https://github.com/zenangst/Gray)| Tailor your Dark/Light mode experience per app.|[Github](https://github.com/zenangst/Gray)|![Free](symbols/free.svg "Free")|![Open-Source](symbols/open.svg "Open-Source")|
 |[NightOwl](https://nightowl.kramser.xyz/)| Easily toggle MacOS dark mode in the menu bar.|[Website](https://nightowl.kramser.xyz/)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Nocturnal](https://github.com/HarshilShah/Nocturnal)| A simple macOS app to toggle dark mode with one click.|[Github](https://github.com/HarshilShah/Nocturnal)|![Free](symbols/free.svg "Free")|![Open-Source](symbols/open.svg "Open-Source")|
-
+|[Dynamic Dark Mode](https://github.com/ApolloZhu/Dynamic-Dark-Mode#dynamic-dark-mode)|A pp you are looking for to power up Dark Mode|[Github](https://github.com/ApolloZhu/Dynamic-Dark-Mode#dynamic-dark-mode)|![Free](symbols/free.svg "Free")|![open-Source](symbols/open.svg "Open-Source")|
 
 
 ## Menu bar
