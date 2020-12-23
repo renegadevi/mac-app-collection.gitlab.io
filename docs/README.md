@@ -11,7 +11,7 @@ features:
 - title: Free and Open-Source
   details: If an app have the same polish as a premium macOS app, it will be promoted on the list.
 - title: Avoiding Web and Hybrid
-  details: I try to avoid any kind of software that uses web/hybrid-frameworks that violate the UI/UX.
+  details: I try to avoid any kind of software that uses web/hybrid-frameworks which violates the UI/UX.
 meta:
 - name: description
   content: Find hidden gems to improve your Mac.
@@ -19,18 +19,18 @@ footer: MIT Licensed - Made with VuePress and GitLab CI - Created by Philip Ande
 ---
 
 
-# Why this list?
+# Why this collection?
 
 The software eco-system for macOS over the last decade has been in a huge growing state. There's a lot of new software and apps which offers high quality, native and polished experience, or just enhancing the existing macOS experience to suit personal needs.
 
-Due to the requirements and promotional work by Mac App Store, sooner or later it also made it hard to browse for hidden gems and new upcoming software.
+Due to the requirements and promotional work by Mac App Store, sooner or later it has made it hard to browse for hidden gems and new upcoming software.
 
-I made this list as a personal goto when others ask me for good software recommendations. This site has no commercial purpose other other than pointing users to support the developers and a link to the Mac App Store. If you do want to support this site and the work I put into this to keep finding new apps, you can send a donation of choice to my [PayPal](https://www.paypal.me/renegadevi/) which will be highly appriciated.
+I originally made a personal awesome-list as a goto when others ask me for good software recommendations which I integraded into a site. This site has no commercial purpose other other than pointing users to support the developers and a link to the Mac App Store. If you want to support this site and the work I put into this to keep finding new apps, you can send a donation of choice to my [PayPal](https://www.paypal.me/renegadevi/) which will be highly appriciated.
 
 
-## Help me improve the list
+## Help me improve the collection
 
-This collection is by no mean perfect. If you want me to add a software to the list or change things up, please give me feedback trough the links in the top right coner or suggest a change on the specific category page. You can also create a [GitLab issue](https://gitlab.com/renegadevi/mac-app-collection/-/issues/new).
+This collection is by no mean perfect. If you want me to add a software to the list or change things up, please give me feedback trough the links in the top right corner or suggest a change on the specific category page. You can also create a [GitLab issue](https://gitlab.com/renegadevi/mac-app-collection/-/issues/new).
 
 
 ## The curation of software
