@@ -4,13 +4,18 @@
 | Name ⇵ | Description ⇵ | Get it ⇵ | ⇵ | ⇵ |
 |:-------|:--------------|:--------:|:-:|:-:|
 |[GeekTool](https://www.tynsoe.org/v2/geektool/)| Customize your desktop with great flexibility. There are four modules available that you can use for different types of informations.|[Website](https://www.tynsoe.org/v2/geektool/)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
-
+|[Displaperture](https://manytricks.com/displaperture/)| Round your display's corners|[AppStore](https://apps.apple.com/app/displaperture/id1543920362)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 ## Dock
 | Name ⇵ | Description ⇵ | Get it ⇵ | ⇵ | ⇵ |
 |:-------|:--------------|:--------:|:-:|:-:|
 |[VerticalBar](https://github.com/DeromirNeves/VerticalBar)| Add a vertical or horizontal bar with space to the Dock similar to the default one.|[Github](https://github.com/DeromirNeves/VerticalBar)|![Free](symbols/free.svg "Free")|![Open-Source](symbols/open.svg "Open-Source")|
 |[Panelicious](https://larztech.com/projects/panelicious/about/)| Place alternative docks everywhere on your screen.|[AppStore](https://apps.apple.com/app/panelicious/id1500880455?mt=12)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+
+## Icons
+| Name ⇵ | Description ⇵ | Get it ⇵ | ⇵ | ⇵ |
+|:-------|:--------------|:--------:|:-:|:-:|
+|[Replacicon](https://replacicon.app/)| Find and replace app icons to match macOS Big Sur|[Website](https://replacicon.app/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 ## Menu bar
 | Name ⇵ | Description ⇵ | Get it ⇵ | ⇵ | ⇵ |

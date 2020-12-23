@@ -63,6 +63,7 @@
 |[KeyCastr](https://github.com/keycastr/keycastr)| An open-source keystroke visualizer |[Github](https://github.com/keycastr/keycastr)|![Free](symbols/free.svg "Free")|![Open-Source](symbols/open.svg "Open-Source")|
 |[Karabiner-Elements](https://karabiner-elements.pqrs.org/)| A powerful and stable keyboard customizer for macOS.|[Website](https://karabiner-elements.pqrs.org/)|![Free](symbols/free.svg "Free")|![Open-Source](symbols/open.svg "Open-Source")|
 |[Visualize](https://www.lisburntech.com/apps/visualize/)| Visualize allows you to highlight your key presses and mouse clicks right on your desktop!|[AppStore](https://apps.apple.com/app/id978980906?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[Key Codes](https://manytricks.com/keycodes/)| Displays the key code, unicode value, and modifier keys state for any key combination you press|[AppStore](https://apps.apple.com/us/app/key-codes/id414568915?mt=12)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 
 ## Management
@@ -91,6 +92,7 @@
 |[MultiTouch](https://multitouch.app/)| Easily add more gestures to macOS.|[Website](https://multitouch.app/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[SteerMouse](https://plentycom.jp/en/steermouse/index.html)| A utility that lets you freely customize buttons, wheels and cursor speed. Both USB and Bluetooth mice are supported.|[Website](https://plentycom.jp/en/steermouse/index.html)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[CursorSense](https://plentycom.jp/en/cursorsense/index.html)| An application that adjusts cursor acceleration and sensitivity. It can move the cursor to a specified destination, such as OK and Cancel button automatically.|[Website](https://plentycom.jp/en/cursorsense/index.html)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[Keymou](https://manytricks.com/keymou/)| Keyboard control of your mouse|[AppStore](https://apps.apple.com/app/keymo/id449863619?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 
 ## Notification Center
