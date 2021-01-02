@@ -11,6 +11,8 @@
 |[App Tamer](https://www.stclairsoft.com/AppTamer/)| Detect applications and take control over apps that is resource hogs. App Tamer will automatically slow down or pause your applications whenever you're not using them, greatly reducing their CPU use.|[Website](https://www.stclairsoft.com/AppTamer/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Power Manager](https://www.dssw.co.uk/powermanager/)| Automate sophisticated tasks and improve your Mac's power management.|[Website](https://www.dssw.co.uk/powermanager/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Battery Monitor](http://www.bresink.com/osx/BatteryMonitor.html)| Display and monitor internal battery information|[Website](http://www.bresink.com/osx/BatteryMonitor.html)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[Endurence](http://enduranceapp.com/)| Add a power-saving mode for our Mac and boost your battery.|[Website](http://enduranceapp.com/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+
 
 ## Bluetooth
 | Name ⇵ | Description ⇵ | Get it ⇵ | ⇵ | ⇵ |
@@ -166,8 +168,8 @@
 |[Moom](https://manytricks.com/moom/)| Moom makes window management as easy as clicking a mouse button—or using a keyboard shortcut.|[AppStore](https://apps.apple.com/us/app/moom/id419330170?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Mosaic](https://www.lightpillar.com/mosaic.html)| Effortlessly resize and re-position windows on your Mac.|[Website](https://www.lightpillar.com/mosaic.html)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Hookshot](https://hookshot.app/)| Cursor movement window snapping on macOS|[Website](https://hookshot.app/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
- 
- 
+
+
 ## Window management
 | Name ⇵ | Description ⇵ | Get it ⇵ | ⇵ | ⇵ |
 |:-------|:--------------|:--------:|:-:|:-:|

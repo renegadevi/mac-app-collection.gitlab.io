@@ -27,7 +27,7 @@
 |[QuickLens](https://apps.apple.com/app/id1527758002)| Inspect your UI like a professional designer.|[AppStore](https://apps.apple.com/app/id1527758002)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Pastel](https://www.highcaffeinecontent.com/)| Capture and collect color palettes with Pastel!|[AppStore](https://apps.apple.com/app/id413897608)|![Freemium](symbols/freemium.svg "Freemium")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Drop](http://dropyourcolor.com/)| Drop is a delightful little color picker for developers and designers.|[AppStore](https://apps.apple.com/app/drop-color-picker/id1173932628?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
-
+|[Kelir](http://rimbunesia.com/apps/kelir)| Unique picker with a preview which color you are selecting. Once you pick a color, any code will be available for you to paste it.|[AppStore](https://apps.apple.com/us/app/kelir/id1145215534?mt=12)|![Freemium](symbols/freemium.svg "Freemium")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 ## Fonts
 | Name ⇵ | Description ⇵ | Get it ⇵ | ⇵ | ⇵ |
@@ -48,7 +48,6 @@
 ## Icons
 | Name ⇵ | Description ⇵ | Get it ⇵ | ⇵ | ⇵ |
 |:-------|:--------------|:--------:|:-:|:-:|
-|[IconJar](https://geticonjar.com/)| Icon manager for MacOS|[Website](https://geticonjar.com/)|![Subscription](symbols/subscription.svg "Subscription")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[iConvert Icons](https://iconverticons.com/)| Easiest way to create and convert custom icons|[AppStore](https://apps.apple.com/us/app/iconvert-icons/id515197296?app=apps&mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Iconizer](http://raphaelhanneken.github.io/iconizer/)| Create Xcode asset catalogs on the fly.|[Website](http://raphaelhanneken.github.io/iconizer/)|![Free](symbols/free.svg "Free")|![Open-Source](symbols/open.svg "Open-Source")|
 

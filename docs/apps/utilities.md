@@ -9,7 +9,7 @@
 |[Archiver](https://archiverapp.com/)| Easy to use archiver.|[Website](https://archiverapp.com/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[WinZip](https://www.winzip.com/mac/en/)| Zip and unzip files instantly|[Website](https://www.winzip.com/mac/en/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
-## Dark mode / Light mode 
+## Dark mode / Light mode
 | Name ⇵ | Description ⇵ | Get it ⇵ | ⇵ | ⇵ |
 |:-------|:--------------|:--------:|:-:|:-:|
 |[Shifty](https://shifty.natethompson.io/en/)| A macOS menu bar app that gives you more control over Night Shift.|[Website](https://shifty.natethompson.io/en/)|![Free](symbols/free.svg "Free")|![Open-Source](symbols/open.svg "Open-Source")|
@@ -57,7 +57,6 @@
 ## Other
 | Name ⇵ | Description ⇵ | Get it ⇵ | ⇵ | ⇵ |
 |:-------|:--------------|:--------:|:-:|:-:|
-|[Endurence](http://enduranceapp.com/)| Add a power-saving mode for our Mac and boost your battery.|[Website](http://enduranceapp.com/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Burn](https://burn-osx.sourceforge.io/)| Simple but advanced CD and DVD curner for macOS.|[Website](https://burn-osx.sourceforge.io/)|![Free](symbols/free.svg "Free")|![Open-Source](symbols/open.svg "Open-Source")|
 |[What's Open](https://apps.tempel.org/WhatsOpen/index.php)| A simple utility for MacOSX which lists the open files on a system and allows the user to kill the process that has them open.|[Website](https://apps.tempel.org/WhatsOpen/index.php)|![Free](symbols/free.svg "Free")|![Open-Source](symbols/open.svg "Open-Source")|
 

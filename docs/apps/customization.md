@@ -16,6 +16,7 @@
 | Name ⇵ | Description ⇵ | Get it ⇵ | ⇵ | ⇵ |
 |:-------|:--------------|:--------:|:-:|:-:|
 |[Replacicon](https://replacicon.app/)| Find and replace app icons to match macOS Big Sur|[Website](https://replacicon.app/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[IconJar](https://geticonjar.com/)| Icon manager for MacOS|[Website](https://geticonjar.com/)|![Subscription](symbols/subscription.svg "Subscription")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 ## Menu bar
 | Name ⇵ | Description ⇵ | Get it ⇵ | ⇵ | ⇵ |
