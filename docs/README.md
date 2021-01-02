@@ -47,6 +47,15 @@ In the Apple eco-system, there's a lot higher degree of paid/subscription softwa
 
 If an app is FOSS (Free and Open-Source Software) but also feature the same quality as a premium Mac app, that will be on the list. Apps of this kind is *VLC* or *Transmission*, in contrast to *GIMP* or *Audacity* that even tho it does the job, the UI/UX polish, OS integration etc. is not on the same level and therefore rejected. Same reason why a closed-source software like *Screenflow* and *Wirecast* is on the list, but not *OBS*.
 
+### "Cleaning"-software
+
+This is a class of apps that's often found as malicious towards the user and very much an app to app case if it's acceptable software.
+
+When these apps does not have a malicious intent they often lie in its marketing even when it comes to open-source software. Statements you often find is that they often claim making your computer faster by cleaning things like Internet cache, when in reality, the next time the user visit those websites, they are forced to download same cache in the background as loads slower.
+
+Then you have apps like *CleanMyMac* that straight up lie in it's marketing and scripts. They claim they can remove stuff that *"can't be manually removed"* or because their app is notarized by Apple means you can *"trust it"*. Just do a quick google from last year and you'll find many cases of notarized and signed software by Apple that was or had malware.
+
+
 ### Oudated & Legacy software
 
 Software that hasn't been updated but also isn't relevant anymore is rejected. Examples would be apps like *Growl* or *Hyperdock* while others that even tho hasn't been updated in years can be still relevant and useful today, such as *Burn* even tho most of us don't own a DVD-burner anymore.
