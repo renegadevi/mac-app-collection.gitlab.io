@@ -17,6 +17,7 @@
 |[iMazing HEIC Converter](https://imazing.com/heic)| 100% free solution to easily convert pictures taken in the new HEIF format.|[AppStore](https://apps.apple.com/us/app/imazing-heic-converter/id1292198261?mt=12)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Paint X](https://apps.apple.com/app/paint-x-paint-draw-and-edit/id668502966?mt=12)| Classic simple painting application inspired by MS Paint.|[AppStore](https://apps.apple.com/app/paint-x-paint-draw-and-edit/id668502966?mt=12)|![Freemium](symbols/freemium.svg "Freemium")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
+
 ## Color pickers
 | Name ⇵ | Description ⇵ | Get it ⇵ | ⇵ | ⇵ |
 |:-------|:--------------|:--------:|:-:|:-:|
@@ -74,6 +75,7 @@
 |[ThumbsUp](https://www.devontechnologies.com/apps/freeware)| Create batch thumbnails for your website in seconds with ThumbsUp.|[Website](https://www.devontechnologies.com/apps/freeware)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Morph Age](https://creaceed.com/morphage)| Create stunning morphing animations from faces, animals, or objects.|[AppStore](https://apps.apple.com/app/id413898200?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[EXIF](https://apps.apple.com/app/exif-view-and-edit-meta-data/id1487918941?mt=12)| View and Edit Meta Data|[AppStore](https://apps.apple.com/app/exif-view-and-edit-meta-data/id1487918941?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[Pixea](https://www.imagetasks.com/pixea/)| Image viewer for macOS with a nice minimal modern user interface|[AppStore](https://apps.apple.com/app/pixea/id1507782672?ls=1)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 
 ## Vector

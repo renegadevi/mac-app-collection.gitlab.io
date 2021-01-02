@@ -1,6 +1,6 @@
 # Lifestyle
 
-## News readers
+## News readers / RSS
 | Name ⇵ | Description ⇵ | Get it ⇵ | ⇵ | ⇵ |
 |:-------|:--------------|:--------:|:-:|:-:|
 |[News Explorer](https://betamagic.nl/products/newsexplorer.html)| News reader with read-later with sync support for your RSS, JSON, Atom and Twitter feed subscriptions.|[AppStore](https://apps.apple.com/app/news-explorer/id1032670789?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
@@ -18,6 +18,13 @@
 |[Anamorphic Pro](https://apps.apple.com/us/app/anamorphic-pro/id1242990146?mt=12)| Imagine Portrait Mode but with expensive cinematic and anamorphic lenses.|[AppStore](https://apps.apple.com/us/app/anamorphic-pro/id1242990146?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[ApolloOne](https://www.apollooneapp.com/)| Designed from the ground up as a fast, efficient and feature rich media viewer.|[AppStore](https://apps.apple.com/us/app/apolloone-photo-video-viewer/id1044484672?mt=12)|![Freemium](symbols/freemium.svg "Freemium")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Posterino](http://www.zykloid.com/posterino)| A photo collage in minutes|[AppStore](https://apps.apple.com/us/app/posterino-3/id945991770?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[Observatory](https://codeobsession.com/observatory/)| Your personal astronomical image library|[AppStore](https://apps.apple.com/app/observatory/id1037215068?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+
+
+## Reading
+| Name ⇵ | Description ⇵ | Get it ⇵ | ⇵ | ⇵ |
+|:-------|:--------------|:--------:|:-:|:-:|
+|[Simple Comic](https://github.com/MaddTheSane/Simple-Comic/)| Comic book reader for CBZ/CBR|[AppStore](https://apps.apple.com/app/simple-comic/id1497435571?mt=12)|![Free](symbols/free.svg "Free")|![Open-Source](symbols/open.svg "Open-Source")|
 
 
 ## Weather
@@ -30,3 +37,9 @@
 | Name ⇵ | Description ⇵ | Get it ⇵ | ⇵ | ⇵ |
 |:-------|:--------------|:--------:|:-:|:-:|
 |[Day One](https://dayoneapp.com/)| Journaling about your life a simple pleasures.|[AppStore](https://apps.apple.com/app/day-one/id1055511498)|![Freemium](symbols/freemium.svg "Freemium")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+
+
+## Other
+| Name ⇵ | Description ⇵ | Get it ⇵ | ⇵ | ⇵ |
+|:-------|:--------------|:--------:|:-:|:-:|
+|[Book Track](https://simonemontalto.com/projects/book-track/)| Catalog and track your books|[AppStore](https://apps.apple.com/app/book-track-library-manager/id1496543317?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|

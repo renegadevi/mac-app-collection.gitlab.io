@@ -12,6 +12,7 @@
 |[Power Manager](https://www.dssw.co.uk/powermanager/)| Automate sophisticated tasks and improve your Mac's power management.|[Website](https://www.dssw.co.uk/powermanager/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Battery Monitor](http://www.bresink.com/osx/BatteryMonitor.html)| Display and monitor internal battery information|[Website](http://www.bresink.com/osx/BatteryMonitor.html)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Endurence](http://enduranceapp.com/)| Add a power-saving mode for our Mac and boost your battery.|[Website](http://enduranceapp.com/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[Apple Juice](https://github.com/raphaelhanneken/apple-juice#apple-juice)| Advanced battery gauge for macOS, that displays the remaining battery time and more.|[Github](https://github.com/raphaelhanneken/apple-juice#apple-juice)|![Free](symbols/free.svg "Free")|![Open-Source](symbols/open.svg "Open-Source")|
 
 
 ## Bluetooth
@@ -45,6 +46,7 @@
 |[NightTone](https://alexdenk.eu/)| Makes your screen more comfortable, enjoyable and healthier by shifting the colors of your display to a warmer, eye-friendly palette.|[AppStore](https://apps.apple.com/us/app/nighttone-night-light-filter/id1135472584?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[EasyRes](http://easyresapp.com/)| A fast screen resolution switcher for Mac OS X with live previews.|[AppStore](https://apps.apple.com/app/easyres/id688211836?ls=1&mt=12)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[RapidRes](https://apps.apple.com/app/rapidres/id1329898474)| This allows to change the display resolution from the title bar.|[AppStore](https://apps.apple.com/app/rapidres/id1329898474)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[RDM](https://github.com/avibrazil/RDM)| Enable and use highest and unsupported resolutions from the menu bar.|[Github](https://github.com/avibrazil/RDM)|![Free](symbols/free.svg "Free")|![Open-Source](symbols/open.svg "Open-Source")|
 
 
 ## File system / Drivers
@@ -66,6 +68,8 @@
 |[Karabiner-Elements](https://karabiner-elements.pqrs.org/)| A powerful and stable keyboard customizer for macOS.|[Website](https://karabiner-elements.pqrs.org/)|![Free](symbols/free.svg "Free")|![Open-Source](symbols/open.svg "Open-Source")|
 |[Visualize](https://www.lisburntech.com/apps/visualize/)| Visualize allows you to highlight your key presses and mouse clicks right on your desktop!|[AppStore](https://apps.apple.com/app/id978980906?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Key Codes](https://manytricks.com/keycodes/)| Displays the key code, unicode value, and modifier keys state for any key combination you press|[AppStore](https://apps.apple.com/us/app/key-codes/id414568915?mt=12)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[KeyBell](https://alexdenk.eu/mywork/keybell.html)| Plays relaxing and nostalgic mechanical sound every time you type something on your keyboard.|[AppStore](https://apps.apple.com/app/keybell-typing-loud-feedback/id1530838633?mt=12)|![Freemium](symbols/freemium.svg "Freemium")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[CapsLocker](https://apps.apple.com/app/capslocker/id1102304865?mt=12)| Get a hint that you just enabled (or disabled) caps lock.|[AppStore](https://apps.apple.com/app/capslocker/id1102304865?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 
 ## Management
@@ -81,6 +85,8 @@
 |[Darksight](https://www.imagetasks.com/disksight-disk-cleaner/)| Visualize your disk, so you can easily find and remove large folders and files that might be not needed anymore.|[AppStore](https://apps.apple.com/us/app/disksight/id1485505524?ls=1&mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Launch Services](https://apps.tempel.org/LaunchServices/index.php)| Uses the macOS Launch Services API to perform lookups of bundle IDs and file extensions.|[Website](https://apps.tempel.org/LaunchServices/index.php#download)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Disk Space Analyzer](https://nektony.com/disk-expert)| A powerful disk usage scanning and reporting utility for Mac.|[AppStore](https://apps.apple.com/app/disk-space-analyzer-pro/id488920185)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[DiskSight](https://www.imagetasks.com)| Visualize your drive or folder|[AppStore](https://apps.apple.com/app/disksight/id1485505524?mt=12)|![Paid](symbols/freemium.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+
 
 ## Mouse / Trackpad
 | Name ⇵ | Description ⇵ | Get it ⇵ | ⇵ | ⇵ |
@@ -95,6 +101,9 @@
 |[SteerMouse](https://plentycom.jp/en/steermouse/index.html)| A utility that lets you freely customize buttons, wheels and cursor speed. Both USB and Bluetooth mice are supported.|[Website](https://plentycom.jp/en/steermouse/index.html)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[CursorSense](https://plentycom.jp/en/cursorsense/index.html)| An application that adjusts cursor acceleration and sensitivity. It can move the cursor to a specified destination, such as OK and Cancel button automatically.|[Website](https://plentycom.jp/en/cursorsense/index.html)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Keymou](https://manytricks.com/keymou/)| Keyboard control of your mouse|[AppStore](https://apps.apple.com/app/keymo/id449863619?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[Scroll reverse](https://pilotmoon.com/scrollreverser/)| Reverse the direction of scrolling, with independent settings for trackpads and mice.|[Website](https://pilotmoon.com/scrollreverser/)|![Free](symbols/free.svg "Free")|![Open-Source](symbols/open.svg "Open-Source")|
+|[Scrollow](https://apps.apple.com/app/scrollow/id1530219633?mt=12)| Control various system parameters and issue control events without touching function keys or using Touch Bar.|[AppStore](https://apps.apple.com/app/scrollow/id1530219633?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[Noo mouse](https://github.com/tanin47/noo)| Map mouse buttons and multi-touch gestures to any combination of keys.|[AppStore](https://apps.apple.com/app/noo-mouse/id1514904040?mt=12)|![Free](symbols/free.svg "Free")|![Open-Source](symbols/open.svg "Open-Source")|
 
 
 ## Notification Center
@@ -119,6 +128,7 @@
 |[Lungo](https://sindresorhus.com/lungo)| Prevent your Mac from going to sleep|[AppStore](https://apps.apple.com/us/app/lungo/id1263070803?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake)| Prevents your Mac from going to sleep.|[Github](https://github.com/newmarcel/KeepingYouAwake)|![Free](symbols/free.svg "Free")|![Open-Source](symbols/open.svg "Open-Source")|
 |[Amphetamine](https://apps.apple.com/de/app/amphetamine/id937984704?mt=12)| Amphetamine can keep your Mac, and optionally its display(s), awake through a super simple on/off switch, or automatically through easy-to-configure Triggers.|[AppStore](https://apps.apple.com/de/app/amphetamine/id937984704?mt=12)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[Coffee Buzz](https://coffeebuzz.aaronpantling.com)| Easiest and safest display-sleep preventer available wuth an safety auto-shutoff feature.|[AppStore](https://apps.apple.com/app/coffee-buzz/id1099454186?mt=12)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 
 ## System information
@@ -136,7 +146,7 @@
 |[Silicon](https://imazing.com/downloads)| Scan macOS apps and display their supported CPU architecture.|[Github](https://github.com/DigiDNA/Silicon)|![Free](symbols/free.svg "Free")|![Open-Source](symbols/open.svg "Open-Source")|
 |[Hot](https://imazing.com/downloads)| Menu bar app that displays the CPU speed limit due to thermal issues.|[Github](https://github.com/macmade/Hot)|![Free](symbols/free.svg "Free")|![Open-Source](symbols/open.svg "Open-Source")|
 |[Go64](https://www.stclairsoft.com/)| Check to see which of your applications are "Universal Apps" and which ones need to be updated.|[Website](https://www.stclairsoft.com/Go64/)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
-|[System Monitor](http://www.bresink.com/osx/SystemMonitor.html)| Menu bar app, designed to inform you unobtrusively about the activity of your computer.|[Website](http://www.bresink.com/osx/SystemMonitor.html)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[System Monitor](http://www.bresink.com/osx/SystemMonitor.html)| Menu bar app, designed to inform you unobtrusively about the activity of your computer.|[AppStore](https://apps.apple.com/app/system-monitor/id423368786?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 
 
@@ -158,6 +168,7 @@
 |[Prefs Editor](https://apps.tempel.org/PrefsEditor/)| A GUI for the 'defaults' command. a.k.a. the Registry Editor for macOS.|[Website](https://apps.tempel.org/PrefsEditor/)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Easy New File](https://liufsd.github.io/2018/04/29/Easy-New-File/)| A finder extension which adds some functions in right click menu in the Finder|[AppStore](https://apps.apple.com/app/easy-new-file/id1162194131?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Macs Fan Control](https://crystalidea.com/macs-fan-control)| Real-time monitoring of fan speeds and temperatures|[Website](https://crystalidea.com/macs-fan-control)|![Freemium](symbols/freemium.svg "Freemium")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[iPreview](https://findergg.com)| Add support for all kinds of file types MacOS can't preview in Finder, QuickLook and Spotlight.|[AppStore](https://apps.apple.com/app/ipreview-powerful-quick-look/id1519213509?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 
 ## Window layout / Snapping

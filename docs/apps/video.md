@@ -34,12 +34,10 @@
 |[GlueMotion](https://neededapps.com/gluemotion/)| Batch edit, deflicker and assemble sequences of images into time-lapse movies.|[AppStore](https://apps.apple.com/app/gluemotion/id1396851118)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 
- 
-
 ## Tools
 | Name ⇵ | Description ⇵ | Get it ⇵ | ⇵ | ⇵ |
 |:-------|:--------------|:--------:|:-:|:-:|
 |[MediaInfo](https://mediaarea.net/en/MediaInfo)| MediaInfo is a convenient unified display of the most relevant technical and tag data for video and audio files.|[AppStore](https://apps.apple.com/us/app/mediainfo/id510620098?mt=12)|![Freemium](symbols/freemium.svg "Freemium")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Pixel Perfect LED](https://reddotlogics.com/product/pixel-perfect-led-single-license/)| A utility to generate pixel map for displays for events.|[Website](https://reddotlogics.com/product/pixel-perfect-led-single-license/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Helium](https://heliumfloats.com/)| Helium is a floating browser window that allows you to watch media while you work.|[AppStore](https://apps.apple.com/us/app/helium/id1054607607?ls=1&mt=12)|![Free](symbols/free.svg "Free")|![Open-Source](symbols/open.svg "Open-Source")|
-
+|[Subler](https://subler.org)| App created to mux and tag mp4 files.|[Website](https://subler.org)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|

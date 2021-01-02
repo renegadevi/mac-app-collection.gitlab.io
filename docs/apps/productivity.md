@@ -98,6 +98,8 @@
 |[Canary Mail](https://canarymail.io/)| Best email app on the Mac with native UI and end-to-end encryption.|[AppStore](https://apps.apple.com/us/app/canary-mail/id1236045954)|![Freemium](symbols/freemium.svg "Freemium")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[AirMail](https://airmailapp.com/)| Airmail is a mail client designed with performance and intuitive interaction in mind optimized for macOS and iOS.|[AppStore](https://apps.apple.com/app/apple-store/id918858936)|![Freemium](symbols/freemium.svg "Freemium")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Spark](https://sparkmailapp.com/)| Email with intelligent email prioritization, noise reduction, and advanced email tools.|[AppStore](https://apps.apple.com/us/app/spark-email-app-by-readdle/id1176895641?mt=12)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[Minestream](https://mimestream.com/)| A native macOS email client for Gmail|[Website](https://mimestream.com/)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[Letter Opener](https://winmail.help/letter-opener-for-macos-mail)| Open winmail.dat files|[Website](https://winmail.help/letter-opener-for-macos-mail)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 
 ## Markdown editors

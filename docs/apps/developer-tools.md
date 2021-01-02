@@ -98,6 +98,7 @@
 |:-------|:--------------|:--------:|:-:|:-:|
 |[PlistEdit Pro](https://www.fatcatsoftware.com/plisteditpro/)| Advanced property list and JSON editor written for macOS.|[Website](https://www.fatcatsoftware.com/plisteditpro/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[XML Notepad](https://apps.apple.com/us/app/xml-notepad/id604275546?mt=12)| Easy and simple XML Editor|[AppStore](https://apps.apple.com/us/app/xml-notepad/id604275546?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[PLIST Editor](http://plisteditor.blogspot.com)| Easy to use editor for property list (.plist) data.|[AppStore](https://apps.apple.com/app/plist-editor/id1157491961?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 
 ## Packaging
@@ -214,3 +215,4 @@
 |[Diagnostics](https://imazing.com/downloads)| Display diagnostic (crash) reports of macOS apps.|[Github](https://github.com/macmade/Diagnostics)|![Free](symbols/free.svg "Free")|![Open-Source](symbols/open.svg "Open-Source")|
 |[Console](https://imazing.com/downloads)| A replacement for the default macOS console application|[Github](https://github.com/macmade/Console)|![Free](symbols/free.svg "Free")|![Open-Source](symbols/open.svg "Open-Source")|
 |[Boop](https://boop.okat.best/)| Boop allows you to get simple tasks done in a native, safe, and welcoming environment.|[AppStore](https://apps.apple.com/app/boop/id1518425043?mt=12)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[CL!ng](http://users.skynet.be/bartvanhaeren/cling/Cling/CL%21ng.html)| Getting all the information and specs about your OpenCL or Metal enabled device|[AppStore](https://apps.apple.com/app/cl-ng/id1244392031?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|

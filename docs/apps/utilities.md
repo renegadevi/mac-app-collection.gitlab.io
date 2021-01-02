@@ -45,6 +45,7 @@
 |[Touch Bar Simulator](https://sindresorhus.com/touch-bar-simulator/)| The macOS Touch Bar as a standalone app.|[Website](https://sindresorhus.com/touch-bar-simulator/)|![Free](symbols/free.svg "Free")|![Open-Source](symbols/open.svg "Open-Source")|
 |[TouchSwitcher](https://hazeover.com/touchswitcher.html)| Use Touch Bar to Switch Apps.|[Website](https://hazeover.com/touchswitcher.html)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Muse](https://xzzz9097.github.io/)| An open-source Spotify, iTunes and Vox controller with TouchBar support.|[Github](https://github.com/xzzz9097/Muse)|![Free](symbols/free.svg "Free")|![Open-Source](symbols/open.svg "Open-Source")|
+|[Hide My Bar](https://hidemybar.clemstation.com/)| A macOS app to turn off the Touch Bar at will|[Website](https://hidemybar.clemstation.com)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 
 ## Virtualization
