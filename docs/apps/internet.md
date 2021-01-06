@@ -30,6 +30,7 @@
 |[Where IP](https://apps.apple.com/us/app/where-ip-monitor-connection/id1506929908)| Monitors internet connection by checking public ip address and location, ensuring that you have control over your internet connection.|[AppStore](https://apps.apple.com/us/app/where-ip-monitor-connection/id1506929908)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[stts](https://github.com/inket/stts)| A simple macOS app for monitoring the status of cloud services.|[AppStore](https://apps.apple.com/us/app/stts/id1187772509?mt=12)|![Free](symbols/free.svg "Free")|![Open-Source](symbols/open.svg "Open-Source")|
 |[Wifi Signal](https://www.intuitibits.com/products/wifi-signal/)| Monitor and troubleshoot your Wi-Fi connection.|[AppStore](https://apps.apple.com/app/wifi-signal-status-monitor/id525912054)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[Networker Pro](https://sascha-simon.com)| Shows network information conveniently in the menu bar and additional information about the currently active network adapter.|[AppStore](https://apps.apple.com/app/networker-pro/id1163602886?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 
 ## Networking tools

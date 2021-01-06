@@ -1,4 +1,4 @@
-# Audio 
+# Audio
 
 ## Audio I/O
 | Name ⇵ | Description ⇵ | Get it ⇵ | ⇵ | ⇵ |
@@ -34,7 +34,7 @@
 |[DaftCloud](https://daft.cloud/)| The Unofficial SoundCloud App|[AppStore](https://apps.apple.com/app/daftcloud-for-soundcloud/id1320450034?mt=12)|![Freemium](symbols/freemium.svg "Freemium")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Broadcasts](https://www.highcaffeinecontent.com/)| Listen to streaming internet radio in an ultra-simple, single-purpose app.|[AppStore](https://apps.apple.com/app/broadcasts/id1469995354)|![Freemium](symbols/freemium.svg "Freemium")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
-See [Video](video) section for multimedia players 
+See [Video](video) section for multimedia players
 
 
 ##  Miscellaneous
@@ -46,6 +46,8 @@ See [Video](video) section for multimedia players
 |[[Un]MuteMic](https://github.com/CocoaHeadsBrasil/MuteUnmuteMic)| macOS app to mute & unmute the input volume of your microphone.|[Github](https://github.com/CocoaHeadsBrasil/MuteUnmuteMic)|![Free](symbols/free.svg "Free")|![Open-Source](symbols/open.svg "Open-Source")|
 |[Sonic Atom](https://www.loudlab-app.com/sonicatom-app)| Multi-instrument, audio analysis and metering software.|[Website](https://www.loudlab-app.com/sonicatom-app)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[FuzzMeasure](https://www.rodetest.com/)| Powerful Audio and Acoustic Measurements, by RØDE|[Website](https://www.rodetest.com/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[Scrobbles for Last.fm](https://sascha-simon.com)| Brings the music network Last.fm to your Mac! The app offers both Last.fm statistics and iTunes scrobbling.|[AppStore](https://apps.apple.com/app/scrobbles-for-last-fm/id1344679160?mt=12)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+
 
 ##  Podcasting
 | Name ⇵ | Description ⇵ | Get it ⇵ | ⇵ | ⇵ |

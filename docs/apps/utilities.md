@@ -46,6 +46,7 @@
 |[TouchSwitcher](https://hazeover.com/touchswitcher.html)| Use Touch Bar to Switch Apps.|[Website](https://hazeover.com/touchswitcher.html)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Muse](https://xzzz9097.github.io/)| An open-source Spotify, iTunes and Vox controller with TouchBar support.|[Github](https://github.com/xzzz9097/Muse)|![Free](symbols/free.svg "Free")|![Open-Source](symbols/open.svg "Open-Source")|
 |[Hide My Bar](https://hidemybar.clemstation.com/)| A macOS app to turn off the Touch Bar at will|[Website](https://hidemybar.clemstation.com)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[NoiseBuddy](https://github.com/insidegui/NoiseBuddy)| Change noise cancelling settings on your AirPods Pro or Beats Solo Pro directly from the Touch Bar.|[Github](https://github.com/insidegui/NoiseBuddy)|![Free](symbols/free.svg "Free")|![Open-Source](symbols/open.svg "Open-Source")|
 
 
 ## Virtualization

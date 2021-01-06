@@ -179,6 +179,7 @@
 |[Taskheat](https://eyen.fr/)| The personal task manager for determined people.|[AppStore](https://apps.apple.com/us/app/taskheat-visual-to-do-list/id1431995750)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[DEVONthink](https://www.devontechnologies.com/apps/devonthink)| Collect, organize, edit and annotate documents of any kind. Have them automatically analyzed, connected, and filed.|[Website](https://www.devontechnologies.com/apps/devonthink)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[iMeetingX](https://www.imeetingx.com/en/index.aspx)| Plan and follow-up on tasks from business meetings and workshops|[Website](https://www.imeetingx.com/en/index.aspx)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[Planny](https://www.kevinreutter.de/planny-4/)| Plan and complete your tasks|[AppStore](https://apps.apple.com/app/planny-4-smarte-to-do-liste/id1515324201?mt=8)|![Subscription](symbols/subscription.svg "Subscription")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 
 ## Tools

@@ -13,12 +13,14 @@
 |[Battery Monitor](http://www.bresink.com/osx/BatteryMonitor.html)| Display and monitor internal battery information|[Website](http://www.bresink.com/osx/BatteryMonitor.html)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Endurence](http://enduranceapp.com/)| Add a power-saving mode for our Mac and boost your battery.|[Website](http://enduranceapp.com/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Apple Juice](https://github.com/raphaelhanneken/apple-juice#apple-juice)| Advanced battery gauge for macOS, that displays the remaining battery time and more.|[Github](https://github.com/raphaelhanneken/apple-juice#apple-juice)|![Free](symbols/free.svg "Free")|![Open-Source](symbols/open.svg "Open-Source")|
+|[Magic Battery Mini](https://sascha-simon.com)| Shows the battery level of supported input devices and headphones that are connected via Bluetooth.|[AppStore](https://apps.apple.com/app/magic-battery-mini/id1366903902?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[Magic Battery](https://sascha-simon.com)| Shows the battery level of supported input devices and headphones that are connected via Bluetooth in the menu bar. Internal batteries are also supported.|[AppStore](https://apps.apple.com/app/magic-battery/id1240063289?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 
 ## Bluetooth
 | Name ⇵ | Description ⇵ | Get it ⇵ | ⇵ | ⇵ |
 |:-------|:--------------|:--------:|:-:|:-:|
-|[Juice](https://deadbeef.me/Juice/)| The missing Bluetooth manager for macO (Note: No longer maintained, tested and works in Catalina).|[Website](https://deadbeef.me/Juice/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[Juice](https://deadbeef.me/Juice/)| The missing Bluetooth manager for mac (Note: No longer maintained, tested and works in Catalina).|[Website](https://deadbeef.me/Juice/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[AirBuddy](https://gumroad.com/l/airbuddy)| AirBuddy brings the same AirPods experience you have on iOS to the Mac. |[Website](https://gumroad.com/l/airbuddy)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 
@@ -169,7 +171,8 @@
 |[Easy New File](https://liufsd.github.io/2018/04/29/Easy-New-File/)| A finder extension which adds some functions in right click menu in the Finder|[AppStore](https://apps.apple.com/app/easy-new-file/id1162194131?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Macs Fan Control](https://crystalidea.com/macs-fan-control)| Real-time monitoring of fan speeds and temperatures|[Website](https://crystalidea.com/macs-fan-control)|![Freemium](symbols/freemium.svg "Freemium")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[iPreview](https://findergg.com)| Add support for all kinds of file types MacOS can't preview in Finder, QuickLook and Spotlight.|[AppStore](https://apps.apple.com/app/ipreview-powerful-quick-look/id1519213509?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
-
+|[SlowQuitApps](https://github.com/dteoh/SlowQuitApps)| Add a global delay to Command-Q to stop accidental app quits.|[Github](https://github.com/dteoh/SlowQuitApps)|![Free](symbols/free.svg "Free")|![Open-Source](symbols/open.svg "Open-Source")|
+|[CommandQ](https://commandqapp.com/)| Never accidentally quit an app or mistakenly close a window again.|[Website](https://commandqapp.com/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 ## Window layout / Snapping
 | Name ⇵ | Description ⇵ | Get it ⇵ | ⇵ | ⇵ |
@@ -177,7 +180,8 @@
 |[Rectangle](https://rectangleapp.com/)| Rectangle is FOSS window management app based on Spectacle, written in Swift. |[Website](https://rectangleapp.com/)|![Free](symbols/free.svg "Free")|![Open-Source](symbols/open.svg "Open-Source")|
 |[Magnet](https://magnet.crowdcafe.com/)| Magnet declutters your screen by snapping windows into organized tiles.|[AppStore](https://apps.apple.com/app/id441258766?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Moom](https://manytricks.com/moom/)| Moom makes window management as easy as clicking a mouse button—or using a keyboard shortcut.|[AppStore](https://apps.apple.com/us/app/moom/id419330170?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
-|[Mosaic](https://www.lightpillar.com/mosaic.html)| Effortlessly resize and re-position windows on your Mac.|[Website](https://www.lightpillar.com/mosaic.html)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[Mosaic (by lightpillar)](https://www.lightpillar.com/mosaic.html)| Effortlessly resize and re-position windows on your Mac.|[Website](https://www.lightpillar.com/mosaic.html)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[Mosaic (by rcopstein)](https://mosaic.rcopstein.com)| Workspace organization for your Mac like never before|[Website](https://mosaic.rcopstein.com)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Hookshot](https://hookshot.app/)| Cursor movement window snapping on macOS|[Website](https://hookshot.app/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 
@@ -189,7 +193,6 @@
 |[MaxSnap](https://noteifyapp.com/maxsnap-mac-window-manager/)| Powerful Window Manager for Mac, Alternative to SizeUp, Divvy and Moom.|[Website](https://noteifyapp.com/maxsnap-mac-window-manager/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[ScreenFocus](https://www.apptorium.com/screenfocus)| Dimms any number of screens, so that you can focus only on what you are actually working on. |[AppStore](https://apps.apple.com/us/app/screenfocus/id1337028713?ct=apt&ls=1&mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[HazeOver](https://hazeover.com/)| Distraction Dimmer for Mac.|[Website](https://hazeover.com/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
-|[CommandQ](https://commandqapp.com/)| Never accidentally quit an app or mistakenly close a window again.|[Website](https://commandqapp.com/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Hocus Focus](http://hocusfoc.us/)| A Mac menu bar utility that hides your inactive windows.|[Website](http://hocusfoc.us/)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Window Focus](https://fiplab.com/apps/window-focus-for-mac)| Highlight your active window and dim the rest|[Website](https://fiplab.com/apps/window-focus-for-mac)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Contexts](https://contexts.co/)| Switch between application windows effortlessly.|[Website](https://contexts.co/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
