@@ -15,6 +15,7 @@
 |[Apple Juice](https://github.com/raphaelhanneken/apple-juice#apple-juice)| Advanced battery gauge for macOS, that displays the remaining battery time and more.|[Github](https://github.com/raphaelhanneken/apple-juice#apple-juice)|![Free](symbols/free.svg "Free")|![Open-Source](symbols/open.svg "Open-Source")|
 |[Magic Battery Mini](https://sascha-simon.com)| Shows the battery level of supported input devices and headphones that are connected via Bluetooth.|[AppStore](https://apps.apple.com/app/magic-battery-mini/id1366903902?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Magic Battery](https://sascha-simon.com)| Shows the battery level of supported input devices and headphones that are connected via Bluetooth in the menu bar. Internal batteries are also supported.|[AppStore](https://apps.apple.com/app/magic-battery/id1240063289?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[Better Battery](https://agross.at/battery2/)| Monitoring battery health|[AppStore](https://apps.apple.com/app/better-battery-2/id1455789676?mt=12)|![Freemium](symbols/freemium.svg "Freemium")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 
 ## Bluetooth
@@ -196,3 +197,6 @@
 |[Hocus Focus](http://hocusfoc.us/)| A Mac menu bar utility that hides your inactive windows.|[Website](http://hocusfoc.us/)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Window Focus](https://fiplab.com/apps/window-focus-for-mac)| Highlight your active window and dim the rest|[Website](https://fiplab.com/apps/window-focus-for-mac)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Contexts](https://contexts.co/)| Switch between application windows effortlessly.|[Website](https://contexts.co/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+
+
+

@@ -6,7 +6,7 @@
 |[Inventoria Plus](https://www.nchsoftware.com/inventory/index.html)| Manage and monitor your inventory with Inventoria to help streamline your operations and boost profits.|[AppStore](https://apps.apple.com/us/app/inventoria-plus/id976205589?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Grandtotal](https://www.mediaatelier.com/GrandTotal6/)| Create invoices and estimates on your Mac|[Website](https://www.mediaatelier.com/GrandTotal6/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[WarRoom](https://warroom.calvatronics.com/)| Lightweight but powerful document review tool for litigation support. Designed for attorneys and litigation support professionals.|[AppStore](https://apps.apple.com/us/app/warroom/id485185814?mt=12)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
-
+|[Debit & Credit](https://debitandcredit.app/)| Personal Finance Manager|[AppStore](https://apps.apple.com/app/debit-credit-personal-finance/id882637653?mt=12)|![Freemium](symbols/freemium.svg "Freemium")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 ## Calendar
 | Name ⇵ | Description ⇵ | Get it ⇵ | ⇵ | ⇵ |
@@ -21,8 +21,7 @@
 |[MonthlyCal](https://doublerew.net/os-x/monthlycal/)| A colorful calendar widget|[AppStore](https://apps.apple.com/us/app/monthlycal/id935250717?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Blotter](https://www.wireload.net/products/blotter/)| Present your Calendar events and reminders right on your desktop.|[AppStore](https://apps.apple.com/us/app/blotter/id406580224?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[TheClock](https://www.seense.com/the_clock/)| The Best World Clock|[AppStore](https://apps.apple.com/app/the-clock/id488764545?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
-
-
+|[Class Timetable](https://classtimetable.app)| Keep track of classes and add events to your week's schedule with ease.|[AppStore](https://apps.apple.com/app/class-timetable-schedule-app/id425121147)|![Freemium](symbols/freemium.svg "Freemium")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 
 ## Calculators
@@ -31,8 +30,6 @@
 |[Calcbot](https://tapbots.com/calcbot/mac/)| An Intelligent Calculator and Unit Converter.|[AppStore](https://apps.apple.com/us/app/calcbot-the-smart-calculator/id931657367)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[PocketCAS](https://pocketcas.com/)| Very advanced mathematics application that helps you with any kind of math problem from elementary school to calculus, algebra and statistics.|[AppStore](https://apps.apple.com/us/app/pocketcas-mathematics-toolkit/id703006457)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[PCalc](https://www.pcalc.com/)| Powerful choice for scientists, engineers, students, programmers, or indeed anybody looking for a feature rich calculator|[AppStore](https://apps.apple.com/app/pcalc/id403504866?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
-
-
 
 
 ## Clipboard managers
@@ -125,6 +122,7 @@
 |[Pages](https://www.apple.com/pages/)| Documents that stand apart|[AppStore](https://apps.apple.com/us/app/pages/id409201541?mt=12)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Receipts](https://www.receipts-app.com/)| Receipts is ideal for collecting and managing receipts for tax purposes, for expenses, for preparation of bookkeeping and also for private households.|[AppStore](https://apps.apple.com/us/app/receipts/id1079833326?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Presentify](https://presentify.compzets.com/)| A menu bar app that helps you give better presentations, online classes, or video tutorials by letting you annotate any screen, highlight your cursor, and more.|[AppStore](https://apps.apple.com/app/presentify/id1507246666)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[Deckset](https://www.deckset.com)| Convert text dpcuments into beautiful presentations.|[Website](https://www.deckset.com)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 
 ## PDF
@@ -180,6 +178,8 @@
 |[DEVONthink](https://www.devontechnologies.com/apps/devonthink)| Collect, organize, edit and annotate documents of any kind. Have them automatically analyzed, connected, and filed.|[Website](https://www.devontechnologies.com/apps/devonthink)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[iMeetingX](https://www.imeetingx.com/en/index.aspx)| Plan and follow-up on tasks from business meetings and workshops|[Website](https://www.imeetingx.com/en/index.aspx)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Planny](https://www.kevinreutter.de/planny-4/)| Plan and complete your tasks|[AppStore](https://apps.apple.com/app/planny-4-smarte-to-do-liste/id1515324201?mt=8)|![Subscription](symbols/subscription.svg "Subscription")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[Paletro](https://appmakes.io/paletro)| By pressing ⇧⌘P, you have access to all of the functionality of current focused app|[Website](https://appmakes.io/paletro)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[Tasks](https://apps.apple.com/app/tasks-to-do-lists-reminders/id1502903102)| Manage personal & shared tasks|[AppStore](https://apps.apple.com/app/tasks-to-do-lists-reminders/id1502903102)|![Freemium](symbols/freemium.svg "Freemium")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 
 ## Tools
@@ -208,6 +208,7 @@
 |[A Better Finder Attributes](https://www.publicspace.net/ABetterFinderAttributes/index.html)| Change creation dates, meta-data tags, file creation & modification dates, file flags and much more.|[Website](https://www.publicspace.net/ABetterFinderAttributes/index.html)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Big Mean Folder Machine](https://www.publicspace.net/BigMeanFolderMachine/index.html)| Makes it easy to (re-)organize huge file collections.|[Website](https://www.publicspace.net/BigMeanFolderMachine/index.html)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Default Folder X](https://www.stclairsoft.com/DefaultFolderX/index.html)| Make your Open and Save dialogs work as quickly as you do|[Website](https://www.stclairsoft.com/DefaultFolderX/index.html)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[Thor](https://github.com/gbammc/Thor#thor)| App that allows you to open other application immediately just by a shortcut.|[Github](https://github.com/gbammc/Thor)|![Free](symbols/free.svg "Free")|![Open-Source](symbols/open.svg "Open-Source")|
 
 
 ## Writing

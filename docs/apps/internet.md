@@ -47,6 +47,10 @@
 |[Airtool](https://www.intuitibits.com/products/airtool/)| Capture Wi-Fi traffic like a Pro|[Website](https://www.intuitibits.com/products/airtool/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Wifi Explorer](https://www.intuitibits.com/products/wifi-explorer/)| Scan, monitor and troubleshoot wireless networks using your Mac's built-in Wi-Fi adapter.|[AppStore](https://apps.apple.com/us/app/wifi-explorer/id494803304?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Wifi Explorer Pro](https://www.intuitibits.com/products/wifi-explorer-pro/)| Wi-Fi scanner and analyzer for Mac built to assist WLAN and IT professionals.|[Website](https://www.intuitibits.com/products/wifi-explorer-pro/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[EAPTest](http://www.ermitacode.com/eaptest.html)| Testing of authentication on RADIUS servers|[AppStore](https://apps.apple.com/app/eaptest/id725566160?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[Passport](http://www.ermitacode.com/passport.html)| Authentication services for secure network access|[AppStore](https://apps.apple.com/app/passport/id1333982408?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[IperfUtil](http://www.ermitacode.com/iperfutil.html)| Simple and native macOS graphical interface for the Iperf3 performance test tool.|[AppStore](https://apps.apple.com/app/iperfutil/id1033018345?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[Dot1xProfile](http://www.ermitacode.com/dot1xprofile.html)| Generate 802.1x network authentication profiles|[AppStore](https://apps.apple.com/app/dot1xprofile/id1048395457?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 
 ## Remote control

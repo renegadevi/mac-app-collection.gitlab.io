@@ -14,7 +14,7 @@
 |[Easy CSV Editor](https://apps.apple.com/app/easy-csv-editor/id1171346381?mt=12)| Easy user-friendly interface, it offers simplicity and flexibility to edit both small and large documents.|[AppStore](https://apps.apple.com/app/easy-csv-editor/id1171346381?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 
-## Database manager
+## Database managers
 | Name ⇵ | Description ⇵ | Get it ⇵ | ⇵ | ⇵ |
 |:-------|:--------------|:--------:|:-:|:-:|
 |[Sequel Ace](https://sequel-ace.com/)| Sequel Ace is a fast, easy-to-use Mac database management application for working with MySQL & MariaDB databases.|[AppStore](https://apps.apple.com/us/app/sequel-ace/id1518036000?ls=1)|![Free](symbols/free.svg "Free")|![Open-Source](symbols/open.svg "Open-Source")|
@@ -25,6 +25,7 @@
 |[Core Data Lab](https://betamagic.nl/products/coredatalab.html)| View, analyze and track your Core Data app’s data (SQLite)|[AppStore](https://apps.apple.com/app/core-data-lab/id1460684638?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[SQLPro Studio](https://www.sqlprostudio.com/)| A simple, powerful database manager for macOS, iOS and Windows. (Offers both Subscription and Paid version)|[AppStore](https://apps.apple.com/us/app/sqlpro-studio/id985614903?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Querious](https://www.araelium.com/querious)| The best MySQL tool for MacOS. View, search, edit, import, export, build, configure, and monitor your MySQL and compatible databases easier than ever before.|[Website](https://www.araelium.com/querious)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[SQLiteFlow](https://www.sqliteflow.com)| SQLite editor which is intuitive, stable and reliable to use.|[AppStore](https://apps.apple.com/app/sqliteflow-sqlite-editor/id1378587993?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 
 ## Design tools
@@ -34,14 +35,16 @@
 |[Fabula](https://www.poeticbytes.com/)| Beautiful and easy to use animation creation and testing app.Tweak animation values in real-time.|[AppStore](https://apps.apple.com/us/app/fabula/id1503214451)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Asset Catalog Tinkerer](https://github.com/insidegui/AssetCatalogTinkerer)| An app that lets you open .car files and browse/extract their images.|[Github](https://github.com/insidegui/AssetCatalogTinkerer)|![Free](symbols/free.svg "Free")|![Open-Source](symbols/open.svg "Open-Source")|
 |[ColorSet](https://imazing.com/downloads)| Utility and framework to manage custom interface colors.|[Github](https://github.com/DigiDNA/ColorSet)|![Free](symbols/free.svg "Free")|![Open-Source](symbols/open.svg "Open-Source")|
+|[Adaptivity](https://hacknicity.com)| Visualize iOS's Size Classes and margins for layout, iPad Slide Over/Split View and Dynamic Type size changes.|[AppStore](https://apps.apple.com/app/adaptivity-a/id1054670022)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 
-## Development servers
+## Development platforms/services
 | Name ⇵ | Description ⇵ | Get it ⇵ | ⇵ | ⇵ |
 |:-------|:--------------|:--------:|:-:|:-:|
 |[MAMP Pro](https://www.mamp.info/en/mamp-pro/mac/)| Easy to use webdev stack for local development. (Apache, Nginx, PHP & MySQL)|[Website](https://www.mamp.info/en/mamp-pro/mac/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[RedisApp](https://github.com/jpadilla/redisapp)| Easy way to manage Redis on the Mac via the menubar.|[Github](https://github.com/jpadilla/redisapp)|![Free](symbols/free.svg "Free")|![Open-Source](symbols/open.svg "Open-Source")|
 |[VirtualHostX](https://clickontyler.com/virtualhostx/)| Easy-to-install local server environment for macOS. |[Website](https://clickontyler.com/virtualhostx/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[mongoDB app](https://github.com/gcollazo/mongodbapp)| The easiest way to get started with mongoDB on the Mac.|[Github](https://github.com/gcollazo/mongodbapp)|![Free](symbols/free.svg "Free")|![Open-Source](symbols/open.svg "Open-Source")|
 
 
 ## Dictionaries
@@ -122,6 +125,12 @@
 |:-------|:--------------|:--------:|:-:|:-:|
 |[Simon](https://www.dejal.com/simon/)| Essential site monitoring tool for macOS. It checks servers for changes or failures and notifies you.|[Website](https://www.dejal.com/simon/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
+## Snippet managers
+| Name ⇵ | Description ⇵ | Get it ⇵ | ⇵ | ⇵ |
+|:-------|:--------------|:--------:|:-:|:-:|
+|[SnippetsLab](https://www.renfei.org/snippets-lab/)| A full-featured, professional code snippets manager. |[AppStore](https://itunes.apple.com/us/app/snippetslab/id1006087419)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[Snippit](https://apps.apple.com/app/snippit/id1484781782?mt=12)| Create & Edit Snippets in Objective-C, Swift, Python, Javascript and dozens more!|[AppStore](https://apps.apple.com/app/snippit/id1484781782?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+
 
 ## Testing
 | Name ⇵ | Description ⇵ | Get it ⇵ | ⇵ | ⇵ |
@@ -137,7 +146,7 @@
 |[TextMate](https://macromates.com/)| Powerful and customizable text editor with support for a huge list of programming languages.|[Website](https://macromates.com/)|![Free](symbols/free.svg "Free")|![Open-Source](symbols/open.svg "Open-Source")|
 |[VimR](https://github.com/qvacua/vimr)| Neovim GUI for macOS.|[Github](https://github.com/qvacua/vimr)|![Free](symbols/free.svg "Free")|![Open-Source](symbols/open.svg "Open-Source")|
 |[Visual Studio Code](https://code.visualstudio.com/)| Free, multi-platform and open-source code editor by Microsoft **☢ ELECTRON ☢**. |[Website](https://code.visualstudio.com/)|![Free](symbols/free.svg "Free")|![Open-Source](symbols/open.svg "Open-Source")|
-|[BBEdit](http://www.barebones.com/products/bbedit/)| Simple professional text, code, and markup editor for the Macintosh. |[AppStore](https://apps.apple.com/us/app/bbedit/id404009241?mt=12)|![Freemium](symbols/freemium.svg "Freemium")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[BBEdit](http://www.barebones.com/products/bbedit/)| Simple professional text, code, and markup editor for the Macintosh. |[AppStore](https://apps.apple.com/app/bbedit/id404009241?mt=12)|![Freemium](symbols/freemium.svg "Freemium")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[jEditor](https://www.shivapis.com/jeditor.html)| Fast & Powerful Text Editor written in Swift.|[AppStore](https://apps.apple.com/app/jeditor/id1027251570?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 ## Tools / Automation
@@ -153,17 +162,9 @@
 | Name ⇵ | Description ⇵ | Get it ⇵ | ⇵ | ⇵ |
 |:-------|:--------------|:--------:|:-:|:-:|
 |[POEDIT](https://poedit.net/)| The fastest and most convenient way to translate apps & sites with gettext.|[Website](https://poedit.net/)|![Freemium](symbols/freemium.svg "Freemium")|![Closed-Source](symbols/closed.svg "Closed-Source")|
-|[iOSLocalizationEditor](https://github.com/igorkulman/iOSLocalizationEditor)| Simple macOS editor app to help you manage iOS and macOS app localizations by allowing you to edit all the translations side by side.|[Github](https://github.com/igorkulman/iOSLocalizationEditor)|![Free](symbols/free.svg "Free")|![Open-Source](symbols/open.svg "Open-Source")|
+|[Localization Editor](https://github.com/igorkulman/iOSLocalizationEditor)| Simple macOS editor app to help you manage iOS and macOS app localizations by allowing you to edit all the translations side by side.|[Github](https://github.com/igorkulman/iOSLocalizationEditor)|![Free](symbols/free.svg "Free")|![Open-Source](symbols/open.svg "Open-Source")|
 |[18 Strings](https://apps.apple.com/us/app/18-strings/id882419288?mt=12)| Automatic translation using strings from your other projects. See all the strings from all your files in your project in one simple and intuitive view.|[AppStore](https://apps.apple.com/us/app/18-strings/id882419288?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[MISSIV](https://www.designmatic.xyz/apps/missiv/)| Open and edit XLIFF documents. Translate exported XLIFF documents from Xcode on your iPhone, iPad, and Mac.|[AppStore](https://apps.apple.com/us/app/missiv/id1444128417)|![Subscription](symbols/subscription.svg "Subscription")|![Closed-Source](symbols/closed.svg "Closed-Source")|
-
-
-## Web builder
-| Name ⇵ | Description ⇵ | Get it ⇵ | ⇵ | ⇵ |
-|:-------|:--------------|:--------:|:-:|:-:|
-|[Expresso](https://www.espressoapp.com/)| Espresso helps you write, code, design, build and publish with flair and efficiency.|[Website](https://www.espressoapp.com/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
-|[Whisk](https://tumult.com/whisk/)| Lightweight HTML and PHP editor with a live preview pane that displays the updated page as you type.|[AppStore](https://apps.apple.com/us/app/whisk/id1502044457?mt=12)|![Freemium](symbols/freemium.svg "Freemium")|![Closed-Source](symbols/closed.svg "Closed-Source")|
-
 
 
 ## VCS (Version control systems)
@@ -177,6 +178,7 @@
 |[GitUp](https://gitup.co/)| Visualize your repo like a pro.|[Website](https://gitup.co/)|![Free](symbols/free.svg "Free")|![Open-Source](symbols/open.svg "Open-Source")|
 |[GitFox](https://www.gitfox.app/)| Commit faster, improve your code quality with superior diffs - and look good doing it.|[AppStore](https://apps.apple.com/at/app/gitfox/id1475511261?l=en&mt=12)|![Subscription](symbols/subscription.svg "Subscription")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Folio](http://folioformac.com/)| Simple version control for design teams based on Git|[Website](http://folioformac.com/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[Xit](https://github.com/Uncommon/Xit)| Graphical tool for working with git repositories.|[Github](https://github.com/Uncommon/Xit)|![Free](symbols/free.svg "Free")|![Open-Source](symbols/open.svg "Open-Source")|
 
 
 ### SVN
@@ -188,11 +190,17 @@
 |[Cornerstone](https://cornerstone.assembla.com/)| The ultimate Subversion client for Mac just got better.|[Website](https://cornerstone.assembla.com/)|![Subscription](symbols/subscription.svg "Subscription")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 
+## Web builders
+| Name ⇵ | Description ⇵ | Get it ⇵ | ⇵ | ⇵ |
+|:-------|:--------------|:--------:|:-:|:-:|
+|[Expresso](https://www.espressoapp.com/)| Espresso helps you write, code, design, build and publish with flair and efficiency.|[Website](https://www.espressoapp.com/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[Whisk](https://tumult.com/whisk/)| Lightweight HTML and PHP editor with a live preview pane that displays the updated page as you type.|[AppStore](https://apps.apple.com/us/app/whisk/id1502044457?mt=12)|![Freemium](symbols/freemium.svg "Freemium")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+
+
 ## Other
 | Name ⇵ | Description ⇵ | Get it ⇵ | ⇵ | ⇵ |
 |:-------|:--------------|:--------:|:-:|:-:|
 |[App Language Chooser](https://apps.apple.com/us/app/app-language-chooser/id451732904?mt=12)| App Language Chooser lets you run an application using the language of your choice, to display the user interface.|[AppStore](https://apps.apple.com/us/app/app-language-chooser/id451732904?mt=12)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
-|[SnippetsLab](https://www.renfei.org/snippets-lab/)| A full-featured, professional code snippets manager. |[AppStore](https://itunes.apple.com/us/app/snippetslab/id1006087419)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Sitesucker](https://ricks-apps.com/osx/sitesucker/)| SiteSucker is a Macintosh application that automatically downloads websites from the Internet.|[AppStore](https://itunes.apple.com/us/app/sitesucker/id442168834?ls=1&mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[WebScraper](https://peacockmedia.software/mac/webscraper/)| Scrape data or archive content from a website.|[Website](https://peacockmedia.software/mac/webscraper/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Hopper](https://www.hopperapp.com/)| The macOS and Linux Disassembler.|[Website](https://www.hopperapp.com/)|![Paid](symbols/freemium.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
@@ -216,3 +224,5 @@
 |[Console](https://imazing.com/downloads)| A replacement for the default macOS console application|[Github](https://github.com/macmade/Console)|![Free](symbols/free.svg "Free")|![Open-Source](symbols/open.svg "Open-Source")|
 |[Boop](https://boop.okat.best/)| Boop allows you to get simple tasks done in a native, safe, and welcoming environment.|[AppStore](https://apps.apple.com/app/boop/id1518425043?mt=12)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[CL!ng](http://users.skynet.be/bartvanhaeren/cling/Cling/CL%21ng.html)| Getting all the information and specs about your OpenCL or Metal enabled device|[AppStore](https://apps.apple.com/app/cl-ng/id1244392031?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[Knuff](https://github.com/KnuffApp/Knuff)| The debug application for Apple Push Notification Service (APNs).|[Github](https://github.com/KnuffApp/Knuff)|![Free](symbols/free.svg "Free")|![Open-Source](symbols/open.svg "Open-Source")|
+|[DevUtils app](https://devutils.app)| Offline Toolbox for Developers|[Website](https://devutils.app)|![Free](symbols/free.svg "Free")|![Open-Source](symbols/open.svg "Open-Source")|

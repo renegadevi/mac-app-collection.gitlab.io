@@ -47,6 +47,7 @@ See [Video](video) section for multimedia players
 |[Sonic Atom](https://www.loudlab-app.com/sonicatom-app)| Multi-instrument, audio analysis and metering software.|[Website](https://www.loudlab-app.com/sonicatom-app)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[FuzzMeasure](https://www.rodetest.com/)| Powerful Audio and Acoustic Measurements, by RØDE|[Website](https://www.rodetest.com/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Scrobbles for Last.fm](https://sascha-simon.com)| Brings the music network Last.fm to your Mac! The app offers both Last.fm statistics and iTunes scrobbling.|[AppStore](https://apps.apple.com/app/scrobbles-for-last-fm/id1344679160?mt=12)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[waveSDR](http://www.getoffmyhack.com/waveSDR/)| A macOS native desktop Software Defined Radio application using the RTL-SDR USB device.|[Website](http://www.getoffmyhack.com/waveSDR/)|![Free](symbols/free.svg "Free")|![Open-Source](symbols/open.svg "Open-Source")|
 
 
 ##  Podcasting
@@ -55,6 +56,8 @@ See [Video](video) section for multimedia players
 |[Forecast](https://overcast.fm/forecast)| Podcast MP3 post-production tool with chapters.|[Website](https://overcast.fm/forecast)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Cosmicast](https://www.pnguin.app/cosmicast)| Beautiful podcast player without any complicated user accounts or settings to configure.|[AppStore](https://apps.apple.com/us/app/cosmicast/id1435195637)|![Subscription](symbols/subscription.svg "Subscription")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[FusionCast](https://fusioncast.rambo.codes)| Easily turn your podcast episodes into videos for publishing on any platform.|[AppStore](https://apps.apple.com/app/fusioncast/id1511181391)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[Feeder](https://reinventedsoftware.com/feeder/)| Self-publish podcasts, appcasts, and standard RSS feeds with Feeder.|[AppStore](https://apps.apple.com/app/feeder-4/id1541467266?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[Mame Cast](https://mamecast.com)| Listen your favorite Podcast|[AppStore](https://apps.apple.com/app/mame-cast-a-podcast-player/id1495516059)|![Freemium](symbols/freemium.svg "Freemium")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 
 ## Recording / Studio / DAW
@@ -72,6 +75,7 @@ See [Video](video) section for multimedia players
 |[SoundForge](https://www.magix.com/int/music/sound-forge/sound-forge-pro-mac/)| Professional audio waveform editor for Mac by MAGIX|[Website](https://www.magix.com/int/music/sound-forge/sound-forge-pro-mac/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[OceanAudio](https://www.ocenaudio.com/en/startpage)| Easy and fast audio editor|[Website](https://www.ocenaudio.com/en/startpage)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Fluctus](https://www.loudlab-app.com/fluctus-app)| Audio Editor for both the Newcomer and the Expert.|[Website](https://www.loudlab-app.com/fluctus-app)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[Backtrack](https://backtrack.team)| Local audio recorder that lets you save audio your mic heard in the past.|[AppStore](https://apps.apple.com/app/backtrack-record-past-audio/id1477089520?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 
 ## Volume controls / EQ

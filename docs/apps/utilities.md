@@ -8,6 +8,8 @@
 |[Keka](https://www.keka.io/)| Keka is a full featured file archiver, as easy as it can be.|[AppStore](https://apps.apple.com/app/keka/id470158793)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Archiver](https://archiverapp.com/)| Easy to use archiver.|[Website](https://archiverapp.com/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[WinZip](https://www.winzip.com/mac/en/)| Zip and unzip files instantly|[Website](https://www.winzip.com/mac/en/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[Archive Mounter](https://github.com/ivoronin/ArchiveMounter)| Mount archive files (zip/rar) as disk images.|[Github](https://github.com/ivoronin/ArchiveMounter)|![Free](symbols/free.svg "Free")|![Open-Source](symbols/open.svg "Open-Source")|
+
 
 ## Dark mode / Light mode
 | Name ⇵ | Description ⇵ | Get it ⇵ | ⇵ | ⇵ |
@@ -17,7 +19,7 @@
 |[NightOwl](https://nightowl.kramser.xyz/)| Easily toggle MacOS dark mode in the menu bar.|[Website](https://nightowl.kramser.xyz/)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Nocturnal](https://github.com/HarshilShah/Nocturnal)| A simple macOS app to toggle dark mode with one click.|[Github](https://github.com/HarshilShah/Nocturnal)|![Free](symbols/free.svg "Free")|![Open-Source](symbols/open.svg "Open-Source")|
 |[Dynamic Dark Mode](https://github.com/ApolloZhu/Dynamic-Dark-Mode#dynamic-dark-mode)|A pp you are looking for to power up Dark Mode|[Github](https://github.com/ApolloZhu/Dynamic-Dark-Mode#dynamic-dark-mode)|![Free](symbols/free.svg "Free")|![open-Source](symbols/open.svg "Open-Source")|
-
+|[QuickShade](https://apps.apple.com/app/quickshade/id931571202?mt=12)| Quickly change the screen brightness.|[AppStore](https://apps.apple.com/app/quickshade/id931571202?mt=12)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 ## Menu bar
 | Name ⇵ | Description ⇵ | Get it ⇵ | ⇵ | ⇵ |
@@ -47,6 +49,7 @@
 |[Muse](https://xzzz9097.github.io/)| An open-source Spotify, iTunes and Vox controller with TouchBar support.|[Github](https://github.com/xzzz9097/Muse)|![Free](symbols/free.svg "Free")|![Open-Source](symbols/open.svg "Open-Source")|
 |[Hide My Bar](https://hidemybar.clemstation.com/)| A macOS app to turn off the Touch Bar at will|[Website](https://hidemybar.clemstation.com)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[NoiseBuddy](https://github.com/insidegui/NoiseBuddy)| Change noise cancelling settings on your AirPods Pro or Beats Solo Pro directly from the Touch Bar.|[Github](https://github.com/insidegui/NoiseBuddy)|![Free](symbols/free.svg "Free")|![Open-Source](symbols/open.svg "Open-Source")|
+|[Pock](https://pock.dev)| Widgets manager for MacBook's Touch Bar|[Website](https://pock.dev)|![Free](symbols/free.svg "Free")|![Open-Source](symbols/open.svg "Open-Source")|
 
 
 ## Virtualization

@@ -64,6 +64,9 @@
 | Name ⇵ | Description ⇵ | Get it ⇵ | ⇵ | ⇵ |
 |:-------|:--------------|:--------:|:-:|:-:|
 |[ImageOptim](https://imageoptim.com/mac)| Removes bloated metadata. Saves disk space & bandwidth by compressing images without losing quality.|[Website](https://imageoptim.com/mac)|![Free](symbols/free.svg "Free")|![Open-Source](symbols/open.svg "Open-Source")|
+|[Optimage](https://optimage.app)| Advanced image optimization tool|[Website](https://optimage.app)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+
+
 |[PixelSnap](https://getpixelsnap.com/)| The fastest tool for measuring anything on your screen|[Website](https://getpixelsnap.com/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[PhotoBulk](https://photobulkeditor.com/)| Easy-to-use bulk image editor that lets you add multiple text/image watermarks, resize, optimize, rename and convert files. |[AppStore](https://apps.apple.com/us/app/photobulk-watermark-resize/id537211143?ls=1&mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Screenbar](https://github.com/crilleengvall/Screenbar)| A macOS menubar app for automating screenshots.|[Github](https://github.com/crilleengvall/Screenbar)|![Free](symbols/free.svg "Free")|![Open-Source](symbols/open.svg "Open-Source")|
@@ -76,7 +79,7 @@
 |[Morph Age](https://creaceed.com/morphage)| Create stunning morphing animations from faces, animals, or objects.|[AppStore](https://apps.apple.com/app/id413898200?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[EXIF](https://apps.apple.com/app/exif-view-and-edit-meta-data/id1487918941?mt=12)| View and Edit Meta Data|[AppStore](https://apps.apple.com/app/exif-view-and-edit-meta-data/id1487918941?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Pixea](https://www.imagetasks.com/pixea/)| Image viewer for macOS with a nice minimal modern user interface|[AppStore](https://apps.apple.com/app/pixea/id1507782672?ls=1)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
-
+|[Entity Pro](https://ixeau.com/entity-pro/)| Unicode Glyph & Emoji Finder|[AppStore](https://apps.apple.com/app/entity-pro/id1503988785?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 ## Vector
 | Name ⇵ | Description ⇵ | Get it ⇵ | ⇵ | ⇵ |
