@@ -178,7 +178,6 @@
 |[DEVONthink](https://www.devontechnologies.com/apps/devonthink)| Collect, organize, edit and annotate documents of any kind. Have them automatically analyzed, connected, and filed.|[Website](https://www.devontechnologies.com/apps/devonthink)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[iMeetingX](https://www.imeetingx.com/en/index.aspx)| Plan and follow-up on tasks from business meetings and workshops|[Website](https://www.imeetingx.com/en/index.aspx)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Planny](https://www.kevinreutter.de/planny-4/)| Plan and complete your tasks|[AppStore](https://apps.apple.com/app/planny-4-smarte-to-do-liste/id1515324201?mt=8)|![Subscription](symbols/subscription.svg "Subscription")|![Closed-Source](symbols/closed.svg "Closed-Source")|
-|[Paletro](https://appmakes.io/paletro)| By pressing ⇧⌘P, you have access to all of the functionality of current focused app|[Website](https://appmakes.io/paletro)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Tasks](https://apps.apple.com/app/tasks-to-do-lists-reminders/id1502903102)| Manage personal & shared tasks|[AppStore](https://apps.apple.com/app/tasks-to-do-lists-reminders/id1502903102)|![Freemium](symbols/freemium.svg "Freemium")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 
@@ -244,4 +243,4 @@
 |[Paprika](https://www.paprikaapp.com/)| Helps you organize your recipes, make meal plans, and create grocery lists. |[AppStore](https://apps.apple.com/us/app/paprika-recipe-manager-3/id1303222628?ls=1&mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[SwitchGlass](https://apps.apple.com/us/app/switchglass/id1498546559?mt=12)| SwitchGlass adds a dedicated application switcher to your Mac.|[AppStore](https://apps.apple.com/us/app/switchglass/id1498546559?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[DEVONagent Pro](https://www.devontechnologies.com/apps/devonagent)| Searches multiple sources and frees you from manually sorting the wheat from the chaff.|[AppStore](https://apps.apple.com/us/app/devonagent-pro/id450113817?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
-
+|[Paletro](https://appmakes.io/paletro)| By pressing ⇧⌘P, you have access to all of the functionality of current focused app|[Website](https://appmakes.io/paletro)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
