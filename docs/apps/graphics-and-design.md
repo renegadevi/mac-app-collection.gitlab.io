@@ -65,8 +65,6 @@
 |:-------|:--------------|:--------:|:-:|:-:|
 |[ImageOptim](https://imageoptim.com/mac)| Removes bloated metadata. Saves disk space & bandwidth by compressing images without losing quality.|[Website](https://imageoptim.com/mac)|![Free](symbols/free.svg "Free")|![Open-Source](symbols/open.svg "Open-Source")|
 |[Optimage](https://optimage.app)| Advanced image optimization tool|[Website](https://optimage.app)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
-
-
 |[PixelSnap](https://getpixelsnap.com/)| The fastest tool for measuring anything on your screen|[Website](https://getpixelsnap.com/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[PhotoBulk](https://photobulkeditor.com/)| Easy-to-use bulk image editor that lets you add multiple text/image watermarks, resize, optimize, rename and convert files. |[AppStore](https://apps.apple.com/us/app/photobulk-watermark-resize/id537211143?ls=1&mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Screenbar](https://github.com/crilleengvall/Screenbar)| A macOS menubar app for automating screenshots.|[Github](https://github.com/crilleengvall/Screenbar)|![Free](symbols/free.svg "Free")|![Open-Source](symbols/open.svg "Open-Source")|
