@@ -60,6 +60,7 @@
 |[Screens](https://edovia.com/en/screens-mac/)| Control any computer from your Mac from anywhere in the world.|[Website](https://edovia.com/en/screens-mac/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[AnyDesk](https://anydesk.com/en)| Remote Desktop Software. AnyWhere. AnyTime. AnyDesk|[Website](https://anydesk.com/en)|![Freemium](symbols/freemium.svg "Freemium")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Royal TS](https://www.royalapps.com/ts/mac/features)| Premium Comprehensive Remote Management Solution|[Website](https://www.royalapps.com/ts/mac/features)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[Jump Desktop](https://jumpdesktop.com)| Secure and reliable remote desktop app that lets you connect to any computer, anywhere in the world|[AppStore](https://apps.apple.com/app/jump-desktop-remote-desktop/id364876095)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 
 ## SSH

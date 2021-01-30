@@ -21,6 +21,14 @@
 |[Dynamic Dark Mode](https://github.com/ApolloZhu/Dynamic-Dark-Mode#dynamic-dark-mode)|A pp you are looking for to power up Dark Mode|[Github](https://github.com/ApolloZhu/Dynamic-Dark-Mode#dynamic-dark-mode)|![Free](symbols/free.svg "Free")|![open-Source](symbols/open.svg "Open-Source")|
 |[QuickShade](https://apps.apple.com/app/quickshade/id931571202?mt=12)| Quickly change the screen brightness.|[AppStore](https://apps.apple.com/app/quickshade/id931571202?mt=12)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
+## Link handlers
+| Name ⇵ | Description ⇵ | Get it ⇵ | ⇵ | ⇵ |
+|:-------|:--------------|:--------:|:-:|:-:|
+|[OpenIn](https://loshadki.app/openin/)| Smart link handling (Browsers, Mail, Files)|[AppStore](https://apps.apple.com/app/openin/id1547147101)|![Freemium](symbols/freemium.svg "Freemium")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[Bumpr](https://getbumpr.com)| A simple utility that lets you control where your links open.|[AppStore](https://apps.apple.com/us/app/bumpr/id1166066070)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[Choosy](https://www.choosyosx.com)| A smarter default browser for macOS|[Website](https://www.choosyosx.com)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+
+
 ## Menu bar
 | Name ⇵ | Description ⇵ | Get it ⇵ | ⇵ | ⇵ |
 |:-------|:--------------|:--------:|:-:|:-:|

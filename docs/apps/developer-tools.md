@@ -118,6 +118,7 @@
 |:-------|:--------------|:--------:|:-:|:-:|
 |[Patterns](https://krillapps.com/patterns/)| The ultimate tool for working with regular expressions.|[AppStore](http://itunes.apple.com/us/app/patterns-the-regex-app/id429449079?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Expressions](https://www.apptorium.com/expressions)| An app to play with regular expressions. Easily and nicely. |[AppStore](https://apps.apple.com/us/app/expressions/id913158085?ls=1&mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[RegExp](https://loshadki.app/regexp/)| Testing regular expressions in native flavours (Go, Swift, JavaSciprt, POSIX)|[AppStore](https://apps.apple.com/app/regexp/id1546140065?mt=12)|![Freemium](symbols/freemium.svg "Freemium")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 
 ## Server monitoring
