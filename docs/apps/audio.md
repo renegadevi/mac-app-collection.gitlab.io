@@ -33,6 +33,7 @@
 |[Pine Player](https://apps.apple.com/app/pine-player/id1112075769?mt=12)| Exclusive listening digital music player for music lovers.|[AppStore](https://apps.apple.com/app/pine-player/id1112075769?mt=12)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[DaftCloud](https://daft.cloud/)| The Unofficial SoundCloud App|[AppStore](https://apps.apple.com/app/daftcloud-for-soundcloud/id1320450034?mt=12)|![Freemium](symbols/freemium.svg "Freemium")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Broadcasts](https://www.highcaffeinecontent.com/)| Listen to streaming internet radio in an ultra-simple, single-purpose app.|[AppStore](https://apps.apple.com/app/broadcasts/id1469995354)|![Freemium](symbols/freemium.svg "Freemium")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[Mp3tag](https://mp3tag.app/)| The universal tag editor, powerful and easy-to-use tool to edit metadata of audio files.|[AppStore](https://apps.apple.com/app/apple-store/id1532597159?mt=8)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 See [Video](video) section for multimedia players
 
