@@ -4,6 +4,11 @@
 
 Find hidden gems to improve your Mac.
 
+**Current update cycle:**
+Every 2 weeks for a update with a new set of apps, usually around 15-20 apps.
+
+
+
 ## Why this list?
 
 The software eco-system for macOS over the last decade has been in a huge growing state. There's a lot of new software and apps which offers high quality, native and polished experience, or just enhancing the existing macOS experience to suit personal needs.

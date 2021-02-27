@@ -32,6 +32,10 @@ I originally made a personal awesome-list as a goto when others ask me for good 
 
 This collection is by no mean perfect. If you want me to add a software to the list or change things up, please give me feedback trough the links in the top right corner or suggest a change on the specific category page. You can also create a [GitLab issue](https://gitlab.com/renegadevi/mac-app-collection/-/issues/new).
 
+### How often does new apps get added?
+
+**Current update cycle is every 2 weeks with a set of 15-20 apps.** If you're interested to know what apps that's been added or things that's been changes you can see or commit changes over at [GitLab](https://gitlab.com/renegadevi/mac-app-collection/-/commits/master)
+
 
 ## The curation of software
 
