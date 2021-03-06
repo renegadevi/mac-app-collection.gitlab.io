@@ -7,6 +7,8 @@
 |[Grandtotal](https://www.mediaatelier.com/GrandTotal6/)| Create invoices and estimates on your Mac|[Website](https://www.mediaatelier.com/GrandTotal6/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[WarRoom](https://warroom.calvatronics.com/)| Lightweight but powerful document review tool for litigation support. Designed for attorneys and litigation support professionals.|[AppStore](https://apps.apple.com/us/app/warroom/id485185814?mt=12)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Debit & Credit](https://debitandcredit.app/)| Personal Finance Manager|[AppStore](https://apps.apple.com/app/debit-credit-personal-finance/id882637653?mt=12)|![Freemium](symbols/freemium.svg "Freemium")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[Walletry](https://walletry.fantazia.app)| Track Your Daily Expenses|[AppStore](https://apps.apple.com/app/walletry/id1511250212)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+
 
 ## Calendar
 | Name ⇵ | Description ⇵ | Get it ⇵ | ⇵ | ⇵ |
@@ -22,6 +24,7 @@
 |[Blotter](https://www.wireload.net/products/blotter/)| Present your Calendar events and reminders right on your desktop.|[AppStore](https://apps.apple.com/us/app/blotter/id406580224?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[TheClock](https://www.seense.com/the_clock/)| The Best World Clock|[AppStore](https://apps.apple.com/app/the-clock/id488764545?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Class Timetable](https://classtimetable.app)| Keep track of classes and add events to your week's schedule with ease.|[AppStore](https://apps.apple.com/app/class-timetable-schedule-app/id425121147)|![Freemium](symbols/freemium.svg "Freemium")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[Just Calendar](http://kuzmenko.info/justcalendar/)| Super simple calendar widgets|[AppStore](https://apps.apple.com/app/just-calendar/id934523970)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 
 ## Calculators
@@ -47,6 +50,7 @@
 |[iClip – Clipboard Manager](http://iclipapp.com/)|Keep a history of almost anything you copy, instead of only the last thing.|[AppStore](https://apps.apple.com/app/id468369783?ls=1&mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Maccy](https://maccy.app/)| Clipboard manager for macOS which does one job - keep your copy history at hand. Period.|[Website](https://maccy.app/)|![Free](symbols/free.svg "Free")|![Open-Source](symbols/open.svg "Open-Source")|
 |[CCboard](https://apps.apple.com/app/ccboard-pasteboard-tool/id1503125921?mt=12)| Simple and graphical pasteboard tool.|[AppStore](https://apps.apple.com/app/ccboard-pasteboard-tool/id1503125921?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+
 
 ## Contacts
 | Name ⇵ | Description ⇵ | Get it ⇵ | ⇵ | ⇵ |
@@ -208,6 +212,9 @@
 |[Big Mean Folder Machine](https://www.publicspace.net/BigMeanFolderMachine/index.html)| Makes it easy to (re-)organize huge file collections.|[Website](https://www.publicspace.net/BigMeanFolderMachine/index.html)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Default Folder X](https://www.stclairsoft.com/DefaultFolderX/index.html)| Make your Open and Save dialogs work as quickly as you do|[Website](https://www.stclairsoft.com/DefaultFolderX/index.html)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Thor](https://github.com/gbammc/Thor#thor)| App that allows you to open other application immediately just by a shortcut.|[Github](https://github.com/gbammc/Thor)|![Free](symbols/free.svg "Free")|![Open-Source](symbols/open.svg "Open-Source")|
+|[Rename X](https://pathos-software.com)| Mac's #1 utility for renaming files. Powerful and simple|[AppStore](https://apps.apple.com/app/rename-x/id1438841416)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[Raycast](https://raycast.com)| Raycast lets you control your tools with a few keystrokes.|[Website](https://raycast.com)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[Shareful](https://sindresorhus.com/shareful)| Give the macOS share menu superpowers|[AppStore](https://apps.apple.com/app/id1522267256)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 
 ## Writing
@@ -224,6 +231,7 @@
 |[Texpad](https://www.texpad.com/)| Join academics and professional writers in harnessing the power of LaTeX to produce polished output of your writing.|[Website](https://www.texpad.com/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Manuscripts](https://www.manuscriptsapp.com/)| Your next manuscript, from A to Z.|[Website](https://www.manuscriptsapp.com/)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Final Draft](https://www.finaldraft.com/)| Screenwriting software choice of professional screenwriters and filmmakers around the world.|[Website](https://www.finaldraft.com/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[Outlinely](https://glamdevelopment.com/outlinely)| Powerful outlining app for Mac, iPhone and iPad|[AppStore](https://apps.apple.com/app/outlinely/id843692954)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 
 ## Writing tools

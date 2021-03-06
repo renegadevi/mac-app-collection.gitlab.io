@@ -79,6 +79,8 @@
 |[CodeRunner](https://coderunnerapp.com/)| A lightweight, multi-language programming editor for macOS.|[AppStore](https://apps.apple.com/us/app/coderunner-3/id955297617?ls=1&mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[VisualStudio for Mac](https://visualstudio.microsoft.com/vs/mac/)| Develop apps and games for iOS, Android, and web using .NET. |[Website](https://visualstudio.microsoft.com/vs/mac/)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[S4A IDE](https://www.swiftforarduino.com/)| "Swift(TM) For Arduino" the is a tool to use the Swift(TM) language to write fully native code for the AVR microcontroller.|[AppStore](https://apps.apple.com/us/app/s4a-ide-lite/id1334769565?mt=12)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[MaciASL](https://github.com/acidanthera/MaciASL)| A native AML compiler and IDE for macOS|[Github](https://github.com/acidanthera/MaciASL)|![Free](symbols/free.svg "Free")|![Open-Source](symbols/open.svg "Open-Source")|
+
 
 
 ## JSON
@@ -227,3 +229,4 @@
 |[CL!ng](http://users.skynet.be/bartvanhaeren/cling/Cling/CL%21ng.html)| Getting all the information and specs about your OpenCL or Metal enabled device|[AppStore](https://apps.apple.com/app/cl-ng/id1244392031?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Knuff](https://github.com/KnuffApp/Knuff)| The debug application for Apple Push Notification Service (APNs).|[Github](https://github.com/KnuffApp/Knuff)|![Free](symbols/free.svg "Free")|![Open-Source](symbols/open.svg "Open-Source")|
 |[DevUtils app](https://devutils.app)| Offline Toolbox for Developers|[Website](https://devutils.app)|![Free](symbols/free.svg "Free")|![Open-Source](symbols/open.svg "Open-Source")|
+|[Pasteboard Viewer](https://sindresorhus.com/pasteboard-viewer)| Inspect the system pasteboards|[AppStore](https://apps.apple.com/app/pasteboard-viewer/id1499215709)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|

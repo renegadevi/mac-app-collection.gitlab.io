@@ -16,6 +16,7 @@
 |[Magic Battery Mini](https://sascha-simon.com)| Shows the battery level of supported input devices and headphones that are connected via Bluetooth.|[AppStore](https://apps.apple.com/app/magic-battery-mini/id1366903902?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Magic Battery](https://sascha-simon.com)| Shows the battery level of supported input devices and headphones that are connected via Bluetooth in the menu bar. Internal batteries are also supported.|[AppStore](https://apps.apple.com/app/magic-battery/id1240063289?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Better Battery](https://agross.at/battery2/)| Monitoring battery health|[AppStore](https://apps.apple.com/app/better-battery-2/id1455789676?mt=12)|![Freemium](symbols/freemium.svg "Freemium")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[Battery Indicator](https://sindresorhus.com/battery-indicator)| Remaining battery time in your menu bar|[AppStore](https://apps.apple.com/app/battery-indicator/id1206020918)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 
 ## Bluetooth
@@ -197,6 +198,5 @@
 |[Hocus Focus](http://hocusfoc.us/)| A Mac menu bar utility that hides your inactive windows.|[Website](http://hocusfoc.us/)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Window Focus](https://fiplab.com/apps/window-focus-for-mac)| Highlight your active window and dim the rest|[Website](https://fiplab.com/apps/window-focus-for-mac)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Contexts](https://contexts.co/)| Switch between application windows effortlessly.|[Website](https://contexts.co/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
-
-
+|[Grid](https://macgrid.app)| Snap windows by using gestures, keyboard shortcuts, dragging to corners, or menu bar.|[Website](https://macgrid.app)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 

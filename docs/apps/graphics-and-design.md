@@ -16,6 +16,8 @@
 |[Hydra](https://creaceed.com/hydra)| Pro HDR Editor for Mac. Create stunning HDR images from single or multiple exposures.|[AppStore](https://apps.apple.com/app/id1111590907?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[iMazing HEIC Converter](https://imazing.com/heic)| 100% free solution to easily convert pictures taken in the new HEIF format.|[AppStore](https://apps.apple.com/us/app/imazing-heic-converter/id1292198261?mt=12)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Paint X](https://apps.apple.com/app/paint-x-paint-draw-and-edit/id668502966?mt=12)| Classic simple painting application inspired by MS Paint.|[AppStore](https://apps.apple.com/app/paint-x-paint-draw-and-edit/id668502966?mt=12)|![Freemium](symbols/freemium.svg "Freemium")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[HyperDither](https://www.tinrocket.com/content/hyperdither/)| App that uses an color reduction (dithering) routine to turn color or grayscale images into 1-bit|[AppStore](https://apps.apple.com/app/hyperdither/id1110997147)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[Darkroom](https://darkroom.co)| Premium photo & video editor that is easy to use by casual photographers, yet powerful enough for the pros.|[AppStore](https://apps.apple.com/app/darkroom-photo-video-editor/id953286746)|![Freemium](symbols/freemium.svg "Freemium")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 
 ## Color pickers
@@ -29,6 +31,7 @@
 |[Pastel](https://www.highcaffeinecontent.com/)| Capture and collect color palettes with Pastel!|[AppStore](https://apps.apple.com/app/id413897608)|![Freemium](symbols/freemium.svg "Freemium")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Drop](http://dropyourcolor.com/)| Drop is a delightful little color picker for developers and designers.|[AppStore](https://apps.apple.com/app/drop-color-picker/id1173932628?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Kelir](http://rimbunesia.com/apps/kelir)| Unique picker with a preview which color you are selecting. Once you pick a color, any code will be available for you to paste it.|[AppStore](https://apps.apple.com/us/app/kelir/id1145215534?mt=12)|![Freemium](symbols/freemium.svg "Freemium")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+
 
 ## Fonts
 | Name ⇵ | Description ⇵ | Get it ⇵ | ⇵ | ⇵ |
@@ -44,7 +47,7 @@
 |[GifCapture](https://github.com/onmyway133/GifCapture)| Gif capture app for macOS|[Github](https://github.com/onmyway133/GifCapture)|![Free](symbols/free.svg "Free")|![Open-Source](symbols/open.svg "Open-Source")|
 |[Gifski](https://github.com/sindresorhus/Gifski)| Convert videos to high-quality GIFs on your Mac |[Github](https://github.com/sindresorhus/Gifski)|![Free](symbols/free.svg "Free")|![Open-Source](symbols/open.svg "Open-Source")|
 |[Gifox](https://gifox.io/)| Delightful GIF Recording and Sharing App|[AppStore](https://apps.apple.com/us/app/gifox-2/id1461845568?mt=12)|![Freemium](symbols/freemium.svg "Freemium")|![Closed-Source](symbols/closed.svg "Closed-Source")|
-
+|[Claquette](https://www.peakstep.com/claquette/)| GIF video tool|[AppStore](https://apps.apple.com/app/claquette-gif-video-tool/id587748131)|![Freemium](symbols/freemium.svg "Freemium")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 ## Icons
 | Name ⇵ | Description ⇵ | Get it ⇵ | ⇵ | ⇵ |
@@ -87,3 +90,4 @@
 |[Logoist](https://www.syniumsoftware.com/logoist)| Powerful Vector Design App|[AppStore](https://apps.apple.com/app/logoist-4/id1493005285?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Amadine](https://amadine.com/)| The ultimate vector graphics software for Mac|[Website](https://amadine.com/)|![Paid](symbols/freemium.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Vectormator Pro](https://www.vectornator.io/)| Intuitive vector graphic design software that empowers you to design anything you can imagine. *NOTE: It's free now, maybe not in the future*|[AppStore](https://apps.apple.com/app/vectornator-pro-vector-art/id1470168007?mt=12)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[Flinto](https://www.flinto.com)| The App Design App|[Website](https://www.flinto.com)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
