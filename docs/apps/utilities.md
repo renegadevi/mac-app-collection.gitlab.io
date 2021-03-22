@@ -72,4 +72,4 @@
 |:-------|:--------------|:--------:|:-:|:-:|
 |[Burn](https://burn-osx.sourceforge.io/)| Simple but advanced CD and DVD curner for macOS.|[Website](https://burn-osx.sourceforge.io/)|![Free](symbols/free.svg "Free")|![Open-Source](symbols/open.svg "Open-Source")|
 |[What's Open](https://apps.tempel.org/WhatsOpen/index.php)| A simple utility for MacOSX which lists the open files on a system and allows the user to kill the process that has them open.|[Website](https://apps.tempel.org/WhatsOpen/index.php)|![Free](symbols/free.svg "Free")|![Open-Source](symbols/open.svg "Open-Source")|
-
+|[ScreenSaver Start](https://sweetpproductions.com/)| Quickly start your screensaver by configuring a global hotkey|[AppStore](https://apps.apple.com/app/screensaver-start/id497280823)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|

@@ -151,7 +151,8 @@
 |[Hot](https://imazing.com/downloads)| Menu bar app that displays the CPU speed limit due to thermal issues.|[Github](https://github.com/macmade/Hot)|![Free](symbols/free.svg "Free")|![Open-Source](symbols/open.svg "Open-Source")|
 |[Go64](https://www.stclairsoft.com/)| Check to see which of your applications are "Universal Apps" and which ones need to be updated.|[Website](https://www.stclairsoft.com/Go64/)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[System Monitor](http://www.bresink.com/osx/SystemMonitor.html)| Menu bar app, designed to inform you unobtrusively about the activity of your computer.|[AppStore](https://apps.apple.com/app/system-monitor/id423368786?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
-
+|[Pluto Stats](http://www.cyaneous.com/products/pluto/index.html)| Refined system monitor|[AppStore](https://apps.apple.com/app/pluto-hud/id1544577573)|![Freemium](symbols/freemium.svg "Freemium")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[MiniUsage](http://nsek.net/SYW/software/english/miniusage/index.html)| Displays various data inside the menubar|[Website](http://nsek.net/SYW/software/english/miniusage/index.html)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 
 ## Tiling window managers
@@ -175,6 +176,7 @@
 |[iPreview](https://findergg.com)| Add support for all kinds of file types MacOS can't preview in Finder, QuickLook and Spotlight.|[AppStore](https://apps.apple.com/app/ipreview-powerful-quick-look/id1519213509?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[SlowQuitApps](https://github.com/dteoh/SlowQuitApps)| Add a global delay to Command-Q to stop accidental app quits.|[Github](https://github.com/dteoh/SlowQuitApps)|![Free](symbols/free.svg "Free")|![Open-Source](symbols/open.svg "Open-Source")|
 |[CommandQ](https://commandqapp.com/)| Never accidentally quit an app or mistakenly close a window again.|[Website](https://commandqapp.com/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[SystemLoad](http://www.bresink.com/osx/SystemLoad.html)| Put a user-definable load onto one or more processors X86/M1.|[Website](http://www.bresink.com/osx/0SystemLoad/download.php)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 ## Window layout / Snapping
 | Name ⇵ | Description ⇵ | Get it ⇵ | ⇵ | ⇵ |
@@ -199,4 +201,4 @@
 |[Window Focus](https://fiplab.com/apps/window-focus-for-mac)| Highlight your active window and dim the rest|[Website](https://fiplab.com/apps/window-focus-for-mac)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Contexts](https://contexts.co/)| Switch between application windows effortlessly.|[Website](https://contexts.co/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Grid](https://macgrid.app)| Snap windows by using gestures, keyboard shortcuts, dragging to corners, or menu bar.|[Website](https://macgrid.app)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
-
+|[Hides](https://sweetpproductions.com/)| Distraction free workspace|[AppStore](https://apps.apple.com/app/hides/id519475454)|![Padi](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|

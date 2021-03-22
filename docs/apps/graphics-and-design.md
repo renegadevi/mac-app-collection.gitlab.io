@@ -31,6 +31,7 @@
 |[Pastel](https://www.highcaffeinecontent.com/)| Capture and collect color palettes with Pastel!|[AppStore](https://apps.apple.com/app/id413897608)|![Freemium](symbols/freemium.svg "Freemium")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Drop](http://dropyourcolor.com/)| Drop is a delightful little color picker for developers and designers.|[AppStore](https://apps.apple.com/app/drop-color-picker/id1173932628?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Kelir](http://rimbunesia.com/apps/kelir)| Unique picker with a preview which color you are selecting. Once you pick a color, any code will be available for you to paste it.|[AppStore](https://apps.apple.com/us/app/kelir/id1145215534?mt=12)|![Freemium](symbols/freemium.svg "Freemium")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[ColorWell](https://sweetpproductions.com/)| Color Palette Generator|[AppStore](https://apps.apple.com/app/colorwell/id460176867)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 
 ## Fonts

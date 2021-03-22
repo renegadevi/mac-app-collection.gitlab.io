@@ -17,6 +17,7 @@
 |[Elmedia Video Player](https://www.elmedia-video-player.com/)| A can-do-it-all Mac video player with advanced streaming options.|[AppStore](https://apps.apple.com/us/app/elmedia-video-player/id1044549675?mt=12)|![Freemium](symbols/freemium.svg "Freemium")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Switch](http://www.telestream.net/switch/)| Professional Multiformat video player & encoder with inspection and correction.|[Website](http://www.telestream.net/switch/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[OmniPlayer](http://omniplayer.net/support-omniplayer.html)| Comprehensive media player for almost any video and audio format on macOS with powerful features and modern clean design.|[AppStore](https://apps.apple.com/app/omniplayer-mkv-video-player/id1470926410?mt=12)|![Freemium](symbols/freemium.svg "Freemium")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[FireStream](http://www.cyaneous.com/products/firestream/index.html)| UPnP/DLNA media server|[AppStore](https://apps.apple.com/app/firestream/id1005325119)|![Freemium](symbols/freemium.svg "Freemium")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 
 ## Screen recording / Streaming

@@ -33,6 +33,7 @@
 |[Calcbot](https://tapbots.com/calcbot/mac/)| An Intelligent Calculator and Unit Converter.|[AppStore](https://apps.apple.com/us/app/calcbot-the-smart-calculator/id931657367)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[PocketCAS](https://pocketcas.com/)| Very advanced mathematics application that helps you with any kind of math problem from elementary school to calculus, algebra and statistics.|[AppStore](https://apps.apple.com/us/app/pocketcas-mathematics-toolkit/id703006457)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[PCalc](https://www.pcalc.com/)| Powerful choice for scientists, engineers, students, programmers, or indeed anybody looking for a feature rich calculator|[AppStore](https://apps.apple.com/app/pcalc/id403504866?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[Morpho Converte‪r](https://thinktapwork.com/)| Unit and current conversions|[AppStore](https://apps.apple.com/app/id1494942612)|![Freemium](symbols/freemium.svg "Freemium")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 
 ## Clipboard managers
@@ -50,6 +51,7 @@
 |[iClip – Clipboard Manager](http://iclipapp.com/)|Keep a history of almost anything you copy, instead of only the last thing.|[AppStore](https://apps.apple.com/app/id468369783?ls=1&mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Maccy](https://maccy.app/)| Clipboard manager for macOS which does one job - keep your copy history at hand. Period.|[Website](https://maccy.app/)|![Free](symbols/free.svg "Free")|![Open-Source](symbols/open.svg "Open-Source")|
 |[CCboard](https://apps.apple.com/app/ccboard-pasteboard-tool/id1503125921?mt=12)| Simple and graphical pasteboard tool.|[AppStore](https://apps.apple.com/app/ccboard-pasteboard-tool/id1503125921?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[Cleep](https://apps.apple.com/us/developer/roberto-garcia-manzano/id1548518425)| A fast, easy-to-use and customizable clipboard manager|[AppStore](https://apps.apple.com/app/id1554997039)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 
 ## Contacts
@@ -158,6 +160,7 @@
 |[Rest Time](https://www.publicspace.net/RestTime/index.html)| Small, simple, elegant and unobtrusive break reminder.|[Website](https://www.publicspace.net/RestTime/index.html)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Flow](https://flowapp.info/)| Simple Focus & Pomodoro Timer|[AppStore](https://apps.apple.com/app/flow-pausen-und-fokus-timer/id1423210932?mt=12)|![Freemium](symbols/freemium.svg "Freemium")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Daily](https://dailytimetracking.com/)| Accurate work & hour tracker|[AppStore](https://apps.apple.com/app/daily-time-tracking/id686910553?mt=12)|![Freemium](symbols/freemium.svg "Freemium")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[Moment](https://apps.apple.com/app/moment-every-day-counts/id1509405283)| App to help you remember the most memorable days of your life.|[AppStore](https://apps.apple.com/app/moment-every-day-counts/id1509405283)|![Freemium](symbols/freemium.svg "Freemium")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 
 ## Todo / GTD / Note-taking
@@ -215,6 +218,7 @@
 |[Rename X](https://pathos-software.com)| Mac's #1 utility for renaming files. Powerful and simple|[AppStore](https://apps.apple.com/app/rename-x/id1438841416)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Raycast](https://raycast.com)| Raycast lets you control your tools with a few keystrokes.|[Website](https://raycast.com)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Shareful](https://sindresorhus.com/shareful)| Give the macOS share menu superpowers|[AppStore](https://apps.apple.com/app/id1522267256)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[Hook](https://hookproductivity.com/)| Instantly link & access information in your favorite Mac apps! |[Website](https://hookproductivity.com/)|![Freemium](symbols/freemium.svg "Freemium")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 
 ## Writing

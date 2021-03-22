@@ -34,6 +34,7 @@
 |[DaftCloud](https://daft.cloud/)| The Unofficial SoundCloud App|[AppStore](https://apps.apple.com/app/daftcloud-for-soundcloud/id1320450034?mt=12)|![Freemium](symbols/freemium.svg "Freemium")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Broadcasts](https://www.highcaffeinecontent.com/)| Listen to streaming internet radio in an ultra-simple, single-purpose app.|[AppStore](https://apps.apple.com/app/broadcasts/id1469995354)|![Freemium](symbols/freemium.svg "Freemium")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Mp3tag](https://mp3tag.app/)| The universal tag editor, powerful and easy-to-use tool to edit metadata of audio files.|[AppStore](https://apps.apple.com/app/apple-store/id1532597159?mt=8)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[Mick Tagger](https://micktagger.app/)| Music Playlist Organizer for Spotify|[AppStore](https://apps.apple.com/app/mick-tagger/id1490366427)|![Freemium](symbols/freemium.svg "Freemium")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 See [Video](video) section for multimedia players
 
@@ -50,7 +51,7 @@ See [Video](video) section for multimedia players
 |[FuzzMeasure](https://www.rodetest.com/)| Powerful Audio and Acoustic Measurements, by RØDE|[Website](https://www.rodetest.com/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Scrobbles for Last.fm](https://sascha-simon.com)| Brings the music network Last.fm to your Mac! The app offers both Last.fm statistics and iTunes scrobbling.|[AppStore](https://apps.apple.com/app/scrobbles-for-last-fm/id1344679160?mt=12)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[waveSDR](http://www.getoffmyhack.com/waveSDR/)| A macOS native desktop Software Defined Radio application using the RTL-SDR USB device.|[Website](http://www.getoffmyhack.com/waveSDR/)|![Free](symbols/free.svg "Free")|![Open-Source](symbols/open.svg "Open-Source")|
-
+|[Breakaway](https://frozencrate.com/breakaway)| Automatically pause your music when unplugging headphones|[AppStore](https://apps.apple.com/app/breakaway-3/id1527622417)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 ##  Podcasting
 | Name ⇵ | Description ⇵ | Get it ⇵ | ⇵ | ⇵ |
