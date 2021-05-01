@@ -70,7 +70,7 @@
 |[Secure Pipes](https://www.opoet.com/pyro/index.php)| Private and secure connectivity for OS X clients and servers.|[Website](https://www.opoet.com/pyro/index.php)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[SSH Config Editor](https://www.hejki.org/ssheditor/)| Manage your SSH client configuration file in a smart and efficient way|[AppStore](https://apps.apple.com/app/apple-store/id1109319285)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Secretive](https://github.com/maxgoedjen/secretive#secretive--)| App for storing and managing SSH keys in the Secure Enclave|[Github](https://github.com/maxgoedjen/secretive#secretive--)|![Free](symbols/free.svg "Free")|![Open-Source](symbols/open.svg "Open-Source")|
-
+|[Switch](https://code4you.one/switch/)| Manage your shell commands in a shortcut menu|[Website](https://code4you.one/switch/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 ## VPN
 | Name ⇵ | Description ⇵ | Get it ⇵ | ⇵ | ⇵ |

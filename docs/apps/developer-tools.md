@@ -139,7 +139,7 @@
 | Name ⇵ | Description ⇵ | Get it ⇵ | ⇵ | ⇵ |
 |:-------|:--------------|:--------:|:-:|:-:|
 |[Sim Genie](https://simgenie.app/)| Turbo-charge your workflow. Xcode’s simulator can do so much more.|[Website](https://simgenie.app/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
-
+|[Patchman](https://github.com/PraneetNeuro/Patchman)| A macOS application to test APIs with HTTP methods|[GitHub](https://github.com/PraneetNeuro/Patchman)|![Free](symbols/free.svg "Free")|![Open-Source](symbols/open.svg "Open-Source")|
 
 ## Text editors
 | Name ⇵ | Description ⇵ | Get it ⇵ | ⇵ | ⇵ |
@@ -159,6 +159,7 @@
 |[XCOrganizer](https://xcorganizer.com/)| Using metadata it finds all your Xcode Projects, Xcode Workspaces, Swift Playgrounds and Swift Packages in seconds.|[AppStore](https://apps.apple.com/us/app/xcorganizer/id1507556912?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[PENcode](https://pencode.alecoconnor.com/)| Encode and decode strings with ease! PenTesting is hard enough as it is.|[AppStore](https://apps.apple.com/app/pencode/id1519532970?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Yttrium](https://www.yttrium.app/)| Powerful node-based user interface. Use various nodes to create complex AR/3D-scenes.|[AppStore](https://apps.apple.com/app/yttrium/id1480253775)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[Keewordz](https://keewordz.app/)| Track your iPhone and Mac Apps Keyword Rankings right from your Mac.|[AppStore](https://apps.apple.com/app/keewordz-effective-aso/id1556890496)|![Freem](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 
 ## Translation

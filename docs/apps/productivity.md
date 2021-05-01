@@ -8,9 +8,9 @@
 |[WarRoom](https://warroom.calvatronics.com/)| Lightweight but powerful document review tool for litigation support. Designed for attorneys and litigation support professionals.|[AppStore](https://apps.apple.com/us/app/warroom/id485185814?mt=12)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Debit & Credit](https://debitandcredit.app/)| Personal Finance Manager|[AppStore](https://apps.apple.com/app/debit-credit-personal-finance/id882637653?mt=12)|![Freemium](symbols/freemium.svg "Freemium")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Walletry](https://walletry.fantazia.app)| Track Your Daily Expenses|[AppStore](https://apps.apple.com/app/walletry/id1511250212)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[Moneyboard](https://www.moneyboardapp.com/)| Budget Planner, Spending Tracker, Money Saving.|[AppStore](https://apps.apple.com/app/id1519053867)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
-
-## Calendar
+## Calendar and Time
 | Name ⇵ | Description ⇵ | Get it ⇵ | ⇵ | ⇵ |
 |:-------|:--------------|:--------:|:-:|:-:|
 |[Calendarique](https://www.imagetasks.com/calendar-widget-for-osx/)| Calendar for Desktop, Notification Center and Menu Bar.|[AppStore](https://apps.apple.com/us/app/calendarique/id1040634920?ls=1&mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
@@ -25,6 +25,7 @@
 |[TheClock](https://www.seense.com/the_clock/)| The Best World Clock|[AppStore](https://apps.apple.com/app/the-clock/id488764545?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Class Timetable](https://classtimetable.app)| Keep track of classes and add events to your week's schedule with ease.|[AppStore](https://apps.apple.com/app/class-timetable-schedule-app/id425121147)|![Freemium](symbols/freemium.svg "Freemium")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Just Calendar](http://kuzmenko.info/justcalendar/)| Super simple calendar widgets|[AppStore](https://apps.apple.com/app/just-calendar/id934523970)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[UTC Time](https://sindresorhus.com/utc-time)| Show time in menu bar & widget|[AppStore](https://apps.apple.com/app/id1538245904)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 
 ## Calculators
@@ -247,6 +248,7 @@
 |[Typinator](https://www.ergonis.com/products/typinator/)| Fastest text-expander for the Mac.|[Website](https://www.ergonis.com/products/typinator/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[TypeIt4Me](https://www.ettoresoftware.com/)| The original text-expander for the Mac. Save time and effort. Type more with fewer keystrokes.|[AppStore](https://apps.apple.com/se/app/typeit4me/id412141729?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[aText](https://www.trankynam.com/atext/)| Accelerate your typing anywhere by replacing abbreviations with frequently used defined phrases.|[AppStore](https://apps.apple.com/app/atext/id488566438?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[Exporter](http://falcon.star-lord.me/exporter/)| Export notes from Notes app|[AppStore](https://apps.apple.com/app/exporter/id1099120373)|![Freemium](symbols/freemium.svg "Freemium")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 ## Other
 | Name ⇵ | Description ⇵ | Get it ⇵ | ⇵ | ⇵ |

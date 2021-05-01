@@ -44,7 +44,7 @@
 |[Hand Mirror](https://handmirror.app/)| Check yo face from the menubar|[AppStore](https://apps.apple.com/us/app/hand-mirror/id1502839586?mt=12)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Clocker](https://abhishekbanthia.com/clocker/)| Clocker is designed to help you keep track of your friends and colleagues in different time zones.|[AppStore](https://apps.apple.com/us/app/clocker-menubar-world-clock/id1056643111?ls=1&mt=12)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Jettison](https://stclairsoft.com/Jettison/)| Eliminates the hassle of ejecting external drives before you put your MacBook to sleep.|[Website](https://stclairsoft.com/Jettison/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
-
+|[Ejectify](https://ejectify.app/)| Automatically mounts and unmounts external disks.|[Website](https://ejectify.app/)|![Paid](symbols/paid.svg "Paid")|![Open-Source](symbols/open.svg "Open-Source")|
 
 
 ## Touch bar
