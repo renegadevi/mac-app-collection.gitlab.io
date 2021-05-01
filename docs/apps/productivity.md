@@ -249,6 +249,7 @@
 |[TypeIt4Me](https://www.ettoresoftware.com/)| The original text-expander for the Mac. Save time and effort. Type more with fewer keystrokes.|[AppStore](https://apps.apple.com/se/app/typeit4me/id412141729?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[aText](https://www.trankynam.com/atext/)| Accelerate your typing anywhere by replacing abbreviations with frequently used defined phrases.|[AppStore](https://apps.apple.com/app/atext/id488566438?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Exporter](http://falcon.star-lord.me/exporter/)| Export notes from Notes app|[AppStore](https://apps.apple.com/app/exporter/id1099120373)|![Freemium](symbols/freemium.svg "Freemium")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[Uniview](https://tague.me/uniview/)| Character Inspector makes checking Unicode text a breeze!|[AppStore](https://apps.apple.com/app/uniview-character-inspector/id1562921229)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 ## Other
 | Name ⇵ | Description ⇵ | Get it ⇵ | ⇵ | ⇵ |
