@@ -77,8 +77,10 @@ $(document).ready(function () {
             $("#filter_subscription").prop("checked", false);
             $("#filter_advertising").prop("checked", false);
             $("#filter_free").prop("checked", false);
+            /*
             $("#filter_open_source").prop("checked", false);
             $("#filter_closed_source").prop("checked", false);
+            */
             document.getElementById("filter-dropdown").classList.remove("show");
         }
     }, 1);
@@ -101,11 +103,11 @@ $(document).ready(function () {
     $(document.body).on('change', "#filter_free", function () {
         $("table tr img[alt='Free']").closest("tr").toggle();
     });
-    $(document.body).on('change', "#filter_open_source", function () {
+    /*$(document.body).on('change', "#filter_open_source", function () {
         $("table tr img[alt='Open-Source']").closest("tr").toggle();
     });
     $(document.body).on('change', "#filter_closed_source", function () {
         $("table tr img[alt='Closed-Source']").closest("tr").toggle();
-    });
+    });*/
 
 });
