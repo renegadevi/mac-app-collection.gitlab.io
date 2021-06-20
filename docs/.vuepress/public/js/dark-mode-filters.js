@@ -89,7 +89,7 @@ $(document).ready(function () {
         $("table tr img[alt='Paid']").closest("tr").toggle();
     });
     $(document.body).on('change', "#filter_paid_inapp", function () {
-        $("table tr img[alt='Paid In-app']").closest("tr").toggle();
+        $("table tr img[alt='Paid-Inapp']").closest("tr").toggle();
     });
     $(document.body).on('change', "#filter_freemium", function () {
         $("table tr img[alt='Freemium']").closest("tr").toggle();
