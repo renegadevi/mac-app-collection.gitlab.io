@@ -52,6 +52,7 @@
           <div id="filter-dropdown" class="filter-dropdown-content">
             <form class="filter">
               <label class="label" for="filter_paid"><div class="toggle"><input id="filter_paid" type="checkbox"><div class="indicator"></div></div><div class="label-text">Paid</div></label><br>
+              <label class="label" for="filter_paid"><div class="toggle"><input id="filter_paid_inapp" type="checkbox"><div class="indicator"></div></div><div class="label-text">Paid In-app</div></label><br>
               <label class="label" for="filter_freemium"><div class="toggle"><input id="filter_freemium" type="checkbox"><div class="indicator"></div></div><div class="label-text">Freemium</div></label><br>
               <label class="label" for="filter_subscription"><div class="toggle"><input id="filter_subscription" type="checkbox"><div class="indicator"></div></div><div class="label-text">Subscription</div></label><br>
               <label class="label" for="filter_advertising"><div class="toggle"><input id="filter_advertising" type="checkbox"><div class="indicator"></div></div><div class="label-text">Advertising</div></label><br>
