@@ -17,7 +17,7 @@
 |[Magic Battery](https://sascha-simon.com)| Shows the battery level of supported input devices and headphones that are connected via Bluetooth in the menu bar. Internal batteries are also supported.|[AppStore](https://apps.apple.com/app/magic-battery/id1240063289?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Better Battery](https://agross.at/battery2/)| Monitoring battery health|[AppStore](https://apps.apple.com/app/better-battery-2/id1455789676?mt=12)|![Freemium](symbols/freemium.svg "Freemium")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Battery Indicator](https://sindresorhus.com/battery-indicator)| Remaining battery time in your menu bar|[AppStore](https://apps.apple.com/app/battery-indicator/id1206020918)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
-
+|[AlDente](https://apphousekitchen.com/)| All-In-One Charging Manager For MacBooks. Limit maximum charging percentage to preseve battery life.|[Website](https://apphousekitchen.com/)|![Freemium](symbols/freemium.svg "Freemium")|![Open-Source](symbols/open.svg "Open-Source")|
 
 ## Bluetooth
 | Name ⇵ | Description ⇵ | Get it ⇵ | ⇵ | ⇵ |
@@ -52,7 +52,8 @@
 |[RapidRes](https://apps.apple.com/app/rapidres/id1329898474)| This allows to change the display resolution from the title bar.|[AppStore](https://apps.apple.com/app/rapidres/id1329898474)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[RDM](https://github.com/avibrazil/RDM)| Enable and use highest and unsupported resolutions from the menu bar.|[Github](https://github.com/avibrazil/RDM)|![Free](symbols/free.svg "Free")|![Open-Source](symbols/open.svg "Open-Source")|
 |[Lunar](https://lunar.fyi/)| Intelligent adaptive brightness for your external display|[Website](https://lunar.fyi/)|![Free](symbols/free.svg "Free")|![Open-Source](symbols/open.svg "Open-Source")|
-
+|[Blackout](https://www.dominicrodemer.com/)| Black out external displays with a single click!|[AppStore](https://apps.apple.com/app/blackout-display-manager/id1378187468)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[Lunar](https://lunar.fyi/)| Intelligent adaptive brightness for your external display|[Website](https://lunar.fyi/)|![Freemium](symbols/freemium.svg "Freemium")|![Open-Source](symbols/open.svg "Open-Source")|
 
 ## File system / Drive info
 | Name ⇵ | Description ⇵ | Get it ⇵ | ⇵ | ⇵ |
@@ -66,7 +67,7 @@
 |[AutoMounter](https://www.pixeleyes.co.nz/automounter/)| AutoMounter ensures that your shares are always mounted when you need them.|[AppStore](https://apps.apple.com/us/app/automounter/id1160435653?ls=1&mt=12)|![Freemium](symbols/freemium.svg "Freemium")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Drive Scope](https://www.micromat.com/products/drive-scope/)| S.M.A.R.T. Tool for Macintosh|[Website](https://www.micromat.com/products/drive-scope/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[DriveDx](https://binaryfruit.com/drivedx)| Drive health diagnostic & monitoring tool|[Website](https://binaryfruit.com/drivedx)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
-
+|[CloudMounter](https://cloudmounter.net/)| Map all popular cloud services as regular drives |[AppStore](https://apps.apple.com/app/cloudmounter-cloud-encryption/id1130254674)|![Freemium](symbols/freemium.svg "Freemium")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 ## Keyboard
 | Name ⇵ | Description ⇵ | Get it ⇵ | ⇵ | ⇵ |
@@ -114,6 +115,7 @@
 |[Scrollow](https://apps.apple.com/app/scrollow/id1530219633?mt=12)| Control various system parameters and issue control events without touching function keys or using Touch Bar.|[AppStore](https://apps.apple.com/app/scrollow/id1530219633?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Noo mouse](https://github.com/tanin47/noo)| Map mouse buttons and multi-touch gestures to any combination of keys.|[AppStore](https://apps.apple.com/app/noo-mouse/id1514904040?mt=12)|![Free](symbols/free.svg "Free")|![Open-Source](symbols/open.svg "Open-Source")|
 |[Inifnite Loop](https://apps.apple.com/se/developer/xiang-he/id1278994432)| Move your mouse cursor from the right border of your screen to the left-border and vice-versa.|[AppStore](https://apps.apple.com/app/infinite-loop/id1448127487?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[magicScrollWheel](https://github.com/onmotion/magicScrollWheel)| Scroll your macOS with mouse smoothly like using a Magic mouse or Trackpad.|[Github](https://github.com/onmotion/magicScrollWheel)|![Free](symbols/free.svg "Free")|![Open-Source](symbols/open.svg "Open-Source")|
 
 ## Notification Center
 | Name ⇵ | Description ⇵ | Get it ⇵ | ⇵ | ⇵ |
@@ -160,7 +162,8 @@
 |[MiniUsage](http://nsek.net/SYW/software/english/miniusage/index.html)| Displays various data inside the menubar|[Website](http://nsek.net/SYW/software/english/miniusage/index.html)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[CPU Stress Test](https://www.tunabellysoftware.com/cpu_stress_test/)| One click testing for Intel & Apple Silicon CPUs|[Website](https://www.tunabellysoftware.com/cpu_stress_test/)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[TG Pro](https://www.tunabellysoftware.com/tgpro/)| Temperature monitoring, fan control & diagnostics|[Website](https://www.tunabellysoftware.com/tgpro/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
-
+|[Eul](https://github.com/gao-sun/eul)| macOS status monitoring app written in SwiftUI.|[AppStore](https://apps.apple.com/app/eul/id1537133867)|![Free](symbols/free.svg "Free")|![Open-Source](symbols/open.svg "Open-Source")|
+|[RunCat](https://kyome.io/runcat/index.html?lang=en)| You can see how much the current CPU usage is by looking at the running of the cat.|[AppStore](https://apps.apple.com/app/runcat/id1429033973?l=en&mt=12)|![Freemium](symbols/freemium.svg "Freemium")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 
 ## Tiling window managers
@@ -195,7 +198,7 @@
 |[Mosaic (by lightpillar)](https://www.lightpillar.com/mosaic.html)| Effortlessly resize and re-position windows on your Mac.|[Website](https://www.lightpillar.com/mosaic.html)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Mosaic (by rcopstein)](https://mosaic.rcopstein.com)| Workspace organization for your Mac like never before|[Website](https://mosaic.rcopstein.com)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Hookshot](https://hookshot.app/)| Cursor movement window snapping on macOS|[Website](https://hookshot.app/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
-
+|[Window Tindy](https://www.lightpillar.com/window-tidy.html)| Resize windows in macOS with Drag & Drop|[AppStore](https://apps.apple.com/app/window-tidy/id456609775?ls=1&mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 ## Window management
 | Name ⇵ | Description ⇵ | Get it ⇵ | ⇵ | ⇵ |
@@ -212,3 +215,5 @@
 |[Hides](https://sweetpproductions.com/)| Distraction free workspace|[AppStore](https://apps.apple.com/app/hides/id519475454)|![Padi](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Manico](https://manico.im/)| Using Option + Number key to launch or switch to the target app in an extremely fast speed!|[AppStore](https://apps.apple.com/app/manico/id724472954?mt=12)|![Freemium](symbols/freemium.svg "Freemium")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[UnDistracted](https://noteifyapp.com/undistracted-self-control-2/)| Menu-bar app which blocks Distractions and helps you find your Focus|[Website](https://noteifyapp.com/undistracted-self-control-2/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[All Windows Appear](https://www.ixeau.com/all-windows-appear/)| Classic Mac OS window behavior|[AppStore](https://apps.apple.com/app/all-windows-appear/id1494564769?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[Switch for MacOS](https://get-switch.app/)| Keyboard-driven commands to better navigate your mac apps|[Website](https://get-switch.app/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|

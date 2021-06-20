@@ -47,6 +47,7 @@
 |[Jettison](https://stclairsoft.com/Jettison/)| Eliminates the hassle of ejecting external drives before you put your MacBook to sleep.|[Website](https://stclairsoft.com/Jettison/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Ejectify](https://ejectify.app/)| Automatically mounts and unmounts external disks.|[Website](https://ejectify.app/)|![Paid](symbols/paid.svg "Paid")|![Open-Source](symbols/open.svg "Open-Source")|
 |[Barbee](https://apps.apple.com/us/developer/xiang-he/id1278994432)| Take control of your menu bar, hide menu bar items|[AppStore](https://apps.apple.com/app/barbee-hide-menu-bar-items/id1548711022)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[Recent Menu](https://cherpake.com/recent-menu/)| Recent Menu shows all recently used menu actions with their keyboard shortcuts in the menu bar.|[Website](https://cherpake.com/recent-menu/)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 
 ## Touch bar

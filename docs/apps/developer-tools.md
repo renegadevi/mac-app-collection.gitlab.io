@@ -98,7 +98,11 @@
 |[Hex Fiend](https://ridiculousfish.com/hexfiend/)| Hex Fiend is a fast, lean, and powerful hex editor built just for the Mac.|[AppStore](https://apps.apple.com/us/app/hex-fiend/id1342896380?mt=12)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Synalyze It! Pro](https://www.synalysis.net/)| Binary File Analysis made easy|[AppStore](https://apps.apple.com/app/synalyze-it-pro/id475193367)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
-
+## Monitoring
+| Name ⇵ | Description ⇵ | Get it ⇵ | ⇵ | ⇵ |
+|:-------|:--------------|:--------:|:-:|:-:|
+|[Simon](https://www.dejal.com/simon/)| Essential site monitoring tool for macOS. It checks servers for changes or failures and notifies you.|[Website](https://www.dejal.com/simon/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[Website Watchman](https://peacockmedia.software/mac/watchman/)| Monitor, archive, go back in time.|[Website](https://peacockmedia.software/mac/watchman/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 ## Plist (XML)
 | Name ⇵ | Description ⇵ | Get it ⇵ | ⇵ | ⇵ |
@@ -125,11 +129,6 @@
 |[Expressions](https://www.apptorium.com/expressions)| An app to play with regular expressions. Easily and nicely. |[AppStore](https://apps.apple.com/us/app/expressions/id913158085?ls=1&mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[RegExp](https://loshadki.app/regexp/)| Testing regular expressions in native flavours (Go, Swift, JavaSciprt, POSIX)|[AppStore](https://apps.apple.com/app/regexp/id1546140065?mt=12)|![Freemium](symbols/freemium.svg "Freemium")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
-
-## Server monitoring
-| Name ⇵ | Description ⇵ | Get it ⇵ | ⇵ | ⇵ |
-|:-------|:--------------|:--------:|:-:|:-:|
-|[Simon](https://www.dejal.com/simon/)| Essential site monitoring tool for macOS. It checks servers for changes or failures and notifies you.|[Website](https://www.dejal.com/simon/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 ## Snippet managers
 | Name ⇵ | Description ⇵ | Get it ⇵ | ⇵ | ⇵ |

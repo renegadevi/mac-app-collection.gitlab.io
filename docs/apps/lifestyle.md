@@ -1,5 +1,11 @@
 # Lifestyle
 
+## Listening
+| Name ⇵ | Description ⇵ | Get it ⇵ | ⇵ | ⇵ |
+|:-------|:--------------|:--------:|:-:|:-:|
+|[Dark Noise](https://darknoise.app/)| Dark Noise is a simple yet powerful way to play ambient noise to help you sleep, focus, or relax.|[AppStore](https://apps.apple.com/app/dark-noise/id1465439395)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+
+
 ## News readers / RSS
 | Name ⇵ | Description ⇵ | Get it ⇵ | ⇵ | ⇵ |
 |:-------|:--------------|:--------:|:-:|:-:|
