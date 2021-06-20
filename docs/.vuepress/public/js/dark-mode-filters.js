@@ -72,6 +72,7 @@ $(document).ready(function () {
             currentPage = location.href.split('#')[0];
             //window.location.reload(true);
             $("#filter_paid").prop("checked", false);
+            $("#filter_paid_inapp").prop("checked", false);
             $("#filter_freemium").prop("checked", false);
             $("#filter_subscription").prop("checked", false);
             $("#filter_advertising").prop("checked", false);
@@ -84,6 +85,9 @@ $(document).ready(function () {
 
     $(document.body).on('change', "#filter_paid", function () {
         $("table tr img[alt='Paid']").closest("tr").toggle();
+    });
+    $(document.body).on('change', "#filter_paid_inapp", function () {
+        $("table tr img[alt='Paid In-app']").closest("tr").toggle();
     });
     $(document.body).on('change', "#filter_freemium", function () {
         $("table tr img[alt='Freemium']").closest("tr").toggle();

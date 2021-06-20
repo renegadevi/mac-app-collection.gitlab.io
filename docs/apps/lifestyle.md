@@ -20,6 +20,7 @@
 |[Posterino](http://www.zykloid.com/posterino)| A photo collage in minutes|[AppStore](https://apps.apple.com/us/app/posterino-3/id945991770?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Observatory](https://codeobsession.com/observatory/)| Your personal astronomical image library|[AppStore](https://apps.apple.com/app/observatory/id1037215068?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[PhotInfo NG](https://qebapps.wordpress.com/photinfo-ng)| View Exif Tags|[AppStore](https://apps.apple.com/app/photinfo-ng/id1458213145)|![Freemium](symbols/freemium.svg "Freemium")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[AstroDSLR](https://www.cloudmakers.eu/astrodslr/)| Front end for imaging and auxiliary devices INDIGO agents with GUI controls for DSLRs|[AppStore](https://apps.apple.com/app/astrodslr/id1111955128)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 
 ## Reading
@@ -45,8 +46,14 @@
 |:-------|:--------------|:--------:|:-:|:-:|
 |[LookUp](http://squircleapps.com/tangible/lookup/)| A beautiful and fun way to learn new words.|[AppStore](https://apps.apple.com/app/lookup-english-dictionary/id1476163639?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
+## Tracking
+| Name ⇵ | Description ⇵ | Get it ⇵ | ⇵ | ⇵ |
+|:-------|:--------------|:--------:|:-:|:-:|
+|[Parcel](https://parcelapp.net/)| Track your packages from more than for 300 delivery services|[AppStore](https://apps.apple.com/app/parcel/id639968404)|![Freemium](symbols/freemium.svg "Freemium")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[Deliveries](https://junecloud.com/software/iphone/deliveries.html)| Deliveries helps you keep track of all your packages|[AppStore](https://apps.apple.com/app/deliveries-a-package-tracker/id290986013)|![Freemium](symbols/freemium.svg "Freemium")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 ## Other
 | Name ⇵ | Description ⇵ | Get it ⇵ | ⇵ | ⇵ |
 |:-------|:--------------|:--------:|:-:|:-:|
 |[Book Track](https://simonemontalto.com/projects/book-track/)| Catalog and track your books|[AppStore](https://apps.apple.com/app/book-track-library-manager/id1496543317?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[MacDoppler](https://www.dogparksoftware.com/MacDoppler.html)| Ham Radio Satellite Tracking Software|[Website](https://www.dogparksoftware.com/MacDoppler.html)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|

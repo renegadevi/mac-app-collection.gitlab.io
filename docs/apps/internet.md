@@ -16,7 +16,7 @@
 |[ViperFTP](https://viperftp.com/)| Simple, user-friendly yet powerful FTP client for Mac|[AppStore](https://apps.apple.com/us/app/viper-ftp/id995745423)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Dropshare](https://dropshare.app/)| Meet the most flexible file sharing solution for macOS & iOS.|[Website](https://dropshare.app/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Transfer](https://www.intuitibits.com/products/transfer/)| A modern and reliable TFTP server for your Mac.|[Website](https://www.intuitibits.com/products/transfer/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
-
+|[NFS Manager](http://www.bresink.com/osx/NFSManager.html)| Control NFS built into macOS via a comfortable graphical user interface.|[Website](http://www.bresink.com/osx/NFSManager.html)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 ## Network monitoring
 | Name ⇵ | Description ⇵ | Get it ⇵ | ⇵ | ⇵ |
@@ -42,7 +42,7 @@
 |[Surge](https://nssurge.com/)| Advanced Network Toolbox for Mac & iOS|[Website](https://nssurge.com/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Cookie](https://cookieapp.com/)| Designed to run invisibly in the background - you can rest easy knowing that advertisers and marketers aren't tracking your every click.|[AppStore](https://apps.apple.com/us/app/cookie/id1473091386?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Network Kit X](https://doublerew.net/os-x/network-utility-x/)| Keep under control your network with an user friendly set of network tool that will help you to analyze your LAN and notification center widget.|[AppStore](https://apps.apple.com/us/app/network-kit-x/id979299240?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
-|[Bandwidth+](https://apps.apple.com/app/bandwidth/id490461369?mt=12)| Track your Wi-Fi hotspot usage.|[AppStore](https://apps.apple.com/app/bandwidth/id490461369?mt=12)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[Bandwidth+](https://apps.apple.com/app/bandwidth/id490461369?mt=12)| Track your Wi-Fi hotspot usage|[AppStore](https://apps.apple.com/app/bandwidth/id490461369?mt=12)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[PingDoctor](https://apps.apple.com/app/pingdoctor/id1350044974)| Powerful graphical traceroute|[AppStore](https://apps.apple.com/app/pingdoctor/id1350044974)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Airtool](https://www.intuitibits.com/products/airtool/)| Capture Wi-Fi traffic like a Pro|[Website](https://www.intuitibits.com/products/airtool/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Wifi Explorer](https://www.intuitibits.com/products/wifi-explorer/)| Scan, monitor and troubleshoot wireless networks using your Mac's built-in Wi-Fi adapter.|[AppStore](https://apps.apple.com/us/app/wifi-explorer/id494803304?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
@@ -51,7 +51,8 @@
 |[Passport](http://www.ermitacode.com/passport.html)| Authentication services for secure network access|[AppStore](https://apps.apple.com/app/passport/id1333982408?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[IperfUtil](http://www.ermitacode.com/iperfutil.html)| Simple and native macOS graphical interface for the Iperf3 performance test tool.|[AppStore](https://apps.apple.com/app/iperfutil/id1033018345?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Dot1xProfile](http://www.ermitacode.com/dot1xprofile.html)| Generate 802.1x network authentication profiles|[AppStore](https://apps.apple.com/app/dot1xprofile/id1048395457?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
-
+|[WiFiSpoof](https://wifispoof.com/)| Quickly and easily change your computer's MAC address|[AppStore](https://apps.apple.com/app/wifispoof/id1192126677)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[Snail](https://www.murusfirewall.com/snail/)| Throttle apps bandwidth|[Website](https://www.murusfirewall.com/snail/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 ## Remote control
 | Name ⇵ | Description ⇵ | Get it ⇵ | ⇵ | ⇵ |

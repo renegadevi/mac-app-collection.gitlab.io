@@ -51,9 +51,10 @@
 |[EasyRes](http://easyresapp.com/)| A fast screen resolution switcher for Mac OS X with live previews.|[AppStore](https://apps.apple.com/app/easyres/id688211836?ls=1&mt=12)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[RapidRes](https://apps.apple.com/app/rapidres/id1329898474)| This allows to change the display resolution from the title bar.|[AppStore](https://apps.apple.com/app/rapidres/id1329898474)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[RDM](https://github.com/avibrazil/RDM)| Enable and use highest and unsupported resolutions from the menu bar.|[Github](https://github.com/avibrazil/RDM)|![Free](symbols/free.svg "Free")|![Open-Source](symbols/open.svg "Open-Source")|
+|[Lunar](https://lunar.fyi/)| Intelligent adaptive brightness for your external display|[Website](https://lunar.fyi/)|![Free](symbols/free.svg "Free")|![Open-Source](symbols/open.svg "Open-Source")|
 
 
-## File system / Drivers
+## File system / Drive info
 | Name ⇵ | Description ⇵ | Get it ⇵ | ⇵ | ⇵ |
 |:-------|:--------------|:--------:|:-:|:-:|
 |[FUSE for MacOS](https://osxfuse.github.io/)| FUSE extends macOS by adding support for user space file systems|[Website](https://osxfuse.github.io/)|![Free](symbols/free.svg "Free")|![Open-Source](symbols/open.svg "Open-Source")|
@@ -63,6 +64,8 @@
 |[Blue Harvest](https://apps.apple.com/us/app/blueharvest/id739483376?mt=12)| BlueHarvest keeps your devices free of macOS and Windows metadata such as ._ files, .DS_Store files, .Trashes, Thumbs.db, Desktop.ini and $RECYCLE.BIN etc.|[AppStore](https://apps.apple.com/us/app/blueharvest/id739483376?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Microsoft NTFS by Tuxera](https://www.tuxera.com/products/tuxera-ntfs-for-mac/)| Get reliable read-write compatibility for all NTFS-formatted USB drives|[Website](https://www.tuxera.com/products/tuxera-ntfs-for-mac/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[AutoMounter](https://www.pixeleyes.co.nz/automounter/)| AutoMounter ensures that your shares are always mounted when you need them.|[AppStore](https://apps.apple.com/us/app/automounter/id1160435653?ls=1&mt=12)|![Freemium](symbols/freemium.svg "Freemium")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[Drive Scope](https://www.micromat.com/products/drive-scope/)| S.M.A.R.T. Tool for Macintosh|[Website](https://www.micromat.com/products/drive-scope/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[DriveDx](https://binaryfruit.com/drivedx)| Drive health diagnostic & monitoring tool|[Website](https://binaryfruit.com/drivedx)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 
 ## Keyboard
@@ -90,6 +93,8 @@
 |[Launch Services](https://apps.tempel.org/LaunchServices/index.php)| Uses the macOS Launch Services API to perform lookups of bundle IDs and file extensions.|[Website](https://apps.tempel.org/LaunchServices/index.php#download)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Disk Space Analyzer](https://nektony.com/disk-expert)| A powerful disk usage scanning and reporting utility for Mac.|[AppStore](https://apps.apple.com/app/disk-space-analyzer-pro/id488920185)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[DiskSight](https://www.imagetasks.com)| Visualize your drive or folder|[AppStore](https://apps.apple.com/app/disksight/id1485505524?mt=12)|![Paid](symbols/freemium.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[GrandPerspective](http://grandperspectiv.sourceforge.net/)| Graphically show the disk usage within a file system|[AppStore](https://apps.apple.com/app/grandperspective/id1111570163)|![Paid](symbols/paid.svg "Paid")|![Open-Source](symbols/open.svg "Open-Source")|
+|[WhatSize](https://www.whatsizemac.com/)| View and manage disk usage|[Website](https://www.whatsizemac.com/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 
 ## Mouse / Trackpad
@@ -108,7 +113,7 @@
 |[Scroll reverse](https://pilotmoon.com/scrollreverser/)| Reverse the direction of scrolling, with independent settings for trackpads and mice.|[Website](https://pilotmoon.com/scrollreverser/)|![Free](symbols/free.svg "Free")|![Open-Source](symbols/open.svg "Open-Source")|
 |[Scrollow](https://apps.apple.com/app/scrollow/id1530219633?mt=12)| Control various system parameters and issue control events without touching function keys or using Touch Bar.|[AppStore](https://apps.apple.com/app/scrollow/id1530219633?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Noo mouse](https://github.com/tanin47/noo)| Map mouse buttons and multi-touch gestures to any combination of keys.|[AppStore](https://apps.apple.com/app/noo-mouse/id1514904040?mt=12)|![Free](symbols/free.svg "Free")|![Open-Source](symbols/open.svg "Open-Source")|
-
+|[Inifnite Loop](https://apps.apple.com/se/developer/xiang-he/id1278994432)| Move your mouse cursor from the right border of your screen to the left-border and vice-versa.|[AppStore](https://apps.apple.com/app/infinite-loop/id1448127487?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 ## Notification Center
 | Name ⇵ | Description ⇵ | Get it ⇵ | ⇵ | ⇵ |
@@ -153,6 +158,9 @@
 |[System Monitor](http://www.bresink.com/osx/SystemMonitor.html)| Menu bar app, designed to inform you unobtrusively about the activity of your computer.|[AppStore](https://apps.apple.com/app/system-monitor/id423368786?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Pluto Stats](http://www.cyaneous.com/products/pluto/index.html)| Refined system monitor|[AppStore](https://apps.apple.com/app/pluto-hud/id1544577573)|![Freemium](symbols/freemium.svg "Freemium")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[MiniUsage](http://nsek.net/SYW/software/english/miniusage/index.html)| Displays various data inside the menubar|[Website](http://nsek.net/SYW/software/english/miniusage/index.html)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[CPU Stress Test](https://www.tunabellysoftware.com/cpu_stress_test/)| One click testing for Intel & Apple Silicon CPUs|[Website](https://www.tunabellysoftware.com/cpu_stress_test/)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[TG Pro](https://www.tunabellysoftware.com/tgpro/)| Temperature monitoring, fan control & diagnostics|[Website](https://www.tunabellysoftware.com/tgpro/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+
 
 
 ## Tiling window managers
@@ -202,3 +210,5 @@
 |[Contexts](https://contexts.co/)| Switch between application windows effortlessly.|[Website](https://contexts.co/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Grid](https://macgrid.app)| Snap windows by using gestures, keyboard shortcuts, dragging to corners, or menu bar.|[Website](https://macgrid.app)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Hides](https://sweetpproductions.com/)| Distraction free workspace|[AppStore](https://apps.apple.com/app/hides/id519475454)|![Padi](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[Manico](https://manico.im/)| Using Option + Number key to launch or switch to the target app in an extremely fast speed!|[AppStore](https://apps.apple.com/app/manico/id724472954?mt=12)|![Freemium](symbols/freemium.svg "Freemium")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[UnDistracted](https://noteifyapp.com/undistracted-self-control-2/)| Menu-bar app which blocks Distractions and helps you find your Focus|[Website](https://noteifyapp.com/undistracted-self-control-2/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|

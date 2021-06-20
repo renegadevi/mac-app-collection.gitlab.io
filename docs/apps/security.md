@@ -19,6 +19,9 @@
 |[LittleSnitch](https://www.obdev.at/products/littlesnitch/)| Application-based interactive firewall for outgoing and incoming connections with a network monitor.|[Website](https://www.obdev.at/products/littlesnitch/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[RadioSilence](https://radiosilenceapp.com/)| Simple and easy to use network monitor and firewall for Mac.|[Website](https://radiosilenceapp.com/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[LuLu](https://objective-see.com/products/lulu.html)| LuLu is the free, open-source macOS firewall that aims to block unknown outgoing connections, unless explicitly approved by the user.|[Website](https://objective-see.com/products/lulu.html)|![Free](symbols/free.svg "Free")|![Open-Source](symbols/closed.svg "Closed-Source")|
+|[Scudo](https://www.murusfirewall.com/scudo/)| Hybrid firewall for macOS|[Website](https://www.murusfirewall.com/scudo/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[Murus](https://www.murusfirewall.com/murus/)| macOS Firewall Unchained|[Website](https://www.murusfirewall.com/murus/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[Vallum](https://www.vallumfirewall.com/)| macOS Application Firewall|[Website](https://www.vallumfirewall.com/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 ## Malware protection
 | Name ⇵ | Description ⇵ | Get it ⇵ | ⇵ | ⇵ |
@@ -49,3 +52,5 @@
 |[What's your Sign?](https://objective-see.com/products/whatsyoursign.html)| Simply right-, or control-click on any file to display its cryptographic signing information!|[Website](https://objective-see.com/products/whatsyoursign.html)|![Free](symbols/free.svg "Free")|![Open-Source](symbols/open.svg "Open-Source")|
 |[Suspicious-Package](https://www.mothersruin.com/software/SuspiciousPackage/)| Application for Inspecting macOS Installer Packages.|[Website](https://www.mothersruin.com/software/SuspiciousPackage/)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Sandkorn](https://www.peterborgapps.com/sandkorn/)| See what apps are sandboxed and their entitlements.|[AppStore](https://apps.apple.com/app/sandkorn/id1377973524?ls=1&mt=12)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+
+

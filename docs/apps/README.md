@@ -3,6 +3,7 @@
 | Icon                                                    | Description   |
 |:-------------------------------------------------------:|:--------------|
 |![](symbols/paid.svg "Paid")                             | Paid          |
+|![](symbols/paid-inapp.svg "Paid In-app")                | Paid + In-app |
 |![](symbols/freemium.svg "Freemium")                     | Freemium      |
 |![](symbols/subscription.svg "Subscription")             | Subscription  |
 |![](symbols/ad.svg "Advertising")                        | Advertising   |

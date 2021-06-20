@@ -14,4 +14,4 @@
 | Name ⇵ | Description ⇵ | Get it ⇵ | ⇵ | ⇵ |
 |:-------|:--------------|:--------:|:-:|:-:|
 |[ASCIInema](https://asciinema.org/)| Lightweight, purely text-based terminal screen recording and easy to share sessions.|[Website](https://asciinema.org/docs/getting-started)|![Free](symbols/free.svg "Free")|![Open-Source](symbols/open.svg "Open-Source")|
-
+|[ShellHistory](https://loshadki.app/shellhistory/)| Backup, sync and organize your shell history|[AppStore](https://apps.apple.com/app/shellhistory/id1564015476)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|

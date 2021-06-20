@@ -13,12 +13,12 @@
 |:-------|:--------------|:--------:|:-:|:-:|
 |[Farrago](https://rogueamoeba.com/farrago/)| Easy to use Soundboard with MIDI support. |[Website](https://rogueamoeba.com/farrago/buy.php)|![Freemium](symbols/freemium.svg "Freemium")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[MainStage](https://www.apple.com/mainstage/)| Transform your mac into a live performance rig. |[AppStore](https://itunes.apple.com/us/app/mainstage-3/id634159523?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[MultiStream Studio](https://alexdenk.eu/mywork/multistreamstudio.html)| Broadcast to multiple services|[AppStore](https://apps.apple.com/app/multistream-studio/id1553738799)|![Freemium](symbols/freemium.svg "Freemium")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 
 ## Music
 | Name ⇵ | Description ⇵ | Get it ⇵ | ⇵ | ⇵ |
 |:-------|:--------------|:--------:|:-:|:-:|
-|[AutoMute](https://github.com/yonilevy/automute)| App that mutes sound on headphones disconnect / awake from sleep.|[AppStore](https://apps.apple.com/us/app/automute-preventing-awkward-situations/id1118136179)|![Paid](symbols/paid.svg "Paid")|![Open-Source](symbols/open.svg "Open-Source")|
 |[BitPerfect](http://bitperfectsound.blogspot.com)| BitPerfect is a music player made for audiophile that works in conjunction with iTunes.|[AppStore](https://apps.apple.com/app/bitperfect/id455545700)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[MiniPlay](https://daftlogicstudio.com/miniplay/)| Shows currently playing music in your favorite music app, integrates with Notification Center. |[AppStore](https://itunes.apple.com/us/app/miniplay-notification-center/id936243210?mt=12)|![Freemium](symbols/freemium.svg "Freemium")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Musique](https://flavio.tordini.org/musique)| Uncluttered music player that focus on your music library experience.|[AppStore](https://apps.apple.com/app/musique/id474190659?ls=1&mt=12)|![Free](symbols/free.svg "Free")|![Open-Source](symbols/open.svg "Open-Source")|
@@ -34,6 +34,8 @@
 |[Broadcasts](https://www.highcaffeinecontent.com/)| Listen to streaming internet radio in an ultra-simple, single-purpose app.|[AppStore](https://apps.apple.com/app/broadcasts/id1469995354)|![Freemium](symbols/freemium.svg "Freemium")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Mp3tag](https://mp3tag.app/)| The universal tag editor, powerful and easy-to-use tool to edit metadata of audio files.|[AppStore](https://apps.apple.com/app/apple-store/id1532597159?mt=8)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Mick Tagger](https://micktagger.app/)| Music Playlist Organizer for Spotify|[AppStore](https://apps.apple.com/app/mick-tagger/id1490366427)|![Freemium](symbols/freemium.svg "Freemium")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[Vinyls](https://www.pnguin.app/vinyls)| A basic, but beautiful music player|[AppStore](https://apps.apple.com/app/id1556054655)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[MusicHarbor](https://marcosatanaka.com/)| Track new music and follow your favorite artists and record labels|[AppStore](https://apps.apple.com/app/musicharbor-track-new-music/id1440405750)|![Freemium](symbols/freemium.svg "Freemium")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 See [Video](video) section for multimedia players
 
@@ -51,6 +53,8 @@ See [Video](video) section for multimedia players
 |[Scrobbles for Last.fm](https://sascha-simon.com)| Brings the music network Last.fm to your Mac! The app offers both Last.fm statistics and iTunes scrobbling.|[AppStore](https://apps.apple.com/app/scrobbles-for-last-fm/id1344679160?mt=12)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[waveSDR](http://www.getoffmyhack.com/waveSDR/)| A macOS native desktop Software Defined Radio application using the RTL-SDR USB device.|[Website](http://www.getoffmyhack.com/waveSDR/)|![Free](symbols/free.svg "Free")|![Open-Source](symbols/open.svg "Open-Source")|
 |[Breakaway](https://frozencrate.com/breakaway)| Automatically pause your music when unplugging headphones|[AppStore](https://apps.apple.com/app/breakaway-3/id1527622417)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[AutoMute](https://github.com/yonilevy/automute)| App that mutes sound on headphones disconnect / awake from sleep.|[AppStore](https://apps.apple.com/us/app/automute-preventing-awkward-situations/id1118136179)|![Paid](symbols/paid.svg "Paid")|![Open-Source](symbols/open.svg "Open-Source")|
+
 
 ##  Podcasting
 | Name ⇵ | Description ⇵ | Get it ⇵ | ⇵ | ⇵ |
@@ -78,6 +82,9 @@ See [Video](video) section for multimedia players
 |[OceanAudio](https://www.ocenaudio.com/en/startpage)| Easy and fast audio editor|[Website](https://www.ocenaudio.com/en/startpage)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Fluctus](https://www.loudlab-app.com/fluctus-app)| Audio Editor for both the Newcomer and the Expert.|[Website](https://www.loudlab-app.com/fluctus-app)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Backtrack](https://backtrack.team)| Local audio recorder that lets you save audio your mic heard in the past.|[AppStore](https://apps.apple.com/app/backtrack-record-past-audio/id1477089520?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[Recordia](https://sindresorhus.com/recordia)| Simple audio recorder|[AppStore](https://apps.apple.com/app/id1529006487)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[iReal Pro](https://www.irealpro.com/)| Simulates real-sounding band that can accompany you as you practice. Create and collect chord charts.|[AppStore](https://apps.apple.com/app/ireal-pro/id409035833)|![Paid-Inapp](symbols/paid-inapp.svg "Paid In-app")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+
 
 
 ## Volume controls / EQ
@@ -88,3 +95,7 @@ See [Video](video) section for multimedia players
 |[Silenz](https://silenzapp.com/)| Reduce surrounding distractions for headphone use.|[AppStore](https://apps.apple.com/us/app/silenz/id1126098076?mt=12&at=1010lLeR&ct=silenzapp-lp)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[SoundControl](https://staticz.com/soundcontrol/)| Advanced audio controls with per-app volume, EQ, balance, and audio routing.|[Website](https://staticz.com/soundcontrol/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[SoundSource](https://rogueamoeba.com/soundsource/)| Advanced audio control on a per-app basis for both volume and output device.|[Website](https://rogueamoeba.com/soundsource/)|![Freemium](symbols/freemium.svg "Freemium")|![Closed-Source"](symbols/closed.svg "Closed-Source")|
+|[Hearing Aid](https://alexdenk.eu/mywork/hearingaid.html)| Environmental sound amplifier|[AppStore](https://apps.apple.com/app/id1530667786)|![Freemium](symbols/freemium.svg "Freemium")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[Balance Lock](https://www.tunabellysoftware.com/balance_lock/)| Fix audio balance drift|[AppStore](https://apps.apple.com/app/balance-lock/id1019371109?mt=12)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+
+

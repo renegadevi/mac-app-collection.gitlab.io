@@ -9,6 +9,7 @@
 |[Debit & Credit](https://debitandcredit.app/)| Personal Finance Manager|[AppStore](https://apps.apple.com/app/debit-credit-personal-finance/id882637653?mt=12)|![Freemium](symbols/freemium.svg "Freemium")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Walletry](https://walletry.fantazia.app)| Track Your Daily Expenses|[AppStore](https://apps.apple.com/app/walletry/id1511250212)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Moneyboard](https://www.moneyboardapp.com/)| Budget Planner, Spending Tracker, Money Saving.|[AppStore](https://apps.apple.com/app/id1519053867)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[iFinance](https://www.syniumsoftware.com/ifinance)| Keep track of your income and spending|[Website](https://www.syniumsoftware.com/ifinance)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 ## Calendar and Time
 | Name ⇵ | Description ⇵ | Get it ⇵ | ⇵ | ⇵ |
@@ -22,10 +23,11 @@
 |[InstaCal](http://instacalapp.com/)| InstaCal is an affordable and powerful Mac calendar app that puts all your events and reminders in your Mac menu bar.|[AppStore](https://apps.apple.com/us/app/instacal-menu-bar-calendar/id1247292524?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[MonthlyCal](https://doublerew.net/os-x/monthlycal/)| A colorful calendar widget|[AppStore](https://apps.apple.com/us/app/monthlycal/id935250717?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Blotter](https://www.wireload.net/products/blotter/)| Present your Calendar events and reminders right on your desktop.|[AppStore](https://apps.apple.com/us/app/blotter/id406580224?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
-|[TheClock](https://www.seense.com/the_clock/)| The Best World Clock|[AppStore](https://apps.apple.com/app/the-clock/id488764545?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[The Clock](https://www.seense.com/the_clock/)| The Best World Clock|[AppStore](https://apps.apple.com/app/the-clock/id488764545?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Class Timetable](https://classtimetable.app)| Keep track of classes and add events to your week's schedule with ease.|[AppStore](https://apps.apple.com/app/class-timetable-schedule-app/id425121147)|![Freemium](symbols/freemium.svg "Freemium")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Just Calendar](http://kuzmenko.info/justcalendar/)| Super simple calendar widgets|[AppStore](https://apps.apple.com/app/just-calendar/id934523970)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[UTC Time](https://sindresorhus.com/utc-time)| Show time in menu bar & widget|[AppStore](https://apps.apple.com/app/id1538245904)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[SigmaPlanner](https://apps.apple.com/developer/shao-chi-liang/id1106938041)| Companion app for your academics that will help you track your classes and tasks.|[AppStore](https://apps.apple.com/app/sigma-planner/id1106938042)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 
 ## Calculators
@@ -84,6 +86,7 @@
 |[PathFinder](https://cocoatech.com/#/)| Finder manager for MacOS since 2001|[Website](https://cocoatech.com/#/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[XtraFinder](https://www.trankynam.com/xtrafinder/)| Tabs, Dual Panel, and numerous features for Mac |[Website](https://www.trankynam.com/xtrafinder/)|![Freemium](symbols/freemium.svg "Freemium")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Commander One](https://mac.eltima.com/file-manager.html)| Free dual pane file manager for Mac|[Website](https://mac.eltima.com/file-manager.html)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[QSpace](https://qspace.awehunt.com/)| A better finder alternative with multi-view|[AppStore](https://apps.apple.com/app/qspace/id1469774098)|![Paid-Inapp](symbols/paid-inapp.svg "Paid In-app")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 
 ## Graph / Diagram
@@ -142,6 +145,7 @@
 |[PDFExplode](https://www.onekerato.com/pdfexplode.html)| Explode your large PDF into many PDFs. Extract pages corresponding to any Table of Contents (TOC) entry in your PDF.|[AppStore](https://apps.apple.com/us/app/pdfexplode/id483327629?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[PDFpenPro](https://smilesoftware.com/pdfpenpro/)| Powerful PDF Editing On Your Mac|[AppStore](https://apps.apple.com/us/app/pdfpenpro-12/id1507044690?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[PDF Toolkit +](https://apps.apple.com/us/app/pdf-toolkit/id545164971?mt=12)| Manipulate PDF files: merging files, split file into smaller files, extracting pages, extracting images, compressing entire files.|[AppStore](https://apps.apple.com/us/app/pdf-toolkit/id545164971?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[Highlights PDF Notes](https://highlightsapp.net/)| PDF reader optimized for research. Extract annotations, images, tables and citations and turn them into powerful notes you can export anywhere.|[AppStore](https://apps.apple.com/app/highlights-export-pdf-notes/id1498912833)|![Freemium](symbols/freemium.svg "Freemium")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 
 ## Time management / Tracking
@@ -162,6 +166,8 @@
 |[Flow](https://flowapp.info/)| Simple Focus & Pomodoro Timer|[AppStore](https://apps.apple.com/app/flow-pausen-und-fokus-timer/id1423210932?mt=12)|![Freemium](symbols/freemium.svg "Freemium")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Daily](https://dailytimetracking.com/)| Accurate work & hour tracker|[AppStore](https://apps.apple.com/app/daily-time-tracking/id686910553?mt=12)|![Freemium](symbols/freemium.svg "Freemium")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Moment](https://apps.apple.com/app/moment-every-day-counts/id1509405283)| App to help you remember the most memorable days of your life.|[AppStore](https://apps.apple.com/app/moment-every-day-counts/id1509405283)|![Freemium](symbols/freemium.svg "Freemium")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[Timer app](https://github.com/michaelvillar/timer-app)| A simple Timer app for Mac|[Github](https://github.com/michaelvillar/timer-app)|![Free](symbols/free.svg "Free")|![Open-Source](symbols/open.svg "Open-Source")|
+|[Horo](https://apps.apple.com/au/developer/matthew-palmer/id669856153)| A timer app for your menu bar. Easy to use, fast, and gives you what you need.|[AppStore](https://apps.apple.com/app/horo-timer-for-menu-bar/id1437226581)|![Freemium](symbols/freemium.svg "Freemium")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 
 ## Todo / GTD / Note-taking
@@ -187,6 +193,7 @@
 |[iMeetingX](https://www.imeetingx.com/en/index.aspx)| Plan and follow-up on tasks from business meetings and workshops|[Website](https://www.imeetingx.com/en/index.aspx)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Planny](https://www.kevinreutter.de/planny-4/)| Plan and complete your tasks|[AppStore](https://apps.apple.com/app/planny-4-smarte-to-do-liste/id1515324201?mt=8)|![Subscription](symbols/subscription.svg "Subscription")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Tasks](https://apps.apple.com/app/tasks-to-do-lists-reminders/id1502903102)| Manage personal & shared tasks|[AppStore](https://apps.apple.com/app/tasks-to-do-lists-reminders/id1502903102)|![Freemium](symbols/freemium.svg "Freemium")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[Memo Sticky Notes](https://memo-app.net/)| Simple and elegant app for quickly jotting down notes on your macOS and iOS.|[AppStore](https://apps.apple.com/app/memo-sticky-notes/id1212409035)|![Freemium](symbols/freemium.svg "Freemium")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 
 ## Tools
@@ -220,7 +227,11 @@
 |[Raycast](https://raycast.com)| Raycast lets you control your tools with a few keystrokes.|[Website](https://raycast.com)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Shareful](https://sindresorhus.com/shareful)| Give the macOS share menu superpowers|[AppStore](https://apps.apple.com/app/id1522267256)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Hook](https://hookproductivity.com/)| Instantly link & access information in your favorite Mac apps! |[Website](https://hookproductivity.com/)|![Freemium](symbols/freemium.svg "Freemium")|![Closed-Source](symbols/closed.svg "Closed-Source")|
-
+|[OwlOCR](https://owlocr.com/)| Grab part of the screen and having any text in that area be instantaneously recognized and copied to clipboard.|[AppStore](https://apps.apple.com/app/id1499181666)|![Freemium](symbols/freemium.svg "Freemium")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[Any Text](https://alexdenk.eu/mywork/anytext.html)| Copy unelectable text & OCR|[AppStore](https://apps.apple.com/app/id1533389741)|![Freemium](symbols/freemium.svg "Freemium")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[Haste](https://www.plastic-software.com/haste/)| Haste accelerates your daily web search|[AppStore](https://apps.apple.com/app/haste-search-the-web-faster/id1175250324)|![Freemium](symbols/freemium.svg "Freemium")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[Sync Checker](http://www.bresink.com/osx/SyncChecker.html)| Diagnostic tool which to check if two folders or disks are perfectly synchronized|[Website](http://www.bresink.com/osx/SyncChecker.html)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[Folder Tiny](https://www.tunabellysoftware.com/folder_tidy/)| Quickly organize messy folders|[AppStore](https://apps.apple.com/app/folder-tidy/id486626129?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 ## Writing
 | Name ⇵ | Description ⇵ | Get it ⇵ | ⇵ | ⇵ |
@@ -250,6 +261,8 @@
 |[aText](https://www.trankynam.com/atext/)| Accelerate your typing anywhere by replacing abbreviations with frequently used defined phrases.|[AppStore](https://apps.apple.com/app/atext/id488566438?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Exporter](http://falcon.star-lord.me/exporter/)| Export notes from Notes app|[AppStore](https://apps.apple.com/app/exporter/id1099120373)|![Freemium](symbols/freemium.svg "Freemium")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Uniview](https://tague.me/uniview/)| Character Inspector makes checking Unicode text a breeze!|[AppStore](https://apps.apple.com/app/uniview-character-inspector/id1562921229)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[Espanso](https://espanso.org/)| Cross-platform Text Expander written in Rust|[Website](https://espanso.org/)|![Free](symbols/free.svg "Free")|![Open-Source](symbols/open.svg "Open-Source")|
+
 
 ## Other
 | Name ⇵ | Description ⇵ | Get it ⇵ | ⇵ | ⇵ |
@@ -259,3 +272,5 @@
 |[SwitchGlass](https://apps.apple.com/us/app/switchglass/id1498546559?mt=12)| SwitchGlass adds a dedicated application switcher to your Mac.|[AppStore](https://apps.apple.com/us/app/switchglass/id1498546559?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[DEVONagent Pro](https://www.devontechnologies.com/apps/devonagent)| Searches multiple sources and frees you from manually sorting the wheat from the chaff.|[AppStore](https://apps.apple.com/us/app/devonagent-pro/id450113817?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Paletro](https://appmakes.io/paletro)| By pressing ⇧⌘P, you have access to all of the functionality of current focused app|[Website](https://appmakes.io/paletro)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[Spelling Alphabet](https://www.tunabellysoftware.com/spelling_alphabet/)| Translate to phonetic alphabet|[AppStore](https://apps.apple.com/app/spelling-alphabet/id499351638)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[QR Factory](https://www.tunabellysoftware.com/qrfactory/)| Professional QR code creator|[AppStore](https://apps.apple.com/app/qr-factory/id550347958?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|

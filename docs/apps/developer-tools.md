@@ -36,6 +36,8 @@
 |[Asset Catalog Tinkerer](https://github.com/insidegui/AssetCatalogTinkerer)| An app that lets you open .car files and browse/extract their images.|[Github](https://github.com/insidegui/AssetCatalogTinkerer)|![Free](symbols/free.svg "Free")|![Open-Source](symbols/open.svg "Open-Source")|
 |[ColorSet](https://imazing.com/downloads)| Utility and framework to manage custom interface colors.|[Github](https://github.com/DigiDNA/ColorSet)|![Free](symbols/free.svg "Free")|![Open-Source](symbols/open.svg "Open-Source")|
 |[Adaptivity](https://hacknicity.com)| Visualize iOS's Size Classes and margins for layout, iPad Slide Over/Split View and Dynamic Type size changes.|[AppStore](https://apps.apple.com/app/adaptivity-a/id1054670022)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[UI Browser](https://pfiddlesoft.com/uibrowser/index.html)| The ultimate assistant for Accessibility and GUI Scripting|[Website](https://pfiddlesoft.com/uibrowser/index.html)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[NSWindow Designer](https://apps.apple.com/us/developer/xiang-he/id1278994432)| Create preset window templates help you design or learn NSWindow faster.|[AppStore](https://apps.apple.com/app/nswindow-designer/id1497499563)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 
 ## Development platforms/services
@@ -113,7 +115,8 @@
 |[create-dmg](https://github.com/sindresorhus/create-dmg)| Create a good-looking DMG for your macOS app in seconds.|[Github](https://github.com/sindresorhus/create-dmg)|![Free](symbols/free.svg "Free")|![Open-Source](symbols/open.svg "Open-Source")|
 |[DMG Canvas](https://www.araelium.com/dmgcanvas)| Easy Professional Disk Image Creation|[Website](https://www.araelium.com/dmgcanvas)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[ScriptToApp](https://apps.apple.com/us/app/scripttoapp-app-maker/id1456096188?mt=12)| One-click to convert the script file into an app that can be run by double-clicking, and displays the result of the running script in the app window.|[AppStore](https://apps.apple.com/us/app/scripttoapp-app-maker/id1456096188?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
-
+|[ExeWrapper](https://strawberrysw.com/exewrapper/)| Microsoft Authenticode Signing from Mac.|[Website](https://strawberrysw.com/exewrapper/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[AppWrapper](https://ohanaware.com/appwrapper/)| Post-Build Processor for the macOS|[Website](https://ohanaware.com/appwrapper/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 ## RegEx
 | Name ⇵ | Description ⇵ | Get it ⇵ | ⇵ | ⇵ |
@@ -133,7 +136,7 @@
 |:-------|:--------------|:--------:|:-:|:-:|
 |[SnippetsLab](https://www.renfei.org/snippets-lab/)| A full-featured, professional code snippets manager. |[AppStore](https://itunes.apple.com/us/app/snippetslab/id1006087419)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Snippit](https://apps.apple.com/app/snippit/id1484781782?mt=12)| Create & Edit Snippets in Objective-C, Swift, Python, Javascript and dozens more!|[AppStore](https://apps.apple.com/app/snippit/id1484781782?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
-
+|[Snipper App](https://snipper.app/)| Your code snippets manager|[AppStore](https://apps.apple.com/app/snipperapp-2/id1469182443)|![Freemium](symbols/freemium.svg "Freemium")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 ## Testing
 | Name ⇵ | Description ⇵ | Get it ⇵ | ⇵ | ⇵ |
@@ -231,3 +234,5 @@
 |[Knuff](https://github.com/KnuffApp/Knuff)| The debug application for Apple Push Notification Service (APNs).|[Github](https://github.com/KnuffApp/Knuff)|![Free](symbols/free.svg "Free")|![Open-Source](symbols/open.svg "Open-Source")|
 |[DevUtils app](https://devutils.app)| Offline Toolbox for Developers|[Website](https://devutils.app)|![Free](symbols/free.svg "Free")|![Open-Source](symbols/open.svg "Open-Source")|
 |[Pasteboard Viewer](https://sindresorhus.com/pasteboard-viewer)| Inspect the system pasteboards|[AppStore](https://apps.apple.com/app/pasteboard-viewer/id1499215709)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[Ducky](https://apps.apple.com/developer/hongxu-zhu/id576226204)| Ducky is a document-based app that helps you infer models from JSON.|[AppStore](https://apps.apple.com/app/ducky-model-editor/id1525505933)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+

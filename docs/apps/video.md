@@ -34,7 +34,7 @@
 |[iMovie](https://www.apple.com/imovie/)| Streamlined easy to use movie editor.|[AppStore](https://apps.apple.com/us/app/imovie/id408981434?mt=12)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Mitti](https://imimot.com/mitti/)| Easy to use and powerful video cue software for macOS|[Website](https://imimot.com/mitti/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[GlueMotion](https://neededapps.com/gluemotion/)| Batch edit, deflicker and assemble sequences of images into time-lapse movies.|[AppStore](https://apps.apple.com/app/gluemotion/id1396851118)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
-
+|[ReCut](https://getrecut.com/)| Automatically edits your videos by cutting out silence.|[Website](https://getrecut.com/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 ## Tools
 | Name ⇵ | Description ⇵ | Get it ⇵ | ⇵ | ⇵ |
@@ -43,3 +43,5 @@
 |[Pixel Perfect LED](https://reddotlogics.com/product/pixel-perfect-led-single-license/)| A utility to generate pixel map for displays for events.|[Website](https://reddotlogics.com/product/pixel-perfect-led-single-license/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Helium](https://heliumfloats.com/)| Helium is a floating browser window that allows you to watch media while you work.|[AppStore](https://apps.apple.com/us/app/helium/id1054607607?ls=1&mt=12)|![Free](symbols/free.svg "Free")|![Open-Source](symbols/open.svg "Open-Source")|
 |[Subler](https://subler.org)| App created to mux and tag mp4 files.|[Website](https://subler.org)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[VideoScan](https://neededapps.com/videoscan/)| Reveal hidden video data|[AppStore](https://apps.apple.com/app/videoscan/id1465293304?mt=12)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[SnapMotion](https://neededapps.com/snapmotion/)| Extract images from videos|[AppStore](https://apps.apple.com/app/snapmotion/id1024350410?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|

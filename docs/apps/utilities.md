@@ -9,6 +9,7 @@
 |[Archiver](https://archiverapp.com/)| Easy to use archiver.|[Website](https://archiverapp.com/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[WinZip](https://www.winzip.com/mac/en/)| Zip and unzip files instantly|[Website](https://www.winzip.com/mac/en/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Archive Mounter](https://github.com/ivoronin/ArchiveMounter)| Mount archive files (zip/rar) as disk images.|[Github](https://github.com/ivoronin/ArchiveMounter)|![Free](symbols/free.svg "Free")|![Open-Source](symbols/open.svg "Open-Source")|
+|[Easy Unarchiver](https://apps.apple.com/developer/linfeng-li/id1186547508)| Extract files/folders from archived documents, browse documents in archive and archive files/folders.|[AppStore](https://apps.apple.com/app/easy-unarchiver/id1254826913)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 
 ## Dark mode / Light mode
@@ -45,6 +46,7 @@
 |[Clocker](https://abhishekbanthia.com/clocker/)| Clocker is designed to help you keep track of your friends and colleagues in different time zones.|[AppStore](https://apps.apple.com/us/app/clocker-menubar-world-clock/id1056643111?ls=1&mt=12)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Jettison](https://stclairsoft.com/Jettison/)| Eliminates the hassle of ejecting external drives before you put your MacBook to sleep.|[Website](https://stclairsoft.com/Jettison/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Ejectify](https://ejectify.app/)| Automatically mounts and unmounts external disks.|[Website](https://ejectify.app/)|![Paid](symbols/paid.svg "Paid")|![Open-Source](symbols/open.svg "Open-Source")|
+|[Barbee](https://apps.apple.com/us/developer/xiang-he/id1278994432)| Take control of your menu bar, hide menu bar items|[AppStore](https://apps.apple.com/app/barbee-hide-menu-bar-items/id1548711022)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 
 ## Touch bar
@@ -58,7 +60,7 @@
 |[Hide My Bar](https://hidemybar.clemstation.com/)| A macOS app to turn off the Touch Bar at will|[Website](https://hidemybar.clemstation.com)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[NoiseBuddy](https://github.com/insidegui/NoiseBuddy)| Change noise cancelling settings on your AirPods Pro or Beats Solo Pro directly from the Touch Bar.|[Github](https://github.com/insidegui/NoiseBuddy)|![Free](symbols/free.svg "Free")|![Open-Source](symbols/open.svg "Open-Source")|
 |[Pock](https://pock.dev)| Widgets manager for MacBook's Touch Bar|[Website](https://pock.dev)|![Free](symbols/free.svg "Free")|![Open-Source](symbols/open.svg "Open-Source")|
-
+|[App Pier](https://www.zaferarican.com/app-pier)| Touch Dock and Launcher|[AppStore](https://apps.apple.com/app/app-pier/id1179807827)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 ## Virtualization
 | Name ⇵ | Description ⇵ | Get it ⇵ | ⇵ | ⇵ |
@@ -73,3 +75,4 @@
 |[Burn](https://burn-osx.sourceforge.io/)| Simple but advanced CD and DVD curner for macOS.|[Website](https://burn-osx.sourceforge.io/)|![Free](symbols/free.svg "Free")|![Open-Source](symbols/open.svg "Open-Source")|
 |[What's Open](https://apps.tempel.org/WhatsOpen/index.php)| A simple utility for MacOSX which lists the open files on a system and allows the user to kill the process that has them open.|[Website](https://apps.tempel.org/WhatsOpen/index.php)|![Free](symbols/free.svg "Free")|![Open-Source](symbols/open.svg "Open-Source")|
 |[ScreenSaver Start](https://sweetpproductions.com/)| Quickly start your screensaver by configuring a global hotkey|[AppStore](https://apps.apple.com/app/screensaver-start/id497280823)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[File Peek](https://www.tunabellysoftware.com/file_peek/)| Hex Editor, Hashes & File Info|[AppStore](https://apps.apple.com/app/file-peek-hex-editor-hashes/id1194883472)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|

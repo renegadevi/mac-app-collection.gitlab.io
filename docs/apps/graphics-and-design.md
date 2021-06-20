@@ -18,7 +18,8 @@
 |[Paint X](https://apps.apple.com/app/paint-x-paint-draw-and-edit/id668502966?mt=12)| Classic simple painting application inspired by MS Paint.|[AppStore](https://apps.apple.com/app/paint-x-paint-draw-and-edit/id668502966?mt=12)|![Freemium](symbols/freemium.svg "Freemium")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[HyperDither](https://www.tinrocket.com/content/hyperdither/)| App that uses an color reduction (dithering) routine to turn color or grayscale images into 1-bit|[AppStore](https://apps.apple.com/app/hyperdither/id1110997147)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Darkroom](https://darkroom.co)| Premium photo & video editor that is easy to use by casual photographers, yet powerful enough for the pros.|[AppStore](https://apps.apple.com/app/darkroom-photo-video-editor/id953286746)|![Freemium](symbols/freemium.svg "Freemium")|![Closed-Source](symbols/closed.svg "Closed-Source")|
-
+|[PhotosRevive](https://neededapps.com/photosrevive/)| Automatically colorizes your old black and white photos|[AppStore](https://apps.apple.com/app/photosrevive/id1458125462?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[Capture One](https://www.captureone.com/)| Powerful Photo editing software|[Website](https://www.captureone.com/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 ## Color pickers
 | Name ⇵ | Description ⇵ | Get it ⇵ | ⇵ | ⇵ |
@@ -40,6 +41,7 @@
 |[RightFont](https://rightfontapp.com/)| Professional font manager app for Mac.|[Website](https://rightfontapp.com/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Typeface](https://typefaceapp.com/)| Your all new favorite font app.|[AppStore](https://geo.itunes.apple.com/us/app/typeface/id1062679359?mt=12&app=apps)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Glyphs](https://glyphsapp.com/)| Create Stunning Fonts on Your Mac with Professional Tools.|[Website](https://glyphsapp.com/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[FontLab](https://www.fontlab.com/)| Modern, professional font editor, crafted for type designers and font geeks.|[Website](https://www.fontlab.com/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 
 
 ## Gif
@@ -82,6 +84,9 @@
 |[EXIF](https://apps.apple.com/app/exif-view-and-edit-meta-data/id1487918941?mt=12)| View and Edit Meta Data|[AppStore](https://apps.apple.com/app/exif-view-and-edit-meta-data/id1487918941?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Pixea](https://www.imagetasks.com/pixea/)| Image viewer for macOS with a nice minimal modern user interface|[AppStore](https://apps.apple.com/app/pixea/id1507782672?ls=1)|![Free](symbols/free.svg "Free")|![Closed-Source](symbols/closed.svg "Closed-Source")|
 |[Entity Pro](https://ixeau.com/entity-pro/)| Unicode Glyph & Emoji Finder|[AppStore](https://apps.apple.com/app/entity-pro/id1503988785?mt=12)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[MetaImage](https://neededapps.com/metaimage/)| Read, write and edit images metadata.|[AppStore](https://apps.apple.com/app/metaimage/id1397099749)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+|[Eagle](https://eagle.cool/)| Organize all your reference images in one place|[Website](https://eagle.cool/)|![Paid](symbols/paid.svg "Paid")|![Closed-Source](symbols/closed.svg "Closed-Source")|
+
 
 ## Vector
 | Name ⇵ | Description ⇵ | Get it ⇵ | ⇵ | ⇵ |
